@@ -1,0 +1,252 @@
+[
+  {
+    "sha256": "01a5673b6ab93e2ba5cf78696a37c145009b962e77062ae0f327aaa7ae11380f",
+    "coordinate_key": "spatial",
+    "spatial_observations": 90304,
+    "source_Fib_observations": 46473,
+    "double_positive_Fib": 149,
+    "section_id": "2mph",
+    "species": "Human",
+    "filename": "2mph_A03699G6.SCT_Annotated.h5ad",
+    "genes": [
+      "SOX9",
+      "COL1A1"
+    ],
+    "roi": null,
+    "display_section": "2 mph",
+    "anchor": {
+      "origin_line": [
+        [
+          -6671.432500441237,
+          16285.641723148248
+        ],
+        [
+          -6378.190300106018,
+          8590.242396771984
+        ]
+      ],
+      "analysis_mode": "scar_to_scarless",
+      "target_direction": "right_is_scarless"
+    },
+    "rotation_degrees": 45.0
+  },
+  {
+    "sha256": "216673f294b9e2d00d951a5592fbd74a30c127fd2c16e6edeeade548158ff929",
+    "coordinate_key": "spatial",
+    "spatial_observations": 47629,
+    "source_Fib_observations": 27851,
+    "double_positive_Fib": 74,
+    "section_id": "6mph_p1",
+    "species": "Human",
+    "filename": "6mph_A02988A2.SCT_part1_Annotated.h5ad",
+    "genes": [
+      "SOX9",
+      "COL1A1"
+    ],
+    "roi": null,
+    "display_section": "6 mph",
+    "anchor": {
+      "origin_line": [
+        [
+          5764.9629390681,
+          7231.540476190475
+        ],
+        [
+          5821.276630824374,
+          1857.5642857142852
+        ]
+      ],
+      "analysis_mode": "scar_to_scarless",
+      "target_direction": "right_is_scarless"
+    },
+    "rotation_degrees": 0.0
+  },
+  {
+    "sha256": "ab8aa6860ea55f42d46a7fa37f1a8f66c265ad89b8e5cc5e542325b765e2220e",
+    "coordinate_key": "spatial",
+    "spatial_observations": 41362,
+    "source_Fib_observations": 24847,
+    "double_positive_Fib": 78,
+    "section_id": "6mph_p2",
+    "species": "Human",
+    "filename": "6mph_A02988A2.SCT_part2_Annotated.h5ad",
+    "genes": [
+      "SOX9",
+      "COL1A1"
+    ],
+    "roi": null,
+    "display_section": "6 mph",
+    "anchor": {
+      "origin_line": [
+        [
+          9154.654605775497,
+          13829.104099460976
+        ],
+        [
+          9350.195967782667,
+          9251.827908984786
+        ]
+      ],
+      "analysis_mode": "scar_to_scarless",
+      "target_direction": "right_is_scarless"
+    },
+    "rotation_degrees": 0.0
+  },
+  {
+    "sha256": "aaa2639497e762293a7905725cc6b948e4b6d72f50f619fb0ae7ebffd0667757",
+    "coordinate_key": "spatial",
+    "spatial_observations": 106010,
+    "source_Fib_observations": 52604,
+    "double_positive_Fib": 128,
+    "section_id": "9mph",
+    "species": "Human",
+    "filename": "9mph_A03091C5.SCT_Annotated.h5ad",
+    "genes": [
+      "SOX9",
+      "COL1A1"
+    ],
+    "roi": null,
+    "display_section": "9 mph",
+    "anchor": {
+      "origin_line": [
+        [
+          11782.662795698923,
+          12700.027777777776
+        ],
+        [
+          11908.389247311827,
+          549.75
+        ]
+      ],
+      "analysis_mode": "scar_to_scarless",
+      "target_direction": "right_is_scarless"
+    },
+    "rotation_degrees": 0.0
+  },
+  {
+    "sha256": "7af72df5981150b659530f63ccd0e4e00eaec4dddfbb7f231c40219929ab9fb8",
+    "coordinate_key": "X_rot_spatial",
+    "spatial_observations": 40282,
+    "source_Fib_observations": 9714,
+    "double_positive_Fib": 52,
+    "section_id": "Adult_1d_C01830C1D1",
+    "species": "Rat",
+    "filename": "Adult_1d_C01830C1D1_Annotated_Spatial.h5ad",
+    "genes": [
+      "Sox9",
+      "Col1a1"
+    ],
+    "roi": [
+      -177.96000000000004,
+      5369.960000000001,
+      -7445.960000000001,
+      -1898.0399999999995
+    ],
+    "display_section": "Adult 1 dpw"
+  },
+  {
+    "sha256": "14ecb4e1cfc4adb8cf64a01e4c894449a6024837c7bb49612cabe2c9f2f452a6",
+    "coordinate_key": "X_rot_spatial",
+    "spatial_observations": 73386,
+    "source_Fib_observations": 19473,
+    "double_positive_Fib": 304,
+    "section_id": "Adult_5d1_C01830E6F6",
+    "species": "Rat",
+    "filename": "Adult_5d1_C01830E6F6_Annotated_Spatial.h5ad",
+    "genes": [
+      "Sox9",
+      "Col1a1"
+    ],
+    "roi": [
+      -18475.22924031224,
+      -14021.015657646944,
+      -3707.45373010816,
+      746.7598525571352
+    ],
+    "display_section": "Adult 5 dpw"
+  },
+  {
+    "sha256": "3d9102e8856a5451d3aec48c46df2981b4efb600a7776dcd405d41bc9ec1594e",
+    "coordinate_key": "X_rot_spatial",
+    "spatial_observations": 58368,
+    "source_Fib_observations": 16207,
+    "double_positive_Fib": 160,
+    "section_id": "Adult_19d_B03424F4",
+    "species": "Rat",
+    "filename": "Adult_19d_B03424F4_Annotated_Spatial.h5ad",
+    "genes": [
+      "Sox9",
+      "Col1a1"
+    ],
+    "roi": [
+      -15751.680363339015,
+      -13061.50675645042,
+      2587.84111351528,
+      5278.014720403877
+    ],
+    "display_section": "Adult 19 dpw"
+  },
+  {
+    "sha256": "ed76376195b35187b8a33765e7d0a669bc63b05a67d76b58c7b33adf7aadae6c",
+    "coordinate_key": "X_rot_spatial",
+    "spatial_observations": 6690,
+    "source_Fib_observations": 4238,
+    "double_positive_Fib": 24,
+    "section_id": "E16.5_6H_C02938E1",
+    "species": "Rat",
+    "filename": "E16.5_6H_C02938E1_Annotated_Spatial.h5ad",
+    "genes": [
+      "Sox9",
+      "Col1a1"
+    ],
+    "roi": [
+      6724.741052575928,
+      9848.427684874374,
+      859.9974094147021,
+      3983.684041713148
+    ],
+    "display_section": "E16.5 6 h"
+  },
+  {
+    "sha256": "35e1571c1837a859674bbaad61f67bbf2af6bb4588dd3b7a1a4c725c86873deb",
+    "coordinate_key": "X_rot_spatial",
+    "spatial_observations": 7563,
+    "source_Fib_observations": 2607,
+    "double_positive_Fib": 30,
+    "section_id": "E16.5_3D_D03056D5",
+    "species": "Rat",
+    "filename": "E16.5_3D_D03056D5_Annotated_Spatial.h5ad",
+    "genes": [
+      "Sox9",
+      "Col1a1"
+    ],
+    "roi": [
+      -6138.903458335667,
+      -4703.38307792336,
+      -53.74685294649316,
+      1381.7735274658137
+    ],
+    "display_section": "E16.5 3 dpw"
+  },
+  {
+    "sha256": "38a6b901378a624e668d126a956b640fd1147103f340a77cb0cc4f85ca5e0255",
+    "coordinate_key": "X_rot_spatial",
+    "spatial_observations": 6067,
+    "source_Fib_observations": 2537,
+    "double_positive_Fib": 28,
+    "section_id": "E16.5_6D_C02938F4",
+    "species": "Rat",
+    "filename": "E16.5_6D_C02938F4_Annotated_Spatial.h5ad",
+    "genes": [
+      "Sox9",
+      "Col1a1"
+    ],
+    "roi": [
+      2260.6767068127256,
+      3994.901400732756,
+      12030.973427103492,
+      13765.198121023524
+    ],
+    "display_section": "E16.5 6 dpw"
+  }
+]

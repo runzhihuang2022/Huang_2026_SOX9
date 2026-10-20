@@ -1,0 +1,151 @@
+{
+  "status": "executed_verified",
+  "scope": "Aggregate numerical replay and documented frozen-display rendering; NOT raw-data-to-paper verification",
+  "task": "full-figure2",
+  "checks": [
+    {
+      "check": "full_Figure2_cell_gene_shape",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "full_Figure2_cluster_count",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "full_Figure2_highest_C12",
+      "passed": true
+    },
+    {
+      "check": "full_Figure2_numeric_geometry_hash",
+      "passed": true
+    },
+    {
+      "check": "full_Figure2_mean_expression",
+      "passed": true,
+      "rtol": 1e-07,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_Figure2_percent_expressed",
+      "passed": true,
+      "rtol": 1e-07,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_Figure2_n_cells",
+      "passed": true,
+      "rtol": 1e-07,
+      "atol": 1e-10
+    }
+  ],
+  "errors": [],
+  "figure_checks": [
+    {
+      "asset": "full_Figure2_geometry",
+      "original_barcode_table_hash_equal": true,
+      "interpretation": "Anonymous barcode replacement changes this hash; coordinate-array fingerprint is tested separately"
+    }
+  ],
+  "files": [
+    {
+      "path": "figure2_effective_config.json",
+      "sha256": "1a4f1e55b9ed3e23055566def3e34abee847b08d1dbe16c6b4298a8c748eb2cd",
+      "bytes": 1859
+    },
+    {
+      "path": "full_figure2/00_manifest/Figure2_A-E_manifest.json",
+      "sha256": "c4a66d7b94cac9b1e26d60a3df57f1d0ec30a434641d54a597cfa757d85c33c8",
+      "bytes": 1843
+    },
+    {
+      "path": "full_figure2/00_manifest/figure2_config.json",
+      "sha256": "1a4f1e55b9ed3e23055566def3e34abee847b08d1dbe16c6b4298a8c748eb2cd",
+      "bytes": 1859
+    },
+    {
+      "path": "full_figure2/01_input_audit/input_audit.json",
+      "sha256": "dd795d458698880cfc03b0c5b951d53f7e03f40939c93e8a65cfb2f11fb3ed32",
+      "bytes": 1187
+    },
+    {
+      "path": "full_figure2/02_shared_geometry/SOX9_selected19_full_Fib_lineage_umap.tsv.gz",
+      "sha256": "52d8d05d9f6bf58d5860b4624c29c571cc329e80ab779cd45318f599a5e37281",
+      "bytes": 480069
+    },
+    {
+      "path": "full_figure2/04_figures/Figure2_SOX9_selected19_full_Fib_A-E_composition_contrasts_A4.pdf",
+      "sha256": "550c409df15d7b5dc78eff2de1222ff78eec86ee06515417ce5a0ca8b7fbae8f",
+      "bytes": 160751
+    },
+    {
+      "path": "full_figure2/04_figures/Figure2_SOX9_selected19_full_Fib_A-E_composition_contrasts_A4.png",
+      "sha256": "fe119e271417ded9f54d72bdde0e820cb32cfd8dffe7caaaa8c3268d43cc1da8",
+      "bytes": 1551410
+    },
+    {
+      "path": "full_figure2/04_figures/Figure2_SOX9_selected19_full_Fib_A-E_composition_contrasts_A4.svg",
+      "sha256": "dc4b7cbbfca4b535c7ce135af1e21b0479802f779501c7fe0fe70bd57084a8d4",
+      "bytes": 271690
+    },
+    {
+      "path": "full_figure2/05_tables/Figure2D_Scar_vs_normal_P_FDR.tsv",
+      "sha256": "eecd3c2d109aaf191a439fc99e9d1333f3e8e6875be832b4f6cd63f5ee031302",
+      "bytes": 1920
+    },
+    {
+      "path": "full_figure2/05_tables/Figure2_highest_target_cluster_tests_P_FDR.tsv",
+      "sha256": "542874325350162c46e1eb460e52b02453dc12a0de7b95273cd9e7d617b87e9e",
+      "bytes": 1100
+    },
+    {
+      "path": "full_figure2/05_tables/Figure2_marker_allowlist_summary.tsv",
+      "sha256": "cb29af7bfe24f024366a73b0bf4c0e8eb81f653b2bcafc96b1109888cb718cdc",
+      "bytes": 24604
+    },
+    {
+      "path": "full_figure2/05_tables/Figure2_sample_cluster_summary.tsv",
+      "sha256": "3d4289f74c801405666a5e5f2732aff5a0eef54492489f06bfafeb78b5070697",
+      "bytes": 4621
+    },
+    {
+      "path": "full_figure2/05_tables/Figure2_selected_marker_ledger.tsv",
+      "sha256": "ead0b998749e44fd7f645058e8b0c53558d735da96aeb296f54dd6d7ae2d19a0",
+      "bytes": 3481
+    },
+    {
+      "path": "full_figure2/06_html/OPEN_ME_FIRST_SOX9_selected19_full_Fib_Figure2_complete.html",
+      "sha256": "d35de4f6946afafc43f140e4e9b65ea55f2121a965b9c834fe320d52ebdc5bf9",
+      "bytes": 893
+    },
+    {
+      "path": "full_figure2/07_reproduction/run_command.txt",
+      "sha256": "b72f24edb96c702db8d86dc9f6681b11570fee1303d7cc287fc96780309c3e21",
+      "bytes": 246
+    },
+    {
+      "path": "full_figure2/08_code/run_figure2_ae_universal.py",
+      "sha256": "b00dfb638367772a2083cc2fa0f7673d43666a2a81268a27fde2550aa9d2d9e7",
+      "bytes": 29659
+    },
+    {
+      "path": "full_figure2/10_qa/Figure2_A-E_QA.json",
+      "sha256": "9783ac4f5dbd193b762a05b6ad76bbaf2f6991d1f6f0959f84beebbedb999f45",
+      "bytes": 628
+    },
+    {
+      "path": "full_figure2/10_qa/output_index.tsv",
+      "sha256": "97643b306c25795a7c4ad91aff8d866a345da4be1612650f5e4fcb9ad7d6828b",
+      "bytes": 1970
+    }
+  ],
+  "elapsed_seconds": 60.584837198257446,
+  "python": "3.10.20",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "matplotlib": "3.10.9"
+}

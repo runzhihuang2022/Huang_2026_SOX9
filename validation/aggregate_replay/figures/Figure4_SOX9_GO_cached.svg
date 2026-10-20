@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="297.637795pt" height="297.637795pt" viewBox="0 0 297.637795 297.637795" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-16T09:54:51.676601</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 297.637795 
+L 297.637795 297.637795 
+L 297.637795 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 166.677165 241.086614 
+L 282.755906 241.086614 
+L 282.755906 62.503937 
+L 166.677165 62.503937 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 166.677165 232.96922 
+L 272.203293 232.96922 
+L 272.203293 202.970153 
+L 166.677165 202.970153 
+z
+" clip-path="url(#pdf81b203f7)" style="fill: #f4d78a; stroke: #7a6427; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 166.677165 188.852946 
+L 272.203293 188.852946 
+L 272.203293 158.853879 
+L 166.677165 158.853879 
+z
+" clip-path="url(#pdf81b203f7)" style="fill: #f4d78a; stroke: #7a6427; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 166.677165 144.736672 
+L 272.203293 144.736672 
+L 272.203293 114.737605 
+L 166.677165 114.737605 
+z
+" clip-path="url(#pdf81b203f7)" style="fill: #f4d78a; stroke: #7a6427; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 166.677165 100.620398 
+L 272.203293 100.620398 
+L 272.203293 70.621331 
+L 166.677165 70.621331 
+z
+" clip-path="url(#pdf81b203f7)" style="fill: #f4d78a; stroke: #7a6427; stroke-width: 0.55; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mfc365b9037" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfc365b9037" x="166.677165" y="241.086614" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="166.677165" y="253.812864" transform="rotate(-0 166.677165 253.812864)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mfc365b9037" x="204.777853" y="241.086614" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="204.777853" y="253.812864" transform="rotate(-0 204.777853 253.812864)">1</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mfc365b9037" x="242.87854" y="241.086614" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="242.87854" y="253.812864" transform="rotate(-0 242.87854 253.812864)">2</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mfc365b9037" x="280.979227" y="241.086614" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 8px; font-family: 'Arial'; text-anchor: middle" x="280.979227" y="253.812864" transform="rotate(-0 280.979227 253.812864)">3</text>
+     </g>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 9px; font-family: 'Arial'; text-anchor: middle" x="224.716535" y="263.954583" transform="rotate(-0 224.716535 263.954583)">-log10(adjusted P)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path id="m99838a7d9b" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m99838a7d9b" x="166.677165" y="217.969687" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(147.673415 217.174687)">cell</text>
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(111.789665 225.636187)">differentiation</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m99838a7d9b" x="166.677165" y="173.853413" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(104.102165 160.366163)">cellular process</text>
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(121.878415 168.827663)">involved in</text>
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(106.759665 177.289163)">reproduction in</text>
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(117.444665 185.750663)">multicellular</text>
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(126.777165 194.212163)">organism</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m99838a7d9b" x="166.677165" y="129.737139" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(104.985915 124.664514)">central nervous</text>
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(107.212165 133.126014)">system neuron</text>
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(111.789665 141.681264)">differentiation</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m99838a7d9b" x="166.677165" y="85.620865" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(127.225915 84.77899)">germ cell</text>
+      <text style="font-size: 8px; font-family: 'Arial'" transform="translate(113.872165 93.33424)">development</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_9">
+    <path d="M 216.247302 241.086614 
+L 216.247302 62.503937 
+" clip-path="url(#pdf81b203f7)" style="fill: none; stroke-dasharray: 2.1,1.4; stroke-dashoffset: 0; stroke: #777777; stroke-width: 0.7"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 166.677165 241.086614 
+L 166.677165 62.503937 
+" style="fill: none; stroke: #000000; stroke-width: 0.65; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 166.677165 241.086614 
+L 282.755906 241.086614 
+" style="fill: none; stroke: #000000; stroke-width: 0.65; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <path d="M 272.203293 220.833251 
+C 272.962719 220.833251 273.691143 220.531528 274.228138 219.994532 
+C 274.765134 219.457537 275.066857 218.729113 275.066857 217.969687 
+C 275.066857 217.21026 274.765134 216.481836 274.228138 215.944841 
+C 273.691143 215.407846 272.962719 215.106122 272.203293 215.106122 
+C 271.443867 215.106122 270.715442 215.407846 270.178447 215.944841 
+C 269.641452 216.481836 269.339729 217.21026 269.339729 217.969687 
+C 269.339729 218.729113 269.641452 219.457537 270.178447 219.994532 
+C 270.715442 220.531528 271.443867 220.833251 272.203293 220.833251 
+z
+" clip-path="url(#pdf81b203f7)" style="fill: #b8860b; stroke: #ffffff; stroke-width: 0.35"/>
+    <path d="M 272.203293 175.939078 
+C 272.756418 175.939078 273.286963 175.719319 273.678081 175.328201 
+C 274.069199 174.937082 274.288958 174.406538 274.288958 173.853413 
+C 274.288958 173.300288 274.069199 172.769743 273.678081 172.378624 
+C 273.286963 171.987506 272.756418 171.767747 272.203293 171.767747 
+C 271.650168 171.767747 271.119623 171.987506 270.728505 172.378624 
+C 270.337386 172.769743 270.117627 173.300288 270.117627 173.853413 
+C 270.117627 174.406538 270.337386 174.937082 270.728505 175.328201 
+C 271.119623 175.719319 271.650168 175.939078 272.203293 175.939078 
+z
+" clip-path="url(#pdf81b203f7)" style="fill: #b8860b; stroke: #ffffff; stroke-width: 0.35"/>
+    <path d="M 272.203293 131.737139 
+C 272.733699 131.737139 273.242453 131.526406 273.617506 131.151352 
+C 273.99256 130.776298 274.203293 130.267545 274.203293 129.737139 
+C 274.203293 129.206732 273.99256 128.697979 273.617506 128.322925 
+C 273.242453 127.947871 272.733699 127.737139 272.203293 127.737139 
+C 271.672887 127.737139 271.164133 127.947871 270.789079 128.322925 
+C 270.414025 128.697979 270.203293 129.206732 270.203293 129.737139 
+C 270.203293 130.267545 270.414025 130.776298 270.789079 131.151352 
+C 271.164133 131.526406 271.672887 131.737139 272.203293 131.737139 
+z
+" clip-path="url(#pdf81b203f7)" style="fill: #b8860b; stroke: #ffffff; stroke-width: 0.35"/>
+    <path d="M 272.203293 87.70653 
+C 272.756418 87.70653 273.286963 87.486771 273.678081 87.095653 
+C 274.069199 86.704534 274.288958 86.17399 274.288958 85.620865 
+C 274.288958 85.06774 274.069199 84.537195 273.678081 84.146076 
+C 273.286963 83.754958 272.756418 83.535199 272.203293 83.535199 
+C 271.650168 83.535199 271.119623 83.754958 270.728505 84.146076 
+C 270.337386 84.537195 270.117627 85.06774 270.117627 85.620865 
+C 270.117627 86.17399 270.337386 86.704534 270.728505 87.095653 
+C 271.119623 87.486771 271.650168 87.70653 272.203293 87.70653 
+z
+" clip-path="url(#pdf81b203f7)" style="fill: #b8860b; stroke: #ffffff; stroke-width: 0.35"/>
+   </g>
+  </g>
+  <g id="text_10">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'Arial'; text-anchor: middle" x="148.818898" y="17.69701" transform="rotate(-0 148.818898 17.69701)">Fib_ACTA2</text>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 9px; font-family: 'Arial'; text-anchor: middle" x="148.818898" y="31.856556" transform="rotate(-0 148.818898 31.856556)">SOX9 target GO BP</text>
+  </g>
+  <g id="text_12">
+   <text style="font-size: 8px; font-family: 'Arial'; text-anchor: start; fill: #666666" x="166.677165" y="54.961181" transform="rotate(-0 166.677165 54.961181)">Dashed line: FDR=0.05</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdf81b203f7">
+   <rect x="166.677165" y="62.503937" width="116.07874" height="178.582677"/>
+  </clipPath>
+ </defs>
+</svg>

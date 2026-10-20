@@ -1,0 +1,85 @@
+{
+  "input_h5ad": "data/external/selected19_full_QC_Fib_normalized_RNA.h5ad",
+  "output_dir": "outputs/full_figure2",
+  "dataset_id": "SOX9_selected19_full_Fib",
+  "species": "human",
+  "lineage_gate": {
+    "column": "bulk_labels",
+    "include": [
+      "Fibroblast"
+    ],
+    "prefix": []
+  },
+  "sample_key": "public_subject_id",
+  "group_key": "condition_pair",
+  "expression": {
+    "counts_layer": null,
+    "normalized_layer": "source_normalized_RNA",
+    "target_sum": 10000
+  },
+  "embedding": {
+    "use_rep_candidates": [],
+    "n_neighbors": 20,
+    "resolution": 0.55,
+    "seed": 20260917
+  },
+  "markers": {
+    "mandatory": [
+      "SOX9",
+      "PDGFRA",
+      "VIM",
+      "ACTA2"
+    ],
+    "allowlist": [
+      "SOX9",
+      "PDGFRA",
+      "VIM",
+      "ACTA2",
+      "COL1A1",
+      "COL1A2",
+      "COL3A1",
+      "DCN",
+      "LUM",
+      "COL6A1",
+      "COL6A2",
+      "SFRP2",
+      "CTHRC1",
+      "COL11A1",
+      "COMP",
+      "POSTN",
+      "TAGLN",
+      "MYL9",
+      "PI16",
+      "CXCL12",
+      "CXCL14",
+      "APOE",
+      "CCL2",
+      "IL6",
+      "MKI67",
+      "TOP2A",
+      "KRT19",
+      "RGS5"
+    ],
+    "target_gene": "SOX9",
+    "coexpression": [
+      "SOX9",
+      "COL1A1"
+    ],
+    "positive_threshold": 0.0
+  },
+  "panel_mode": "composition_contrasts",
+  "comparisons": [
+    {
+      "name": "Scar_vs_normal",
+      "numerator": "fibrosis",
+      "denominator": "normal"
+    }
+  ],
+  "style": {
+    "font_family": "Arial",
+    "font_min_pt": 8,
+    "font_max_pt": 12,
+    "dpi": 600
+  },
+  "display_title": "Full skin Fib: selected 19 libraries"
+}

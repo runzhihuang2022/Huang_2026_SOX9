@@ -1,0 +1,10 @@
+﻿software,observed_version,evidence
+R,4.4.2,Runtime observation on 14 October 2026; NOT a 2025 original lockfile
+Seurat,5.2.1,Runtime observation on 14 October 2026; NOT a 2025 original lockfile
+SeuratObject,5.0.2,Runtime observation on 14 October 2026; NOT a 2025 original lockfile
+harmony,1.2.3,Runtime observation on 14 October 2026; NOT a 2025 original lockfile
+clusterProfiler,4.14.4,Runtime observation on 14 October 2026; NOT a 2025 original lockfile
+org.Hs.eg.db,3.16.0,Runtime observation on 14 October 2026; NOT a 2025 original lockfile
+enrichplot,1.26.6,Runtime observation on 14 October 2026; NOT a 2025 original lockfile
+uwot,0.2.2,Runtime observation on 14 October 2026; NOT a 2025 original lockfile
+RcppAnnoy,0.0.22,Runtime observation on 14 October 2026; NOT a 2025 original lockfile

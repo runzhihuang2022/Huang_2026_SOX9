@@ -1,0 +1,11 @@
+-r requirements-replay.txt
+anndata==0.11.4
+scanpy==1.11.5
+h5py==3.16.0
+scikit-learn==1.7.2
+numba==0.65.1
+igraph==0.11.9
+leidenalg==0.10.2
+umap-learn==0.5.12
+pynndescent==0.6.0
+requests==2.34.2

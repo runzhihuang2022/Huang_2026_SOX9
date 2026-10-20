@@ -1,0 +1,191 @@
+{
+  "status": "executed_verified",
+  "scope": "Aggregate numerical replay and documented frozen-display rendering; NOT raw-data-to-paper verification",
+  "task": "full-culture",
+  "checks": [
+    {
+      "check": "full_culture_Figure5A_library_state_pseudobulk_log2CPM.tsv_n_cells",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure5A_library_state_pseudobulk_log2CPM.tsv_total_UMI",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure5A_library_state_pseudobulk_log2CPM.tsv_SOX9",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure5A_library_state_pseudobulk_log2CPM.tsv_SCD",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure5A_library_state_pseudobulk_log2CPM.tsv_TFEB",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure5A_library_state_pseudobulk_log2CPM.tsv_CTSB",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure5A_library_state_pseudobulk_log2CPM.tsv_MMP14",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure5A_library_state_pseudobulk_log2CPM.tsv_MRC2",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv_rank",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv_RSS",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv_expression_correlation",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv_P_value_cell_level_descriptive",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv_edge_weight",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    },
+    {
+      "check": "full_culture_Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv_BH_FDR_cell_level_descriptive",
+      "passed": true,
+      "rtol": 1e-08,
+      "atol": 1e-10
+    }
+  ],
+  "errors": [],
+  "figure_checks": [],
+  "files": [
+    {
+      "path": "00_manifest/Figure4H_5A_server_analysis_manifest.json",
+      "sha256": "0e773843d4037c8dcbfe83d2a2edcd07a32acd483cc15ab27fd53b011d1cf64e",
+      "bytes": 2239
+    },
+    {
+      "path": "04_figures/Figure4H_Fib_ACTA2_SOX9_network_GO_A4.pdf",
+      "sha256": "15967e87c65a165483b194d98ce791f20178f36a04a031ff4c23b841bc2c51da",
+      "bytes": 107630
+    },
+    {
+      "path": "04_figures/Figure4H_Fib_ACTA2_SOX9_network_GO_A4.png",
+      "sha256": "debd4b54484c05daedb87de70b0643b05a76e30f49fb8e20255bb4d6c33c4412",
+      "bytes": 867909
+    },
+    {
+      "path": "04_figures/Figure4H_Fib_ACTA2_SOX9_network_GO_A4width.png",
+      "sha256": "85e86d84e91ad8945b638cebc540d913afe50e8811795cba2fa4c3f75471b679",
+      "bytes": 521296
+    },
+    {
+      "path": "04_figures/Figure4H_left_Fib_ACTA2_SOX9_regulon_network_105mm.pdf",
+      "sha256": "e30f9a968983520faa56bc90dd8edea734e0459d935043d2e6cc85d0425f4094",
+      "bytes": 64609
+    },
+    {
+      "path": "04_figures/Figure4H_left_Fib_ACTA2_SOX9_regulon_network_105mm.png",
+      "sha256": "f2ee86b0701ca2b8682a2718bce16f7fc2ac2bbb76c532e6e28acb3a03ed2c25",
+      "bytes": 339188
+    },
+    {
+      "path": "04_figures/Figure4H_right_Fib_ACTA2_SOX9_target_GO_BP_105mm.pdf",
+      "sha256": "2239380feb9f2e6ef15b91922e6703e7f9a8519708e08abe32342a1047b8ce31",
+      "bytes": 39791
+    },
+    {
+      "path": "04_figures/Figure4H_right_Fib_ACTA2_SOX9_target_GO_BP_105mm.png",
+      "sha256": "5c903080eb2df1a621d2395f5b71591ca900642b9e8ab2e786ca28a046195710",
+      "bytes": 184411
+    },
+    {
+      "path": "04_figures/Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width.pdf",
+      "sha256": "e4099c986191f6df840efab78407b0a1997b5e186610d3ced2a8bf4274344b85",
+      "bytes": 77393
+    },
+    {
+      "path": "04_figures/Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width.png",
+      "sha256": "8342d92f30a5d80282f619f8c2681b4ba5aea2857a33517b3b34b34d83e99b54",
+      "bytes": 1122000
+    },
+    {
+      "path": "04_figures/Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width.svg",
+      "sha256": "010ffa378b3116ed4ed42ffcafff243409d7527e77b27675b7d2f2cbdbf2cb97",
+      "bytes": 86765
+    },
+    {
+      "path": "05_tables/Figure4H_displayed_GO_terms.tsv",
+      "sha256": "6cacb6a230854b2ce5a69cb6e312e4e1dc0b0618a67c2c6a961538273281116b",
+      "bytes": 759
+    },
+    {
+      "path": "05_tables/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv",
+      "sha256": "c30263c51c2da90050a43b4fa9988da300546497fc2e8625748e85dc38f1d906",
+      "bytes": 5032
+    },
+    {
+      "path": "05_tables/Figure4H_Fib_ACTA2_SOX9_regulon_GO_BP.tsv",
+      "sha256": "7fb1072b2e0882a80c4377d77bcb2e576b763d6cffaa841af2fd2ed52c6e2c2c",
+      "bytes": 169387
+    },
+    {
+      "path": "05_tables/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv",
+      "sha256": "24e82bfe26fdcd5f84a6b0d4f4f36323241ca0f641ca09c76d13784ac1902e59",
+      "bytes": 1048
+    },
+    {
+      "path": "05_tables/Figure5A_library_state_pseudobulk_log2CPM.tsv",
+      "sha256": "d579f79d377e976793f01e0a2b2da369e5a9fe7d4a56677f264ad6fc3293d11c",
+      "bytes": 2280
+    },
+    {
+      "path": "05_tables/Figure5A_SOX9_target_library_correlations.tsv",
+      "sha256": "5d1c151da2ff69dff39fd8c22ba01667a967c083fa01c3613849a6f05e551bd2",
+      "bytes": 1712
+    },
+    {
+      "path": "10_qa/Figure4H_5A_QA.json",
+      "sha256": "01d7f62ef9606372b59ae759290a5a60a41e852923847eb5ee651b9d2d01c2c0",
+      "bytes": 644
+    }
+  ],
+  "elapsed_seconds": 25.070496559143066,
+  "python": "3.10.20",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "matplotlib": "3.10.9"
+}

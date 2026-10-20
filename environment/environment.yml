@@ -1,0 +1,9 @@
+name: sox9-reproduce
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.20
+  - pip
+  - pip:
+      - -r requirements-full.txt
+# Observed direct package pins, not a complete transitive solver lock.

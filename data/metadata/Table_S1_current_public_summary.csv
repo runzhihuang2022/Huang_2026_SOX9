@@ -1,0 +1,105 @@
+﻿Record ID,Public library ID,Used panels,Accession,Species,Organ,True tissue,Assay,Figure1B cells,Figure1C target,Figure1C target cells,Figure1C SOX9 expression sum,Figure1C SOX9 mean expression,Figure1C group,Figure2A/B Fib cells,Figure4 all Fib cells,Figure4 Fib_ACTA2 cells,Figure4 treatment,Source status
+F037,LIB_001,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,14695,All Fib (original Fibroblast annotation),1042,46.40224180863979,0.04453190192767734,fibrosis,1042,0,0,Not used,Study data; release authorization/accession pending
+F040,LIB_002,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,9672,All Fib (original Fibroblast annotation),329,47.50420554668774,0.1443896825127287,fibrosis,329,0,0,Not used,Study data; release authorization/accession pending
+F042,LIB_003,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,24092,All Fib (original Fibroblast annotation),219,30.712550072454174,0.14023995466874054,fibrosis,219,0,0,Not used,Study data; release authorization/accession pending
+F045,LIB_004,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,11193,All Fib (original Fibroblast annotation),185,20.373409206036943,0.11012653624884834,fibrosis,185,0,0,Not used,Study data; release authorization/accession pending
+F049,LIB_005,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,7921,All Fib (original Fibroblast annotation),70,5.754288672710644,0.08220412389586634,fibrosis,70,0,0,Not used,Study data; release authorization/accession pending
+F052,LIB_006,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,13717,All Fib (original Fibroblast annotation),3175,239.745212566434,0.0755103031705304,fibrosis,3175,0,0,Not used,Study data; release authorization/accession pending
+F055,LIB_007,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,11405,All Fib (original Fibroblast annotation),2465,240.2524592009343,0.0974655006900342,fibrosis,2465,0,0,Not used,Study data; release authorization/accession pending
+F060,LIB_008,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,10968,All Fib (original Fibroblast annotation),4109,422.5389879048858,0.10283255972374929,fibrosis,4109,0,0,Not used,Study data; release authorization/accession pending
+F061,LIB_009,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,19275,All Fib (original Fibroblast annotation),6237,610.7793032555676,0.09792837955035555,fibrosis,6237,0,0,Not used,Study data; release authorization/accession pending
+F067,LIB_010,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,3111,All Fib (original Fibroblast annotation),1037,75.95226185293883,0.07324229686879348,fibrosis,1037,0,0,Not used,Study data; release authorization/accession pending
+F068,LIB_011,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,1301,All Fib (original Fibroblast annotation),188,26.465703802254748,0.1407750202247593,fibrosis,188,0,0,Not used,Study data; release authorization/accession pending
+F069,LIB_012,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,1489,All Fib (original Fibroblast annotation),61,11.553740769342973,0.1894055863826717,fibrosis,61,0,0,Not used,Study data; release authorization/accession pending
+F070,LIB_013,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,5109,All Fib (original Fibroblast annotation),211,51.696758498765526,0.24500833411737216,fibrosis,211,0,0,Not used,Study data; release authorization/accession pending
+F071,LIB_014,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,13579,All Fib (original Fibroblast annotation),442,33.55905429962932,0.07592546221635592,fibrosis,442,0,0,Not used,Study data; release authorization/accession pending
+F089,LIB_015,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,9990,All Fib (original Fibroblast annotation),62,1.7863632500815836,0.028812310485186832,normal,62,0,0,Not used,Study data; release authorization/accession pending
+F090,LIB_016,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,7472,All Fib (original Fibroblast annotation),402,30.07647362592304,0.07481709857194786,normal,402,0,0,Not used,Study data; release authorization/accession pending
+F091,LIB_017,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,14434,All Fib (original Fibroblast annotation),13,0.0,0.0,normal,13,0,0,Not used,Study data; release authorization/accession pending
+F092,LIB_018,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,14732,All Fib (original Fibroblast annotation),5,0.0,0.0,normal,5,0,0,Not used,Study data; release authorization/accession pending
+F093,LIB_019,Figure1B; Figure1C; Figure2A/B,NR,human,skin,Skin,scRNA-seq,14377,All Fib (original Fibroblast annotation),18,1.3287275939996828,0.07381819966664904,normal,18,0,0,Not used,Study data; release authorization/accession pending
+F096,LIB_020,Figure1B; Figure1C,VUHD69,human,lung,lung,scRNA-seq,800,AT epi,6,0.0,0,normal,0,0,0,Not used,Public accession; source terms apply
+F097,LIB_021,Figure1B; Figure1C,THD0001,human,lung,lung,scRNA-seq,2218,AT epi,1244,110.6613663463,0.08895608227194533,normal,0,0,0,Not used,Public accession; source terms apply
+F098,LIB_022,Figure1B; Figure1C,THD0002,human,lung,lung,scRNA-seq,2647,AT epi,1146,36.593775699,0.03193174144764398,normal,0,0,0,Not used,Public accession; source terms apply
+F099,LIB_023,Figure1B; Figure1C,THD0005,human,lung,lung,scRNA-seq,1191,AT epi,47,4.2786413978,0.09103492335744681,normal,0,0,0,Not used,Public accession; source terms apply
+F100,LIB_024,Figure1B; Figure1C,THD0005,human,lung,lung,scRNA-seq,1284,AT epi,25,0.0,0,normal,0,0,0,Not used,Public accession; source terms apply
+F101,LIB_025,Figure1B; Figure1C,THD0005,human,lung,lung,scRNA-seq,1019,AT epi,14,1.6415600898,0.11725429212857143,normal,0,0,0,Not used,Public accession; source terms apply
+F102,LIB_026,Figure1B; Figure1C,VUHD071,human,lung,lung,scRNA-seq,2195,AT epi,99,0.0,0,normal,0,0,0,Not used,Public accession; source terms apply
+F103,LIB_027,Figure1B; Figure1C,VUHD65,human,lung,lung,scRNA-seq,2552,AT epi,389,0.6283054772,0.0016151811753213367,normal,0,0,0,Not used,Public accession; source terms apply
+F104,LIB_028,Figure1B; Figure1C,VUHD66,human,lung,lung,scRNA-seq,2802,AT epi,650,20.9396759612,0.03221488609415384,normal,0,0,0,Not used,Public accession; source terms apply
+F105,LIB_029,Figure1B; Figure1C,VUHD67,human,lung,lung,scRNA-seq,7612,AT epi,1393,15.5148503414,0.011137724581048098,normal,0,0,0,Not used,Public accession; source terms apply
+F106,LIB_030,Figure1B; Figure1C,VUHD68,human,lung,lung,scRNA-seq,5815,AT epi,51,0.7140057095,0.014000111950980393,normal,0,0,0,Not used,Public accession; source terms apply
+F107,LIB_031,Figure1B; Figure1C,VUHD70,human,lung,lung,scRNA-seq,1509,AT epi,44,2.7444048055,0.06237283648863636,normal,0,0,0,Not used,Public accession; source terms apply
+F108,LIB_032,Figure1B; Figure1C,TILD019,human,lung,lung,scRNA-seq,2337,AT epi,405,19.8739376614,0.049071451015802466,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F109,LIB_033,Figure1B; Figure1C,TILD019,human,lung,lung,scRNA-seq,1669,AT epi,154,0.9433716905,0.006125790198051948,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F110,LIB_034,Figure1B; Figure1C,TILD001,human,lung,lung,scRNA-seq,2128,AT epi,3,0.7379501059,0.24598336863333334,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F111,LIB_035,Figure1B; Figure1C,TILD015,human,lung,lung,scRNA-seq,3031,AT epi,30,3.327501127,0.11091670423333334,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F112,LIB_036,Figure1B; Figure1C,TILD015,human,lung,lung,scRNA-seq,3371,AT epi,9,1.5414204175,0.17126893527777776,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F113,LIB_037,Figure1B; Figure1C,TILD010,human,lung,lung,scRNA-seq,1584,AT epi,41,1.9796977377,0.048285310675609754,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F114,LIB_038,Figure1B; Figure1C,TILD006,human,lung,lung,scRNA-seq,1675,AT epi,58,6.7640256924,0.11662113262758621,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F115,LIB_039,Figure1B; Figure1C,TILD006,human,lung,lung,scRNA-seq,1638,AT epi,2,0.0,0,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F116,LIB_040,Figure1B; Figure1C,TILD028,human,lung,lung,scRNA-seq,2378,AT epi,73,7.9565003364,0.10899315529315069,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F117,LIB_041,Figure1B; Figure1C,TILD028,human,lung,lung,scRNA-seq,2015,AT epi,17,2.67927125,0.1576041911764706,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F118,LIB_042,Figure1B; Figure1C,VUILD64,human,lung,lung,scRNA-seq,1419,AT epi,559,113.943408555,0.20383436235241503,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F119,LIB_043,Figure1B; Figure1C,VUILD65,human,lung,lung,scRNA-seq,582,AT epi,29,0.9145990767,0.03153789919655172,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F120,LIB_044,Figure1B; Figure1C,VUILD65,human,lung,lung,scRNA-seq,2608,AT epi,63,2.7370327322,0.0434449640031746,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F121,LIB_045,Figure1B; Figure1C,VUILD53,human,lung,lung,scRNA-seq,1116,AT epi,116,10.7238990277,0.0924474054112069,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F122,LIB_046,Figure1B; Figure1C,VUILD59,human,lung,lung,scRNA-seq,6334,AT epi,78,13.8851349705,0.17801455090384616,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F123,LIB_047,Figure1B; Figure1C,VUILD59,human,lung,lung,scRNA-seq,8808,AT epi,2348,54.0980664609,0.023040062376873935,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F124,LIB_048,Figure1B; Figure1C,VUILD60,human,lung,lung,scRNA-seq,2524,AT epi,292,48.1663830211,0.16495336651061646,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F125,LIB_049,Figure1B; Figure1C,VUILD60,human,lung,lung,scRNA-seq,5939,AT epi,5,0.8817107127,0.17634214254,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F126,LIB_050,Figure1B; Figure1C,VUILD61,human,lung,lung,scRNA-seq,1192,AT epi,391,7.8351089217,0.02003864174347826,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F127,LIB_051,Figure1B; Figure1C,VUILD61,human,lung,lung,scRNA-seq,7216,AT epi,44,4.8565028061,0.110375063775,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F128,LIB_052,Figure1B; Figure1C,VUILD63,human,lung,lung,scRNA-seq,2124,AT epi,111,5.6708029656,0.05108831500540541,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F129,LIB_053,Figure1B,VUILD48,human,lung,lung,scRNA-seq,376,AT epi,0,0.0,n.a.,Not used in expression statistics,0,0,0,Not used,Public accession; source terms apply
+F130,LIB_054,Figure1B; Figure1C,VUILD55,human,lung,lung,scRNA-seq,2749,AT epi,90,9.2117373363,0.10235263707,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F131,LIB_055,Figure1B; Figure1C,VUILD62,human,lung,lung,scRNA-seq,2656,AT epi,131,1.6816851842,0.012837291482442748,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F132,LIB_056,Figure1B; Figure1C,VUILD62,human,lung,lung,scRNA-seq,2857,AT epi,256,3.40172041,0.0132879703515625,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F133,LIB_057,Figure1B; Figure1C,TILD030,human,lung,lung,scRNA-seq,1360,AT epi,31,2.8662032409,0.09245816906129033,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F134,LIB_058,Figure1B; Figure1C,TILD030,human,lung,lung,scRNA-seq,1722,AT epi,416,11.9929419346,0.02882918734278846,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F135,LIB_059,Figure1B; Figure1C,VUILD57,human,lung,lung,scRNA-seq,1809,AT epi,116,13.006024532,0.11212090113793104,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F136,LIB_060,Figure1B; Figure1C,VUILD54,human,lung,lung,scRNA-seq,325,AT epi,20,4.5015623932,0.22507811966000002,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F137,LIB_061,Figure1B; Figure1C,VUILD54,human,lung,lung,scRNA-seq,425,AT epi,4,2.4920870176,0.6230217544,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F138,LIB_062,Figure1B; Figure1C,VUILD58,human,lung,lung,scRNA-seq,6785,AT epi,518,49.4609648774,0.09548448818030889,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F139,LIB_063,Figure1B; Figure1C,GSM5904831,mouse,kidney,kidney,scRNA-seq,8483,Collecting,522,59.5799784147,0.11413788968333334,early/regenerative,0,0,0,Not used,Public accession; source terms apply
+F140,LIB_064,Figure1B; Figure1C,GSM5904832,mouse,kidney,kidney,scRNA-seq,6255,Collecting,633,77.7654575781,0.1228522236620853,early/regenerative,0,0,0,Not used,Public accession; source terms apply
+F141,LIB_065,Figure1B; Figure1C,GSM5904833,mouse,kidney,kidney,scRNA-seq,8614,Collecting,798,140.5486089376,0.17612607636290725,fibrotic repair,0,0,0,Not used,Public accession; source terms apply
+F142,LIB_066,Figure1B; Figure1C,GSM5904834,mouse,kidney,kidney,scRNA-seq,5383,Collecting,789,120.4456677783,0.15265610618288974,fibrotic repair,0,0,0,Not used,Public accession; source terms apply
+F143,LIB_067,Figure1B; Figure1C,GSM5904835,mouse,kidney,kidney,scRNA-seq,8058,Collecting,1161,177.5789938389,0.15295348306537468,fibrotic repair,0,0,0,Not used,Public accession; source terms apply
+F144,LIB_068,Figure1B; Figure1C,GSM3847604,mouse,heart,heart,scRNA-seq,4783,Fib,845,430.3009654604,0.5092319117874556,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F145,LIB_069,Figure1B; Figure1C,GSM3847600,mouse,heart,heart,scRNA-seq,7079,Fib,52,19.7229292559,0.37928710107499997,normal,0,0,0,Not used,Public accession; source terms apply
+F146,LIB_070,Figure1B; Figure1C,GSM3847602,mouse,heart,heart,scRNA-seq,8337,Fib,3967,2523.934343474,0.6362325040267204,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F147,LIB_071,Figure1B; Figure1C,GSM3847603,mouse,heart,heart,scRNA-seq,6805,Fib,1050,622.2574229192,0.5926261170659048,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F148,LIB_072,Figure1B; Figure1C,GSM3847601,mouse,heart,heart,scRNA-seq,10448,Fib,1510,1056.8901380131,0.6999272437172849,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F149,LIB_073,Figure1B; Figure1C,GSM4644953,mouse,heart,heart,scRNA-seq,1267,Fib,239,121.3407715738,0.5077019731121338,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F150,LIB_074,Figure1B; Figure1C,GSM4644955,mouse,heart,heart,scRNA-seq,1750,Fib,499,257.913484665,0.5168606907114228,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F151,LIB_075,Figure1B; Figure1C,GSM4644954,mouse,heart,heart,scRNA-seq,1949,Fib,318,123.4287179976,0.38814062263396226,normal,0,0,0,Not used,Public accession; source terms apply
+F152,LIB_076,Figure1B; Figure1C,GSM4644956,mouse,heart,heart,scRNA-seq,1411,Fib,113,52.8807331469,0.4679710897955752,normal,0,0,0,Not used,Public accession; source terms apply
+F153,LIB_077,Figure1B; Figure1C,GSM4041161,human,liver,liver,scRNA-seq,2344,Epi/Par,307,149.5484155336,0.4871283893602606,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F154,LIB_078,Figure1B; Figure1C,GSM4041162,human,liver,liver,scRNA-seq,1652,Epi/Par,390,182.968236156,0.46914932347692306,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F155,LIB_079,Figure1B; Figure1C,GSM4041163,human,liver,liver,scRNA-seq,2004,Epi/Par,1113,494.2626351732,0.444081433219407,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F156,LIB_080,Figure1B; Figure1C,GSM4041164,human,liver,liver,scRNA-seq,3409,Epi/Par,533,377.8610876735,0.7089326222767354,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F157,LIB_081,Figure1B; Figure1C,GSM4041165,human,liver,liver,scRNA-seq,3672,Epi/Par,324,202.725617993,0.6256963518302469,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F158,LIB_082,Figure1B; Figure1C,GSM4041166,human,liver,liver,scRNA-seq,1968,Epi/Par,267,164.9930386764,0.617951455716854,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F159,LIB_083,Figure1B; Figure1C,GSM4041167,human,liver,liver,scRNA-seq,3598,Epi/Par,133,84.3540993877,0.6342413487796993,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F160,LIB_084,Figure1B; Figure1C,GSM4041168,human,liver,liver,scRNA-seq,4819,Epi/Par,32,19.3978871801,0.606183974378125,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F161,LIB_085,Figure1B; Figure1C,GSM4041169,human,liver,liver,scRNA-seq,2922,Epi/Par,9,2.5526931638,0.28363257375555556,fibrosis,0,0,0,Not used,Public accession; source terms apply
+F162,LIB_086,Figure1B; Figure1C,GSM4041150,human,liver,liver,scRNA-seq,1860,Epi/Par,10,1.4591985518,0.14591985518,normal,0,0,0,Not used,Public accession; source terms apply
+F163,LIB_087,Figure1B; Figure1C,GSM4041151,human,liver,liver,scRNA-seq,969,Epi/Par,181,35.1698023541,0.19430830029889504,normal,0,0,0,Not used,Public accession; source terms apply
+F164,LIB_088,Figure1B; Figure1C,GSM4041152,human,liver,liver,scRNA-seq,436,Epi/Par,171,89.0075603845,0.5205120490321637,normal,0,0,0,Not used,Public accession; source terms apply
+F165,LIB_089,Figure1B; Figure1C,GSM4041153,human,liver,liver,scRNA-seq,6571,Epi/Par,5,0.7804492015,0.1560898403,normal,0,0,0,Not used,Public accession; source terms apply
+F166,LIB_090,Figure1B; Figure1C,GSM4041154,human,liver,liver,scRNA-seq,4684,Epi/Par,840,441.1961951033,0.5252335655991667,normal,0,0,0,Not used,Public accession; source terms apply
+F167,LIB_091,Figure1B; Figure1C,GSM4041155,human,liver,liver,scRNA-seq,3295,Epi/Par,24,9.713863485,0.404744311875,normal,0,0,0,Not used,Public accession; source terms apply
+F168,LIB_092,Figure1B; Figure1C,GSM4041156,human,liver,liver,scRNA-seq,3207,Epi/Par,201,44.5770061003,0.2217761497527363,normal,0,0,0,Not used,Public accession; source terms apply
+F169,LIB_093,Figure1B; Figure1C,GSM4041157,human,liver,liver,scRNA-seq,1131,Epi/Par,58,11.9852016718,0.20664140813448276,normal,0,0,0,Not used,Public accession; source terms apply
+F170,LIB_094,Figure1B; Figure1C,GSM4041158,human,liver,liver,scRNA-seq,4932,Epi/Par,38,20.7565919855,0.5462261048815789,normal,0,0,0,Not used,Public accession; source terms apply
+F171,LIB_095,Figure1B; Figure1C,GSM4041159,human,liver,liver,scRNA-seq,3306,Epi/Par,18,11.9604860238,0.6644714457666666,normal,0,0,0,Not used,Public accession; source terms apply
+F172,LIB_096,Figure1B; Figure1C,GSM4041160,human,liver,liver,scRNA-seq,5121,Epi/Par,30,1.0949590133,0.036498633776666664,normal,0,0,0,Not used,Public accession; source terms apply
+HFB01,LIB_097,Figure4A/B/C/E/F/G,NR,human,skin,Cultured skin-derived fibroblasts,scRNA-seq,0,Not used,0,0.0,n.a.,Not used,0,10475,5141,OE-SOX9,Study data; release authorization/accession pending
+HFB02,LIB_098,Figure4A/B/C/E/F/G,NR,human,skin,Cultured skin-derived fibroblasts,scRNA-seq,0,Not used,0,0.0,n.a.,Not used,0,7141,4242,OE-SOX9,Study data; release authorization/accession pending
+HFB03,LIB_099,Figure4A/B/C/E/F/G,NR,human,skin,Cultured skin-derived fibroblasts,scRNA-seq,0,Not used,0,0.0,n.a.,Not used,0,8318,3778,OE-NC,Study data; release authorization/accession pending
+HFB04,LIB_100,Figure4A/B/C/E/F/G,NR,human,skin,Cultured skin-derived fibroblasts,scRNA-seq,0,Not used,0,0.0,n.a.,Not used,0,5774,2655,OE-NC,Study data; release authorization/accession pending
+HFB05,LIB_101,Figure4A/B/C/E/F/G,NR,human,skin,Cultured skin-derived fibroblasts,scRNA-seq,0,Not used,0,0.0,n.a.,Not used,0,8168,97,si-SOX9,Study data; release authorization/accession pending
+HFB06,LIB_102,Figure4A/B/C/E/F/G,NR,human,skin,Cultured skin-derived fibroblasts,scRNA-seq,0,Not used,0,0.0,n.a.,Not used,0,7656,37,si-SOX9,Study data; release authorization/accession pending
+HFB07,LIB_103,Figure4A/B/C/E/F/G,NR,human,skin,Cultured skin-derived fibroblasts,scRNA-seq,0,Not used,0,0.0,n.a.,Not used,0,5421,38,si-NC,Study data; release authorization/accession pending
+HFB08,LIB_104,Figure4A/B/C/E/F/G,NR,human,skin,Cultured skin-derived fibroblasts,scRNA-seq,0,Not used,0,0.0,n.a.,Not used,0,6901,67,si-NC,Study data; release authorization/accession pending

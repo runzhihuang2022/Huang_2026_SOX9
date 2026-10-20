@@ -1,0 +1,11 @@
+LICENSE DECISION PENDING — NOT A LICENSE GRANT
+
+No license has been assigned without the copyright holders' approval.
+The authors may consider an appropriate open-source license for their own code
+and a separate license/access policy for processed data and figure assets.
+Third-party software, source datasets, database resources, fonts, and reused
+figures retain their own terms. Do not apply a blanket license to those assets.
+
+Before publication, confirm ownership of project/skill-generated scripts and
+whether all included aggregate data and reference computational figures can
+be redistributed. This release candidate does not grant those rights.

@@ -1,0 +1,66 @@
+{
+  "version": "2026-10-16 public release candidate v01",
+  "analysis_baseline": "2026-10-09 selected19 full cells",
+  "skin_library_count": 19,
+  "skin_QC_cells": 208532,
+  "skin_Fib_cells": 20270,
+  "atlas_cells": 465450,
+  "atlas_libraries": 96,
+  "TableS1_libraries_including_culture": 104,
+  "PBMC_used": false,
+  "skin_expression_endpoint": "Mean source-normalized SOX9 over all original Fib cells, zeros included",
+  "skin_patient_aggregation": "Equal library weighting within recorded patient; 5 normal and 10 scar units",
+  "figure1_test": "two-sided Welch t test; BH across the five organ tests",
+  "figure1_embedding": {
+    "PCA": 50,
+    "features": 1679,
+    "neighbors": 20,
+    "resolution": 0.5,
+    "UMAP_min_dist": 0.35,
+    "UMAP_epochs": 200,
+    "seed": 20261009,
+    "batch_correction": false
+  },
+  "figure2_embedding": {
+    "PCA": 50,
+    "HVG": 3000,
+    "neighbors": 20,
+    "resolution": 0.55,
+    "seed": 20260917,
+    "UMAP_min_dist": 0.35
+  },
+  "figure2_identity": "C12 highest mean SOX9; 185 cells, 61 SOX9+; original Myo_Fib=183; KRT14-high purity unresolved",
+  "spatial_gate": "source sub_labels starts Fib_; SOX9 >0 AND COL1A1 >0; rat Sox9 >0 AND Col1a1 >0",
+  "spatial_colors": {
+    "SOX9": "#FF1A1A",
+    "COL1A1": "#00A83B",
+    "dual_positive": "#E6B800",
+    "background": "#E0E0E0"
+  },
+  "spatial_statistics": "Descriptive sections; no independent animal/donor test, P/FDR NE",
+  "spatial_semantics": "Human scar/scarless side anchors; rat wound-centre/flank is NOT validated scar-inside/outside",
+  "culture_libraries": 8,
+  "culture_genes": [
+    "SOX9",
+    "SCD",
+    "TFEB",
+    "CTSB",
+    "MMP14",
+    "MRC2"
+  ],
+  "culture_pseudobulk": "log2(sum raw gene counts / sum full-library-state UMIs * 1e6 + 1)",
+  "culture_correlation": "Spearman across eight library pseudobulks per state; BH separately over five genes within each state",
+  "culture_state_difference": "Two-sided exact Wilcoxon paired across libraries; BH over six genes",
+  "source_marker_adjustment": "Source Seurat marker p_val_adj = Bonferroni across 24884 genes; not BH",
+  "font": "Arial",
+  "font_pt": [
+    8,
+    12
+  ],
+  "A4_mm": [
+    210,
+    297
+  ],
+  "DPI": 600,
+  "license_status": "Not assigned; author and third-party permissions pending"
+}

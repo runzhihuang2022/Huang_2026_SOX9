@@ -1,0 +1,5 @@
+Term	GO_ID	P-value	gProfiler adjusted P-value	Overlap	intersection	source	Adjusted P-value
+cell differentiation	GO:0030154	7.60014755007779e-06	0.050339372230742516	17/3741	ISS,IBA,IEA	g:Profiler GO:BP; FDR threshold method	0.0016995554002936456
+cellular process involved in reproduction in multicellular organism	GO:0022412	7.17034280845314e-06	0.016624260331462328	6/320		g:Profiler GO:BP; FDR threshold method	0.0016995554002936456
+central nervous system neuron differentiation	GO:0021953	5.900872451872518e-06	0.016624260331462328	5/175	ISS,IEA	g:Profiler GO:BP; FDR threshold method	0.0016995554002936456
+germ cell development	GO:0007281	4.771597462840647e-06	0.016624260331462328	6/298		g:Profiler GO:BP; FDR threshold method	0.0016995554002936456

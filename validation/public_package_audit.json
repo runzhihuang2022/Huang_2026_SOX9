@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "files_checked": 170,
+  "TableS1_rows": 104,
+  "skin_records": 19,
+  "Figure2_Fib_cells": 20270,
+  "errors": [],
+  "scope": "Paths, identifiers, sizes, syntax, pinned file hashes and sample counts; not consent/license clearance"
+}

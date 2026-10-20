@@ -1,0 +1,315 @@
+﻿file,column,definition,source_type
+data/source_locations.csv,asset_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/source_locations.csv,modality,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/source_locations.csv,filename,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/source_locations.csv,accession,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/source_locations.csv,source_sha256,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/source_locations.csv,checksum_status,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/source_locations.csv,public_bundle,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/source_locations.csv,access_route,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/source_locations.csv,used_by,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/atlas_compartment_counts.csv,organ,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/atlas_compartment_counts.csv,display_label,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/atlas_compartment_counts.csv,cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/metadata/atlas_features.csv,symbol,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/atlas_feature_selection.csv,source_index,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/metadata/atlas_feature_selection.csv,symbol,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/atlas_feature_selection.csv,within_source_feature_rank,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/metadata/atlas_feature_selection.csv,source_rank_field,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/data_dictionary.csv,file,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/data_dictionary.csv,column,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/data_dictionary.csv,definition,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/data_dictionary.csv,source_type,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/Table_S1_current_public_summary.csv,Record ID,"Stable current analysis record ID, not a patient identifier",object
+data/metadata/Table_S1_current_public_summary.csv,Public library ID,Repository-local opaque library label; clinical-source key excluded,object
+data/metadata/Table_S1_current_public_summary.csv,Used panels,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/Table_S1_current_public_summary.csv,Accession,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/Table_S1_current_public_summary.csv,Species,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/Table_S1_current_public_summary.csv,Organ,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/Table_S1_current_public_summary.csv,True tissue,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/Table_S1_current_public_summary.csv,Assay,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/Table_S1_current_public_summary.csv,Figure1B cells,Number of this library cells in the current global atlas,int64
+data/metadata/Table_S1_current_public_summary.csv,Figure1C target,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/Table_S1_current_public_summary.csv,Figure1C target cells,"Number of the stated organ-specific target population; absent population is NE, not expression=0",int64
+data/metadata/Table_S1_current_public_summary.csv,Figure1C SOX9 expression sum,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/metadata/Table_S1_current_public_summary.csv,Figure1C SOX9 mean expression,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/metadata/Table_S1_current_public_summary.csv,Figure1C group,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/Table_S1_current_public_summary.csv,Figure2A/B Fib cells,All source-annotated QC Fib cells in the same 19 skin libraries as Figure1,int64
+data/metadata/Table_S1_current_public_summary.csv,Figure4 all Fib cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/metadata/Table_S1_current_public_summary.csv,Figure4 Fib_ACTA2 cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/metadata/Table_S1_current_public_summary.csv,Figure4 treatment,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/metadata/Table_S1_current_public_summary.csv,Source status,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_displayed_GO_terms.tsv,Term,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_displayed_GO_terms.tsv,GO_ID,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_displayed_GO_terms.tsv,P-value,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure4H_displayed_GO_terms.tsv,gProfiler adjusted P-value,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure4H_displayed_GO_terms.tsv,Overlap,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_displayed_GO_terms.tsv,intersection,Legacy gProfiler field; potentially evidence codes rather than overlap genes; not validated,object
+data/processed/culture/Figure4H_displayed_GO_terms.tsv,source,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_displayed_GO_terms.tsv,Adjusted P-value,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,family,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,display_level,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,rank,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,tf_symbol,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,RSS,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,target_symbol,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,expression_correlation,Descriptive cell-level Spearman association; not regulatory activation/repression,float64
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,P_value_cell_level_descriptive,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,direction,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,edge_weight,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,motif_pruned_membership,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,bool
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_motif_pruned_targets_with_correlations.tsv,BH_FDR_cell_level_descriptive,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_regulon_GO_BP.tsv,Term,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_regulon_GO_BP.tsv,GO_ID,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_regulon_GO_BP.tsv,P-value,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_regulon_GO_BP.tsv,gProfiler adjusted P-value,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_regulon_GO_BP.tsv,Overlap,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_regulon_GO_BP.tsv,intersection,Legacy gProfiler field; potentially evidence codes rather than overlap genes; not validated,object
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_regulon_GO_BP.tsv,source,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure4H_Fib_ACTA2_SOX9_regulon_GO_BP.tsv,Adjusted P-value,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv,gene,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv,display_gene,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv,n_paired_libraries,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/culture/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv,Fib_ACTA2_mean_log2CPM,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv,Other_Fib_mean_log2CPM,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv,paired_mean_difference,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv,paired_median_difference,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv,paired_exact_Wilcoxon_P,Two-sided exact Wilcoxon over eight paired treatment libraries,float64
+data/processed/culture/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv,unit,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure5A_Fib_ACTA2_vs_other_Fib_paired_differences.tsv,BH_FDR,Benjamini-Hochberg adjusted P within the documented family,float64
+data/processed/culture/Figure5A_library_state_pseudobulk_log2CPM.tsv,library,Cultured-Fib treatment sequencing library; donor independence unverified,object
+data/processed/culture/Figure5A_library_state_pseudobulk_log2CPM.tsv,state,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure5A_library_state_pseudobulk_log2CPM.tsv,n_cells,"Cell count, not number of independent people or animals",int64
+data/processed/culture/Figure5A_library_state_pseudobulk_log2CPM.tsv,total_UMI,"Full-gene library-state UMI denominator, not sum of the selected marker genes",float64
+data/processed/culture/Figure5A_library_state_pseudobulk_log2CPM.tsv,SOX9,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_library_state_pseudobulk_log2CPM.tsv,SCD,"Human gene SCD, encoding protein commonly called SCD1",float64
+data/processed/culture/Figure5A_library_state_pseudobulk_log2CPM.tsv,TFEB,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_library_state_pseudobulk_log2CPM.tsv,CTSB,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_library_state_pseudobulk_log2CPM.tsv,MMP14,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_library_state_pseudobulk_log2CPM.tsv,MRC2,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_SOX9_target_library_correlations.tsv,state,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure5A_SOX9_target_library_correlations.tsv,gene,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure5A_SOX9_target_library_correlations.tsv,display_gene,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure5A_SOX9_target_library_correlations.tsv,n_libraries,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/culture/Figure5A_SOX9_target_library_correlations.tsv,spearman_rho,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/Figure5A_SOX9_target_library_correlations.tsv,P_value,"Unadjusted P; NE means not estimable, never zero",float64
+data/processed/culture/Figure5A_SOX9_target_library_correlations.tsv,unit,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure5A_SOX9_target_library_correlations.tsv,inference,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/Figure5A_SOX9_target_library_correlations.tsv,BH_FDR_within_state,BH adjustment over five target-gene correlations within this state,float64
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,Unnamed: 0,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,ID,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,Description,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,GeneRatio,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,BgRatio,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,RichFactor,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,FoldEnrichment,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,zScore,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,pvalue,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,p.adjust,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,qvalue,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,geneID,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/Fib_ACTA2_GO_Enrichment_Up.csv,Count,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/culture/server_tables/Fib_ACTA2_KEGG_Enrichment_Up.csv,Unnamed: 0,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/Fib_ACTA2_TF_Target_Correlation.csv,TF,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/Fib_ACTA2_TF_Target_Correlation.csv,Target_Gene,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/Fib_ACTA2_TF_Target_Correlation.csv,Correlation,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/culture/server_tables/Fib_ACTA2_TF_Target_Correlation.csv,P_value,"Unadjusted P; NE means not estimable, never zero",int64
+data/processed/culture/server_tables/output_pbmc.markers.csv,Unnamed: 0,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/output_pbmc.markers.csv,p_val,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/culture/server_tables/output_pbmc.markers.csv,avg_log2FC,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/server_tables/output_pbmc.markers.csv,pct.1,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/server_tables/output_pbmc.markers.csv,pct.2,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/culture/server_tables/output_pbmc.markers.csv,p_val_adj,Source Seurat Bonferroni adjustment across 24884 genes; NOT BH FDR,int64
+data/processed/culture/server_tables/output_pbmc.markers.csv,cluster,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/culture/server_tables/output_pbmc.markers.csv,gene,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/output_pbmc.markers.csv,threshold,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/output_pbmc.markers.csv,adj_p_signi,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/culture/server_tables/output_pbmc.markers.csv,thr_signi,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/expected_statistics.csv,organ,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/expected_statistics.csv,target,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/expected_statistics.csv,reference_group,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/expected_statistics.csv,case_group,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/expected_statistics.csv,n_reference_sample_units,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/expected_statistics.csv,n_case_sample_units,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/expected_statistics.csv,mean_reference,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/figure1/expected_statistics.csv,mean_case,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/figure1/expected_statistics.csv,delta_case_minus_reference,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/figure1/expected_statistics.csv,P_exploratory,Two-sided Welch test across recorded sample/subject-unit means,float64
+data/processed/figure1/expected_statistics.csv,test,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/expected_statistics.csv,FDR_exploratory_BH_5,BH adjustment over the five cross-organ tests,float64
+data/processed/figure1/expected_statistics.csv,analysis_units,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/expected_statistics.csv,skin_target_changed_to_all_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,bool
+data/processed/figure1/heart_statistical_units.csv,unit_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/heart_statistical_units.csv,condition_pair,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/heart_statistical_units.csv,target_cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/heart_statistical_units.csv,SOX9_mean_expression,"Mean normalized SOX9 over the specified target-cell statistical unit, zeros included",float64
+data/processed/figure1/kidney_statistical_units.csv,unit_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/kidney_statistical_units.csv,condition_pair,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/kidney_statistical_units.csv,target_cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/kidney_statistical_units.csv,SOX9_mean_expression,"Mean normalized SOX9 over the specified target-cell statistical unit, zeros included",float64
+data/processed/figure1/liver_statistical_units.csv,unit_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/liver_statistical_units.csv,condition_pair,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/liver_statistical_units.csv,target_cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/liver_statistical_units.csv,SOX9_mean_expression,"Mean normalized SOX9 over the specified target-cell statistical unit, zeros included",float64
+data/processed/figure1/lung_statistical_units.csv,unit_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/lung_statistical_units.csv,condition_pair,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/lung_statistical_units.csv,target_cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/lung_statistical_units.csv,SOX9_mean_expression,"Mean normalized SOX9 over the specified target-cell statistical unit, zeros included",float64
+data/processed/figure1/skin_library_expression.csv,record_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/skin_library_expression.csv,condition_pair,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/skin_library_expression.csv,Fib_cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/skin_library_expression.csv,SOX9_mean,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/figure1/skin_library_expression.csv,SOX9_positive_cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/skin_QC_counts.csv,record_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/skin_QC_counts.csv,source_cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/skin_QC_counts.csv,QC_cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/skin_statistical_units.csv,unit_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/skin_statistical_units.csv,condition_pair,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure1/skin_statistical_units.csv,target_cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure1/skin_statistical_units.csv,SOX9_mean_expression,"Mean normalized SOX9 over the specified target-cell statistical unit, zeros included",float64
+data/processed/figure2/Figure2D_Scar_vs_normal_P_FDR.tsv,comparison,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2D_Scar_vs_normal_P_FDR.tsv,cluster,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2D_Scar_vs_normal_P_FDR.tsv,numerator,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2D_Scar_vs_normal_P_FDR.tsv,denominator,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2D_Scar_vs_normal_P_FDR.tsv,n_numerator_samples,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure2/Figure2D_Scar_vs_normal_P_FDR.tsv,n_denominator_samples,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure2/Figure2D_Scar_vs_normal_P_FDR.tsv,mean_fraction_difference,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/figure2/Figure2D_Scar_vs_normal_P_FDR.tsv,Mann_Whitney_P,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/figure2/Figure2D_Scar_vs_normal_P_FDR.tsv,status,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2D_Scar_vs_normal_P_FDR.tsv,BH_FDR,Benjamini-Hochberg adjusted P within the documented family,float64
+data/processed/figure2/Figure2_all_cluster_marker_and_purity_audit.csv,cluster,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_all_cluster_marker_and_purity_audit.csv,gene,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_all_cluster_marker_and_purity_audit.csv,n_cells,"Cell count, not number of independent people or animals",int64
+data/processed/figure2/Figure2_all_cluster_marker_and_purity_audit.csv,mean_expression,Mean source-normalized expression including true zero values,float64
+data/processed/figure2/Figure2_all_cluster_marker_and_purity_audit.csv,percent_expressed,Percentage of all cluster cells with stored RNA expression >0,float64
+data/processed/figure2/Figure2_all_cluster_marker_and_purity_audit.csv,displayed_in_main_dotplot,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,bool
+data/processed/figure2/Figure2_cluster_library_counts.csv,cluster,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_cluster_library_counts.csv,record_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_cluster_library_counts.csv,clinical_group,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_cluster_library_counts.csv,cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure2/Figure2_cluster_original_subtype_counts.csv,cluster,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_cluster_original_subtype_counts.csv,sub_labels,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_cluster_original_subtype_counts.csv,cells,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure2/Figure2_highest_target_cluster_tests_P_FDR.tsv,highest_cluster,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_highest_target_cluster_tests_P_FDR.tsv,comparison_cluster,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_highest_target_cluster_tests_P_FDR.tsv,n_paired_samples,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure2/Figure2_highest_target_cluster_tests_P_FDR.tsv,mean_paired_difference,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/figure2/Figure2_highest_target_cluster_tests_P_FDR.tsv,one_sided_paired_Wilcoxon_P,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/figure2/Figure2_highest_target_cluster_tests_P_FDR.tsv,status,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_highest_target_cluster_tests_P_FDR.tsv,BH_FDR,Benjamini-Hochberg adjusted P within the documented family,float64
+data/processed/figure2/Figure2_marker_allowlist_summary.tsv,cluster,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_marker_allowlist_summary.tsv,gene,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_marker_allowlist_summary.tsv,mean_expression,Mean source-normalized expression including true zero values,float64
+data/processed/figure2/Figure2_marker_allowlist_summary.tsv,percent_expressed,Percentage of all cluster cells with stored RNA expression >0,float64
+data/processed/figure2/Figure2_marker_allowlist_summary.tsv,n_cells,"Cell count, not number of independent people or animals",int64
+data/processed/figure2/Figure2_sample_cluster_summary.tsv,sample,Pseudonymous recorded subject unit; original identity key excluded,object
+data/processed/figure2/Figure2_sample_cluster_summary.tsv,group,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_sample_cluster_summary.tsv,cluster,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_sample_cluster_summary.tsv,n_cells,"Cell count, not number of independent people or animals",int64
+data/processed/figure2/Figure2_sample_cluster_summary.tsv,mean_target_expression,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/figure2/Figure2_sample_cluster_summary.tsv,positive_fraction,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/figure2/Figure2_selected_marker_ledger.tsv,label,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_selected_marker_ledger.tsv,gene,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/figure2/Figure2_selected_marker_ledger.tsv,rank,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/figure2/Figure2_selected_marker_ledger.tsv,mean_expression,Mean source-normalized expression including true zero values,float64
+data/processed/figure2/Figure2_selected_marker_ledger.tsv,percent_expressed,Percentage of all cluster cells with stored RNA expression >0,float64
+data/processed/figure2/Figure2_selected_marker_ledger.tsv,selection_mode,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Current_panel_dual_positive_summary.csv,物种,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Current_panel_dual_positive_summary.csv,时间/阶段,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Current_panel_dual_positive_summary.csv,Fib空间观测,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Current_panel_dual_positive_summary.csv,双阳空间观测,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Current_panel_dual_positive_summary.csv,ROI内双阳,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure1E_main_sections_counts.csv,species,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure1E_main_sections_counts.csv,section,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure1E_main_sections_counts.csv,source_parts,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure1E_main_sections_counts.csv,spatial_observations,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure1E_main_sections_counts.csv,source_Fib_observations,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure1E_main_sections_counts.csv,double_positive_Fib,Source Fib AND SOX9>0 AND COL1A1>0 (rat Sox9/Col1a1),int64
+data/processed/spatial/Figure1E_main_sections_counts.csv,target_in_registered_zoom,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure1E_main_sections_counts.csv,roi,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure1E_main_sections_counts.csv,coordinate_key,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure1E_main_sections_counts.csv,rotation_degrees,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure1E_main_sections_counts.csv,source_geometry_parent,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure1E_main_sections_counts.csv,source_geometry_sha256,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure1E_main_sections_counts.csv,um_per_coordinate_unit,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/spatial/Figure1E_main_sections_counts.csv,zoom_selection,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,sha256,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,bytes,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,mtime_ns,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,matrix_shape,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,matrix,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,obsm_keys,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,coordinate_key,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,spatial_unit_metadata,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,log1p_metadata_present,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,bool
+data/processed/spatial/Figure3G_main_sections_counts.csv,spatial_observations,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,source_Fib_observations,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,SOX9_positive_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,COL1A1_positive_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,double_positive_Fib,Source Fib AND SOX9>0 AND COL1A1>0 (rat Sox9/Col1a1),int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,SOX9_only_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,COL1A1_only_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,double_negative_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,double_positive_gt1,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,minimum_positive_SOX9,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/spatial/Figure3G_main_sections_counts.csv,minimum_positive_COL1A1,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/spatial/Figure3G_main_sections_counts.csv,species,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,stage,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,wound_time,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,sample,Pseudonymous recorded subject unit; original identity key excluded,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,genes,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,target_in_registered_zoom,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,roi,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,additional_rotation,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Figure3G_main_sections_counts.csv,um_per_coordinate_unit,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/spatial/Figure3G_main_sections_counts.csv,independent_animal_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Figure3G_main_sections_counts.csv,statistical_status,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,sha256,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,bytes,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,mtime_ns,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,matrix_shape,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,matrix,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,obsm_keys,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,coordinate_key,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,spatial_unit_metadata,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,log1p_metadata_present,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,bool
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,spatial_observations,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,source_Fib_observations,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,SOX9_positive_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,COL1A1_positive_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,double_positive_Fib,Source Fib AND SOX9>0 AND COL1A1>0 (rat Sox9/Col1a1),int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,SOX9_only_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,COL1A1_only_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,double_negative_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,double_positive_gt1,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,minimum_positive_SOX9,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,minimum_positive_COL1A1,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,species,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,section,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,data_key,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,genes,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,rotation_degrees,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,anchor_sha256,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,anchor_rotation_reference,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,legacy_SOX9_gt1_gate,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,legacy_3markers_all_gt0,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,current_main_usage,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,bool
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,independent_donor_id,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_four_source_parts_marker_audit.csv,statistical_status,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_marker_by_physical_section_region.csv,section,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_marker_by_physical_section_region.csv,region,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_marker_by_physical_section_region.csv,n_source_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_marker_by_physical_section_region.csv,dual_positive,Count of source-Fib observations with both genes >0,int64
+data/processed/spatial/Human_marker_by_physical_section_region.csv,percent,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/spatial/Human_marker_by_physical_section_region.csv,P_value,"Unadjusted P; NE means not estimable, never zero",object
+data/processed/spatial/Human_marker_by_physical_section_region.csv,BH_FDR,Benjamini-Hochberg adjusted P within the documented family,object
+data/processed/spatial/Human_marker_by_source_part_region.csv,section,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_marker_by_source_part_region.csv,source_part,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_marker_by_source_part_region.csv,region,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_marker_by_source_part_region.csv,n_source_Fib,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,int64
+data/processed/spatial/Human_marker_by_source_part_region.csv,dual_positive,Count of source-Fib observations with both genes >0,int64
+data/processed/spatial/Human_marker_by_source_part_region.csv,percent,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,float64
+data/processed/spatial/Human_marker_by_source_part_region.csv,unit,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object
+data/processed/spatial/Human_marker_by_source_part_region.csv,P_value,"Unadjusted P; NE means not estimable, never zero",object
+data/processed/spatial/Human_marker_by_source_part_region.csv,BH_FDR,Benjamini-Hochberg adjusted P within the documented family,object
+data/processed/spatial/Human_marker_by_source_part_region.csv,test_status,Original source field; interpreted within this table and docs/FULL_ANALYSIS.md,object

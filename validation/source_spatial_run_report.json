@@ -1,0 +1,167 @@
+{
+  "status": "executed_verified",
+  "scope": "Source-H5AD marker gate and registered human regions; map panels optional; no biological-replicate statistical claim",
+  "elapsed_seconds": 34.23656129837036,
+  "checks": [
+    {
+      "section": "2mph",
+      "check": "spatial_observations",
+      "passed": true
+    },
+    {
+      "section": "2mph",
+      "check": "source_Fib_observations",
+      "passed": true
+    },
+    {
+      "section": "2mph",
+      "check": "double_positive_Fib",
+      "passed": true
+    },
+    {
+      "section": "6mph_p1",
+      "check": "spatial_observations",
+      "passed": true
+    },
+    {
+      "section": "6mph_p1",
+      "check": "source_Fib_observations",
+      "passed": true
+    },
+    {
+      "section": "6mph_p1",
+      "check": "double_positive_Fib",
+      "passed": true
+    },
+    {
+      "section": "6mph_p2",
+      "check": "spatial_observations",
+      "passed": true
+    },
+    {
+      "section": "6mph_p2",
+      "check": "source_Fib_observations",
+      "passed": true
+    },
+    {
+      "section": "6mph_p2",
+      "check": "double_positive_Fib",
+      "passed": true
+    },
+    {
+      "section": "9mph",
+      "check": "spatial_observations",
+      "passed": true
+    },
+    {
+      "section": "9mph",
+      "check": "source_Fib_observations",
+      "passed": true
+    },
+    {
+      "section": "9mph",
+      "check": "double_positive_Fib",
+      "passed": true
+    },
+    {
+      "section": "Adult_1d_C01830C1D1",
+      "check": "spatial_observations",
+      "passed": true
+    },
+    {
+      "section": "Adult_1d_C01830C1D1",
+      "check": "source_Fib_observations",
+      "passed": true
+    },
+    {
+      "section": "Adult_1d_C01830C1D1",
+      "check": "double_positive_Fib",
+      "passed": true
+    },
+    {
+      "section": "Adult_5d1_C01830E6F6",
+      "check": "spatial_observations",
+      "passed": true
+    },
+    {
+      "section": "Adult_5d1_C01830E6F6",
+      "check": "source_Fib_observations",
+      "passed": true
+    },
+    {
+      "section": "Adult_5d1_C01830E6F6",
+      "check": "double_positive_Fib",
+      "passed": true
+    },
+    {
+      "section": "Adult_19d_B03424F4",
+      "check": "spatial_observations",
+      "passed": true
+    },
+    {
+      "section": "Adult_19d_B03424F4",
+      "check": "source_Fib_observations",
+      "passed": true
+    },
+    {
+      "section": "Adult_19d_B03424F4",
+      "check": "double_positive_Fib",
+      "passed": true
+    },
+    {
+      "section": "E16.5_6H_C02938E1",
+      "check": "spatial_observations",
+      "passed": true
+    },
+    {
+      "section": "E16.5_6H_C02938E1",
+      "check": "source_Fib_observations",
+      "passed": true
+    },
+    {
+      "section": "E16.5_6H_C02938E1",
+      "check": "double_positive_Fib",
+      "passed": true
+    },
+    {
+      "section": "E16.5_3D_D03056D5",
+      "check": "spatial_observations",
+      "passed": true
+    },
+    {
+      "section": "E16.5_3D_D03056D5",
+      "check": "source_Fib_observations",
+      "passed": true
+    },
+    {
+      "section": "E16.5_3D_D03056D5",
+      "check": "double_positive_Fib",
+      "passed": true
+    },
+    {
+      "section": "E16.5_6D_C02938F4",
+      "check": "spatial_observations",
+      "passed": true
+    },
+    {
+      "section": "E16.5_6D_C02938F4",
+      "check": "source_Fib_observations",
+      "passed": true
+    },
+    {
+      "section": "E16.5_6D_C02938F4",
+      "check": "double_positive_Fib",
+      "passed": true
+    },
+    {
+      "check": "human_regions_n_source_Fib",
+      "passed": true
+    },
+    {
+      "check": "human_regions_dual_positive",
+      "passed": true
+    }
+  ],
+  "section_count": 10,
+  "maps_rerendered": false
+}

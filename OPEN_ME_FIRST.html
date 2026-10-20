@@ -1,0 +1,228 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><title>SOX9 reproduce — 公开复现材料</title>
+<style>body{font:15px Arial,"Microsoft YaHei",sans-serif;max-width:1250px;margin:35px auto;padding:0 24px;background:#f3f6f8;color:#203847}h1{font-size:27px}h2{font-size:21px}section,.card{background:white;padding:22px;margin:18px 0;border-radius:7px}.warning{border-left:5px solid #b68b35}table{border-collapse:collapse;font-size:12px;width:100%}th,td{border-bottom:1px solid #dce3e7;padding:8px;text-align:left;vertical-align:top}a{color:#086a99}img{max-width:100%;height:auto}code{background:#e9eef1;padding:3px}</style></head>
+<body><h1>SOX9 reproduce：GitHub 公开复现材料</h1><p>2026-10-16 · 按10月9日19条皮肤文库最新版整理 · GitHub版本：2026-10-20</p>
+<div class="card"><b>当前样本：</b>五器官96条文库；皮肤19条；Fib 20,270个；培养Fib 8条；Table S1共104条；无PBMC标本。<p>实际执行：汇总复现35项、完整Fib重聚类7项、培养细胞矩阵级14项、10份空间输入32项检查通过；独立目录复现的9份CSV逐字节一致。</p></div>
+<div class="card warning"><b>不是“全文所有实验全部复现通过”：</b>本包有35项覆盖记录、27项部分完成/证据缺口记录。实验原始数值、原R完整流程、SCENIC上游、空KEGG及Venn等仍需补充；本次仅公开脱敏材料，许可证和引用信息仍待作者最终确认。只上传本文件夹或对应公开ZIP，不上传父目录的私有核对材料。</div>
+<div class="card"><a href="README.md">README</a> · <a href="docs/UPLOAD_GUIDE_中文.md">中文上传说明</a> · <a href="docs/FULL_ANALYSIS.md">完整分析与数据准备</a> · <a href="validation/reproduction_report.md">实际复现报告</a><p><a href="data/metadata/Table_S1_current_public_summary.csv">脱敏Table S1</a> · <a href="data/metadata/data_dictionary.csv">字段字典</a> · <a href="provenance/missing_data.csv">待补材料清单</a> · <a href="provenance/release_checksums.csv">文件SHA-256清单</a></p><p><code>python scripts/reproduce.py all --out outputs/my_replay_01</code></p></div>
+<h2>分析覆盖清单</h2><div class="card"><table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>asset_id</th>
+      <th>panel_id</th>
+      <th>status</th>
+      <th>reason</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ATLAS_EXPRESSION</td>
+      <td>Figure1C</td>
+      <td>executed_verified</td>
+      <td>Five Welch P values and BH reproduced; all-Fib skin, true zeros retained</td>
+    </tr>
+    <tr>
+      <td>ATLAS_UMAP_DISPLAY</td>
+      <td>Figure1B-C</td>
+      <td>partial</td>
+      <td>Approved geometry-derived display frozen; full 465450-cell embedding refit not rerun; raw matrix access restricted</td>
+    </tr>
+    <tr>
+      <td>SKIN_FIB_CLUSTERING</td>
+      <td>Figure2A/B; linked A-E analysis</td>
+      <td>executed_verified</td>
+      <td>Complete 20270-cell clustering rerun and compared with approved geometry and marker table</td>
+    </tr>
+    <tr>
+      <td>SKIN_FIB_MARKERS_COMPOSITION</td>
+      <td>Figure2A/B; linked A-E analysis</td>
+      <td>executed_verified</td>
+      <td>Pristine dotplot body and complete-grid sample-level contrasts; E has no registered second contrast</td>
+    </tr>
+    <tr>
+      <td>HUMAN_SPACE</td>
+      <td>Figure1E current requested slot</td>
+      <td>partial</td>
+      <td>Region counts reproduced; main spatial maps are approved reference outputs; no raw-object rerun in public mode</td>
+    </tr>
+    <tr>
+      <td>RAT_SPACE</td>
+      <td>Figure3G current requested slot</td>
+      <td>partial</td>
+      <td>Six section counts reproduced; main spatial maps are frozen reference; no independent-animal inferential test</td>
+    </tr>
+    <tr>
+      <td>SPATIAL_SOURCE_COUNTS</td>
+      <td>Figure1E and Figure3G source-level gates</td>
+      <td>executed_verified</td>
+      <td>Ten source H5AD marker gates and registered human regions rerun; 32 checks; maps and upstream segmentation not rerun</td>
+    </tr>
+    <tr>
+      <td>CULTURE_NETWORK_DOWNSTREAM</td>
+      <td>Figure4H requested network/GO analysis</td>
+      <td>executed_verified</td>
+      <td>37-target edges and eight-library pseudobulk recomputed from authorized counts; GO cache only</td>
+    </tr>
+    <tr>
+      <td>CULTURE_NETWORK_UPSTREAM</td>
+      <td>Figure4 network upstream SCENIC</td>
+      <td>partial</td>
+      <td>Target list exists; full GRNBoost2/cisTarget/AUCell commands, resource versions and execution logs not located</td>
+    </tr>
+    <tr>
+      <td>CULTURE_ORIGINAL_SEURAT</td>
+      <td>Figure4A/B/F/G and FigureS4A-C</td>
+      <td>partial</td>
+      <td>Original R analysis code/lockfile absent; 59855-entry RDS vs 59854 annotated H5AD and 17-marker clusters vs older 11-cluster metadata require reconciliation</td>
+    </tr>
+    <tr>
+      <td>CULTURE_GO_SOURCE</td>
+      <td>Figure4C; FigureS4D</td>
+      <td>partial</td>
+      <td>Fib_ACTA2 source GO table retained; other subtype enrichment/source gene lists and complete native analysis not packaged</td>
+    </tr>
+    <tr>
+      <td>CULTURE_GO_REGULON</td>
+      <td>Figure4 requested network GO</td>
+      <td>partial</td>
+      <td>Cached rendering reproduced; intersection field contains evidence codes; validated term-gene membership and original query resource snapshot missing</td>
+    </tr>
+    <tr>
+      <td>CULTURE_KEGG</td>
+      <td>Figure4C and FigureS4D KEGG</td>
+      <td>needs_evidence</td>
+      <td>Source file contains only an empty CSV string (3 bytes); no verified nonempty KEGG table</td>
+    </tr>
+    <tr>
+      <td>CULTURE_VENN</td>
+      <td>Figure4E</td>
+      <td>needs_evidence</td>
+      <td>Original two top50 lists, contrast direction, overlap IDs and 39-gene intersection not located</td>
+    </tr>
+    <tr>
+      <td>CULTURE_ASSOCIATIONS</td>
+      <td>Figure5A requested bioinformatics analysis</td>
+      <td>executed_verified</td>
+      <td>Eight-library Spearman and exact paired Wilcoxon statistics reproduced; SCD and four lysosomal targets</td>
+    </tr>
+    <tr>
+      <td>TABLE_S1</td>
+      <td>TableS1 current scRNA usage</td>
+      <td>executed_verified</td>
+      <td>104 actually used libraries, no PBMC; original clinical fields deliberately withheld</td>
+    </tr>
+    <tr>
+      <td>SCHEMATICS</td>
+      <td>Figure1A; Figure2K; Figure3A; Figure5/6/7 models</td>
+      <td>not_applicable</td>
+      <td>Not numerical evidence; generative prompts/assets are not mixed into analytical source data; diagram sources require separate permissions</td>
+    </tr>
+    <tr>
+      <td>F1_EXPERIMENTS</td>
+      <td>Figure1: D and remaining experimental panels</td>
+      <td>needs_evidence</td>
+      <td>Only manuscript/composite evidence located in current project analysis directories; experiment-level raw measurements and Prism/R procedures not located</td>
+    </tr>
+    <tr>
+      <td>F2_EXPERIMENTS</td>
+      <td>Figure2: C-J</td>
+      <td>needs_evidence</td>
+      <td>Only manuscript/composite evidence located in current project analysis directories; experiment-level raw measurements and Prism/R procedures not located</td>
+    </tr>
+    <tr>
+      <td>F3_EXPERIMENTS</td>
+      <td>Figure3: B-F/H</td>
+      <td>needs_evidence</td>
+      <td>Only manuscript/composite evidence located in current project analysis directories; experiment-level raw measurements and Prism/R procedures not located</td>
+    </tr>
+    <tr>
+      <td>F4_EXPERIMENTS</td>
+      <td>Figure4: D and protein-validation panels</td>
+      <td>needs_evidence</td>
+      <td>Only manuscript/composite evidence located in current project analysis directories; experiment-level raw measurements and Prism/R procedures not located</td>
+    </tr>
+    <tr>
+      <td>F5_EXPERIMENTS</td>
+      <td>Figure5: remaining wet-lab panels</td>
+      <td>needs_evidence</td>
+      <td>Only manuscript/composite evidence located in current project analysis directories; experiment-level raw measurements and Prism/R procedures not located</td>
+    </tr>
+    <tr>
+      <td>F6_EXPERIMENTS</td>
+      <td>Figure6: A-I</td>
+      <td>needs_evidence</td>
+      <td>Only manuscript/composite evidence located in current project analysis directories; experiment-level raw measurements and Prism/R procedures not located</td>
+    </tr>
+    <tr>
+      <td>F7_EXPERIMENTS</td>
+      <td>Figure7: animal/cell experiments and histology</td>
+      <td>needs_evidence</td>
+      <td>Only manuscript/composite evidence located in current project analysis directories; experiment-level raw measurements and Prism/R procedures not located</td>
+    </tr>
+    <tr>
+      <td>SUPP1_PUBLIC_ORGANS</td>
+      <td>FigureS1A-E</td>
+      <td>partial</td>
+      <td>Main five-organ data/units are preserved, but separate full source-panel analyses not independently certified; P1/P8 wording conflicts with current P8-only heart inputs</td>
+    </tr>
+    <tr>
+      <td>S2_EXPERIMENTS_OR_GAPS</td>
+      <td>FigureS2</td>
+      <td>needs_evidence</td>
+      <td>Supporting document inspected; source quantitative analysis files not located, or panel/legend incomplete (notably S6/S8)</td>
+    </tr>
+    <tr>
+      <td>S3_EXPERIMENTS_OR_GAPS</td>
+      <td>FigureS3</td>
+      <td>needs_evidence</td>
+      <td>Supporting document inspected; source quantitative analysis files not located, or panel/legend incomplete (notably S6/S8)</td>
+    </tr>
+    <tr>
+      <td>S4_EXPERIMENTS_OR_GAPS</td>
+      <td>FigureS4</td>
+      <td>needs_evidence</td>
+      <td>Supporting document inspected; source quantitative analysis files not located, or panel/legend incomplete (notably S6/S8)</td>
+    </tr>
+    <tr>
+      <td>S5_EXPERIMENTS_OR_GAPS</td>
+      <td>FigureS5</td>
+      <td>needs_evidence</td>
+      <td>Supporting document inspected; source quantitative analysis files not located, or panel/legend incomplete (notably S6/S8)</td>
+    </tr>
+    <tr>
+      <td>S6_EXPERIMENTS_OR_GAPS</td>
+      <td>FigureS6</td>
+      <td>needs_evidence</td>
+      <td>Supporting document inspected; source quantitative analysis files not located, or panel/legend incomplete (notably S6/S8)</td>
+    </tr>
+    <tr>
+      <td>S7_EXPERIMENTS_OR_GAPS</td>
+      <td>FigureS7</td>
+      <td>needs_evidence</td>
+      <td>Supporting document inspected; source quantitative analysis files not located, or panel/legend incomplete (notably S6/S8)</td>
+    </tr>
+    <tr>
+      <td>S8_EXPERIMENTS_OR_GAPS</td>
+      <td>FigureS8</td>
+      <td>needs_evidence</td>
+      <td>Supporting document inspected; source quantitative analysis files not located, or panel/legend incomplete (notably S6/S8)</td>
+    </tr>
+    <tr>
+      <td>TABLE_S2</td>
+      <td>TableS2</td>
+      <td>partial</td>
+      <td>Oligonucleotide/primer sequences are in the supplementary document; not computational analyses and not independently sequence-validated here</td>
+    </tr>
+    <tr>
+      <td>TABLE_S3</td>
+      <td>TableS3</td>
+      <td>partial</td>
+      <td>Oligonucleotide/primer sequences are in the supplementary document; not computational analyses and not independently sequence-validated here</td>
+    </tr>
+    <tr>
+      <td>TABLE_S4</td>
+      <td>TableS4</td>
+      <td>partial</td>
+      <td>Oligonucleotide/primer sequences are in the supplementary document; not computational analyses and not independently sequence-validated here</td>
+    </tr>
+  </tbody>
+</table></div><h2>已批准的计算图参考输出</h2><p>以下均为已有分析图，不是新实验数据；空间图为参考成图，默认运行不会冒称重新生成原始坐标。</p><section><h3>Figure1bc_horizontal_selected19_fullcells</h3><a href="outputs/reference/Figure1bc_horizontal_selected19_fullcells.png"><img loading="lazy" src="outputs/reference/Figure1bc_horizontal_selected19_fullcells.png"></a></section><section><h3>Figure1E_COLI_SOX9_unified_slot</h3><a href="outputs/reference/Figure1E_COLI_SOX9_unified_slot.png"><img loading="lazy" src="outputs/reference/Figure1E_COLI_SOX9_unified_slot.png"></a></section><section><h3>Figure2AB_human_Fib_slot</h3><a href="outputs/reference/Figure2AB_human_Fib_slot.png"><img loading="lazy" src="outputs/reference/Figure2AB_human_Fib_slot.png"></a></section><section><h3>Figure3G_COLI_SOX9_unified_slot</h3><a href="outputs/reference/Figure3G_COLI_SOX9_unified_slot.png"><img loading="lazy" src="outputs/reference/Figure3G_COLI_SOX9_unified_slot.png"></a></section><section><h3>Figure4H_left_Fib_ACTA2_SOX9_regulon_network_105mm</h3><a href="outputs/reference/Figure4H_left_Fib_ACTA2_SOX9_regulon_network_105mm.png"><img loading="lazy" src="outputs/reference/Figure4H_left_Fib_ACTA2_SOX9_regulon_network_105mm.png"></a></section><section><h3>Figure4H_right_Fib_ACTA2_SOX9_target_GO_BP_105mm</h3><a href="outputs/reference/Figure4H_right_Fib_ACTA2_SOX9_target_GO_BP_105mm.png"><img loading="lazy" src="outputs/reference/Figure4H_right_Fib_ACTA2_SOX9_target_GO_BP_105mm.png"></a></section><section><h3>Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width</h3><a href="outputs/reference/Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width.png"><img loading="lazy" src="outputs/reference/Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width.png"></a></section></body></html>

@@ -1,0 +1,31 @@
+{
+  "runs": {
+    "aggregate": {
+      "status": "executed_verified",
+      "checks": 35,
+      "elapsed_seconds": 7.10509181022644,
+      "checks_all_pass": true
+    },
+    "full_culture": {
+      "status": "executed_verified",
+      "checks": 14,
+      "elapsed_seconds": 25.070496559143066,
+      "checks_all_pass": true
+    },
+    "full_figure2": {
+      "status": "executed_verified",
+      "checks": 7,
+      "elapsed_seconds": 60.584837198257446,
+      "checks_all_pass": true
+    },
+    "source_spatial": {
+      "status": "executed_verified",
+      "checks": 32,
+      "elapsed_seconds": 34.23656129837036,
+      "checks_all_pass": true
+    }
+  },
+  "cleanroom_tables_identical": 9,
+  "whole_manuscript_status": "partial",
+  "public_candidate_status": "privacy_minimized_pending_author_permissions_and_license"
+}

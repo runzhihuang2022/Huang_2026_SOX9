@@ -1,0 +1,7 @@
+RUN figure1
+RUN figure2
+RUN spatial
+RUN culture
+{"status": "executed_verified", "numerical_checks": 35, "errors": [], "elapsed_seconds": 6.511038303375244}
+
+STDERR

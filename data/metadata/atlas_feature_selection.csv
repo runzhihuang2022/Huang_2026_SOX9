@@ -1,0 +1,3001 @@
+﻿source_index,symbol,within_source_feature_rank,source_rank_field
+0,ISG15,1,existing source HVG order
+0,ERRFI1,2,existing source HVG order
+0,RERE,3,existing source HVG order
+0,RBP7,4,existing source HVG order
+0,MTOR,5,existing source HVG order
+0,ANGPTL7,6,existing source HVG order
+0,PDPN,7,existing source HVG order
+0,KAZN,8,existing source HVG order
+0,CROCC,9,existing source HVG order
+0,PADI4,10,existing source HVG order
+0,ALPL,11,existing source HVG order
+0,C1QA,12,existing source HVG order
+0,C1QC,13,existing source HVG order
+0,C1QB,14,existing source HVG order
+0,STMN1,15,existing source HVG order
+0,PDIK1L,16,existing source HVG order
+0,TRIM63,17,existing source HVG order
+0,GJA4,18,existing source HVG order
+0,EDN2,19,existing source HVG order
+0,TRABD2B,20,existing source HVG order
+0,CYB5RL,21,existing source HVG order
+0,LEPR,22,existing source HVG order
+0,PDE4B,23,existing source HVG order
+0,SGIP1,24,existing source HVG order
+0,NEGR1,25,existing source HVG order
+0,SLC44A5,26,existing source HVG order
+0,ST6GALNAC3,27,existing source HVG order
+0,NEXN,28,existing source HVG order
+0,PTGFR,29,existing source HVG order
+0,ADGRL4,30,existing source HVG order
+0,VCAM1,31,existing source HVG order
+0,COL11A1,32,existing source HVG order
+0,PROK1,33,existing source HVG order
+0,PHTF1,34,existing source HVG order
+0,OLFML3,35,existing source HVG order
+0,CASQ2,36,existing source HVG order
+0,HMGCS2,37,existing source HVG order
+0,HSD3B1,38,existing source HVG order
+0,GJA5,39,existing source HVG order
+0,CTSK,40,existing source HVG order
+0,FLG2,41,existing source HVG order
+0,TCHH,42,existing source HVG order
+0,RPTN,43,existing source HVG order
+0,HRNR,44,existing source HVG order
+0,LCE3D,45,existing source HVG order
+0,CRCT1,46,existing source HVG order
+0,LCE3E,47,existing source HVG order
+0,KPRP,48,existing source HVG order
+0,SPRR1B,49,existing source HVG order
+0,LCE1C,50,existing source HVG order
+0,LCE1B,51,existing source HVG order
+0,IVL,52,existing source HVG order
+0,SPRR1A,53,existing source HVG order
+0,S100A8,54,existing source HVG order
+0,LOR,55,existing source HVG order
+0,SPRR2D,56,existing source HVG order
+0,SPRR2E,57,existing source HVG order
+0,S100A9,58,existing source HVG order
+0,S100A2,59,existing source HVG order
+0,S100A1,60,existing source HVG order
+0,S100A7A,61,existing source HVG order
+0,SEMA4A,62,existing source HVG order
+0,BGLAP,63,existing source HVG order
+0,FCRL5,64,existing source HVG order
+0,FCER1A,65,existing source HVG order
+0,ACKR1,66,existing source HVG order
+0,SLAMF1,67,existing source HVG order
+0,ITLN1,68,existing source HVG order
+0,ADAMTS4,69,existing source HVG order
+0,MPZ,70,existing source HVG order
+0,FCER1G,71,existing source HVG order
+0,NOS1AP,72,existing source HVG order
+0,XCL1,73,existing source HVG order
+0,DPT,74,existing source HVG order
+0,ATP1B1,75,existing source HVG order
+0,SELE,76,existing source HVG order
+0,MROH9,77,existing source HVG order
+0,FMO3,78,existing source HVG order
+0,FMO2,79,existing source HVG order
+0,DNM3,80,existing source HVG order
+0,MYOC,81,existing source HVG order
+0,TNN,82,existing source HVG order
+0,ANGPTL1,83,existing source HVG order
+0,RGS16,84,existing source HVG order
+0,PRG4,85,existing source HVG order
+0,PTGS2,86,existing source HVG order
+0,RGS18,87,existing source HVG order
+0,RGS1,88,existing source HVG order
+0,RGS2,89,existing source HVG order
+0,KCNT2,90,existing source HVG order
+0,CFH,91,existing source HVG order
+0,CFHR1,92,existing source HVG order
+0,ASPM,93,existing source HVG order
+0,TNNI1,94,existing source HVG order
+0,LMOD1,95,existing source HVG order
+0,ELF3,96,existing source HVG order
+0,FMOD,97,existing source HVG order
+0,PRELP,98,existing source HVG order
+0,IL20,99,existing source HVG order
+0,IL10,100,existing source HVG order
+0,IL24,101,existing source HVG order
+0,LAMB3,102,existing source HVG order
+0,G0S2,103,existing source HVG order
+0,CENPF,104,existing source HVG order
+0,TGFB2,105,existing source HVG order
+0,ACTA1,106,existing source HVG order
+0,AGT,107,existing source HVG order
+0,ACTN2,108,existing source HVG order
+0,RYR2,109,existing source HVG order
+0,CHRM3,110,existing source HVG order
+0,NLRP3,111,existing source HVG order
+0,ADARB2,112,existing source HVG order
+0,CALML3,113,existing source HVG order
+0,ITIH5,114,existing source HVG order
+0,ITGA8,115,existing source HVG order
+0,MRC1,116,existing source HVG order
+0,CACNB2,117,existing source HVG order
+0,PLXDC2,118,existing source HVG order
+0,DNAJC1,119,existing source HVG order
+0,ZEB1,120,existing source HVG order
+0,NRP1,121,existing source HVG order
+0,CREM,122,existing source HVG order
+0,CXCL12,123,existing source HVG order
+0,MSMB,124,existing source HVG order
+0,PRKG1,125,existing source HVG order
+0,DKK1,126,existing source HVG order
+0,BICC1,127,existing source HVG order
+0,SRGN,128,existing source HVG order
+0,KCNMA1,129,existing source HVG order
+0,NRG3,130,existing source HVG order
+0,ACTA2,131,existing source HVG order
+0,CH25H,132,existing source HVG order
+0,IFIT3,133,existing source HVG order
+0,IFIT2,134,existing source HVG order
+0,ANKRD1,135,existing source HVG order
+0,RBP4,136,existing source HVG order
+0,SORBS1,137,existing source HVG order
+0,DNTT,138,existing source HVG order
+0,CRTAC1,139,existing source HVG order
+0,COL17A1,140,existing source HVG order
+0,VWA2,141,existing source HVG order
+0,SLC18A2,142,existing source HVG order
+0,HTRA1,143,existing source HVG order
+0,ADAM12,144,existing source HVG order
+0,MKI67,145,existing source HVG order
+0,EBF3,146,existing source HVG order
+0,SCT,147,existing source HVG order
+0,IGF2,148,existing source HVG order
+0,KCNQ1OT1,149,existing source HVG order
+0,CNGA4,150,existing source HVG order
+0,ST5,151,existing source HVG order
+0,DENND5A,152,existing source HVG order
+0,LYVE1,153,existing source HVG order
+0,SPON1,154,existing source HVG order
+0,PDE3B,155,existing source HVG order
+0,CALCA,156,existing source HVG order
+0,SAA1,157,existing source HVG order
+0,SAA2,158,existing source HVG order
+0,NAV2,159,existing source HVG order
+0,ANO5,160,existing source HVG order
+0,MPPED2,161,existing source HVG order
+0,MDK,162,existing source HVG order
+0,C1QTNF4,163,existing source HVG order
+0,APLNR,164,existing source HVG order
+0,PRG2,165,existing source HVG order
+0,MS4A2,166,existing source HVG order
+0,MS4A3,167,existing source HVG order
+0,MS4A7,168,existing source HVG order
+0,MS4A1,169,existing source HVG order
+0,FTH1,170,existing source HVG order
+0,SCGB2A2,171,existing source HVG order
+0,NEAT1,172,existing source HVG order
+0,CST6,173,existing source HVG order
+0,GAL,174,existing source HVG order
+0,FOLR2,175,existing source HVG order
+0,FCHSD2,176,existing source HVG order
+0,THRSP,177,existing source HVG order
+0,GAB2,178,existing source HVG order
+0,TENM4,179,existing source HVG order
+0,RAB30,180,existing source HVG order
+0,TYR,181,existing source HVG order
+0,FAT3,182,existing source HVG order
+0,MAML2,183,existing source HVG order
+0,BIRC3,184,existing source HVG order
+0,MMP7,185,existing source HVG order
+0,MMP10,186,existing source HVG order
+0,MMP8,187,existing source HVG order
+0,MMP3,188,existing source HVG order
+0,MMP12,189,existing source HVG order
+0,MMP13,190,existing source HVG order
+0,SLN,191,existing source HVG order
+0,ELMOD1,192,existing source HVG order
+0,POU2AF1,193,existing source HVG order
+0,CRYAB,194,existing source HVG order
+0,NCAM1,195,existing source HVG order
+0,NNMT,196,existing source HVG order
+0,CADM1,197,existing source HVG order
+0,SIK3,198,existing source HVG order
+0,TAGLN,199,existing source HVG order
+0,MCAM,200,existing source HVG order
+0,THY1,201,existing source HVG order
+0,UBASH3B,202,existing source HVG order
+0,GRAMD1B,203,existing source HVG order
+0,CACNA1C,204,existing source HVG order
+0,FGF23,205,existing source HVG order
+0,ANO2,206,existing source HVG order
+0,VWF,207,existing source HVG order
+0,ACRBP,208,existing source HVG order
+0,LRRC23,209,existing source HVG order
+0,CD163,210,existing source HVG order
+0,MFAP5,211,existing source HVG order
+0,A2M,212,existing source HVG order
+0,CD69,213,existing source HVG order
+0,OLR1,214,existing source HVG order
+0,ETV6,215,existing source HVG order
+0,GPRC5A,216,existing source HVG order
+0,MGP,217,existing source HVG order
+0,RERGL,218,existing source HVG order
+0,PLEKHA5,219,existing source HVG order
+0,PDE3A,220,existing source HVG order
+0,SOX5,221,existing source HVG order
+0,TMTC1,222,existing source HVG order
+0,PDZRN4,223,existing source HVG order
+0,COL2A1,224,existing source HVG order
+0,RND1,225,existing source HVG order
+0,FKBP11,226,existing source HVG order
+0,AQP5,227,existing source HVG order
+0,AQP2,228,existing source HVG order
+0,KRT5,229,existing source HVG order
+0,KRT6A,230,existing source HVG order
+0,KRT6B,231,existing source HVG order
+0,KRT7,232,existing source HVG order
+0,KRT2,233,existing source HVG order
+0,KRT81,234,existing source HVG order
+0,KRT8,235,existing source HVG order
+0,KRT18,236,existing source HVG order
+0,KRT82,237,existing source HVG order
+0,KRT75,238,existing source HVG order
+0,KRT79,239,existing source HVG order
+0,KRT77,240,existing source HVG order
+0,KRT71,241,existing source HVG order
+0,KRT73,242,existing source HVG order
+0,IGFBP6,243,existing source HVG order
+0,PMEL,244,existing source HVG order
+0,MMP19,245,existing source HVG order
+0,APOF,246,existing source HVG order
+0,HSD17B6,247,existing source HVG order
+0,NDUFA4L2,248,existing source HVG order
+0,AVPR1A,249,existing source HVG order
+0,WIF1,250,existing source HVG order
+0,IRAK3,251,existing source HVG order
+0,IFNG,252,existing source HVG order
+0,IL22,253,existing source HVG order
+0,TSPAN8,254,existing source HVG order
+0,NAV3,255,existing source HVG order
+0,SYT1,256,existing source HVG order
+0,PPFIA2,257,existing source HVG order
+0,TMTC2,258,existing source HVG order
+0,MGAT4C,259,existing source HVG order
+0,NTS,260,existing source HVG order
+0,ATP2B1,261,existing source HVG order
+0,DCN,262,existing source HVG order
+0,LUM,263,existing source HVG order
+0,EPYC,264,existing source HVG order
+0,MYBPC1,265,existing source HVG order
+0,IGF1,266,existing source HVG order
+0,HSP90B1,267,existing source HVG order
+0,STAB2,268,existing source HVG order
+0,CHST11,269,existing source HVG order
+0,BTBD11,270,existing source HVG order
+0,MYL2,271,existing source HVG order
+0,SDS,272,existing source HVG order
+0,TMEM132C,273,existing source HVG order
+0,GJB2,274,existing source HVG order
+0,ATP12A,275,existing source HVG order
+0,FLT1,276,existing source HVG order
+0,MEDAG,277,existing source HVG order
+0,HSPH1,278,existing source HVG order
+0,DCLK1,279,existing source HVG order
+0,POSTN,280,existing source HVG order
+0,RGCC,281,existing source HVG order
+0,ENOX1,282,existing source HVG order
+0,FNDC3A,283,existing source HVG order
+0,INTS6,284,existing source HVG order
+0,OLFM4,285,existing source HVG order
+0,PCDH17,286,existing source HVG order
+0,PCDH20,287,existing source HVG order
+0,PCDH9,288,existing source HVG order
+0,DACH1,289,existing source HVG order
+0,LMO7,290,existing source HVG order
+0,SCEL,291,existing source HVG order
+0,EDNRB,292,existing source HVG order
+0,GPC5,293,existing source HVG order
+0,GPC6,294,existing source HVG order
+0,DCT,295,existing source HVG order
+0,CLDN10,296,existing source HVG order
+0,GPR183,297,existing source HVG order
+0,ITGBL1,298,existing source HVG order
+0,FGF14,299,existing source HVG order
+0,FAM155A,300,existing source HVG order
+0,COL4A1,301,existing source HVG order
+0,COL4A2,302,existing source HVG order
+0,RNASE1,303,existing source HVG order
+0,MYH7,304,existing source HVG order
+0,CMA1,305,existing source HVG order
+0,CTSG,306,existing source HVG order
+0,GZMB,307,existing source HVG order
+0,COCH,308,existing source HVG order
+0,NPAS3,309,existing source HVG order
+0,SIPA1L1,310,existing source HVG order
+0,RGS6,311,existing source HVG order
+0,HEATR4,312,existing source HVG order
+0,ACOT1,313,existing source HVG order
+0,NRXN3,314,existing source HVG order
+0,DIO2,315,existing source HVG order
+0,FLRT2,316,existing source HVG order
+0,BTBD7,317,existing source HVG order
+0,SERPINA12,318,existing source HVG order
+0,SERPINA9,319,existing source HVG order
+0,MEG3,320,existing source HVG order
+0,DLK1,321,existing source HVG order
+0,DIO3,322,existing source HVG order
+0,TRPM1,323,existing source HVG order
+0,GREM1,324,existing source HVG order
+0,RYR3,325,existing source HVG order
+0,ACTC1,326,existing source HVG order
+0,GPR176,327,existing source HVG order
+0,THBS1,328,existing source HVG order
+0,EXD1,329,existing source HVG order
+0,NUSAP1,330,existing source HVG order
+0,CAPN3,331,existing source HVG order
+0,UBR1,332,existing source HVG order
+0,SLC24A5,333,existing source HVG order
+0,FBN1,334,existing source HVG order
+0,FGF7,335,existing source HVG order
+0,ATP8B4,336,existing source HVG order
+0,HDC,337,existing source HVG order
+0,GLDN,338,existing source HVG order
+0,SCG3,339,existing source HVG order
+0,AQP9,340,existing source HVG order
+0,MYO1E,341,existing source HVG order
+0,RORA,342,existing source HVG order
+0,C2CD4B,343,existing source HVG order
+0,TPM1,344,existing source HVG order
+0,DAPK2,345,existing source HVG order
+0,CILP,346,existing source HVG order
+0,DENND4A,347,existing source HVG order
+0,ARIH1,348,existing source HVG order
+0,ISLR,349,existing source HVG order
+0,CYP1A2,350,existing source HVG order
+0,PEAK1,351,existing source HVG order
+0,CRABP1,352,existing source HVG order
+0,CEMIP,353,existing source HVG order
+0,ADAMTSL3,354,existing source HVG order
+0,ACAN,355,existing source HVG order
+0,RHCG,356,existing source HVG order
+0,PLIN1,357,existing source HVG order
+0,MCTP2,358,existing source HVG order
+0,NR2F2,359,existing source HVG order
+0,ADAMTS17,360,existing source HVG order
+0,ALDH1A3,361,existing source HVG order
+0,PDIA2,362,existing source HVG order
+0,TPSB2,363,existing source HVG order
+0,TPSAB1,364,existing source HVG order
+0,SLC9A3R2,365,existing source HVG order
+0,TNFRSF17,366,existing source HVG order
+0,MYH11,367,existing source HVG order
+0,XYLT1,368,existing source HVG order
+0,ACSM1,369,existing source HVG order
+0,ACSM3,370,existing source HVG order
+0,HS3ST2,371,existing source HVG order
+0,MYLPF,372,existing source HVG order
+0,ITGAX,373,existing source HVG order
+0,MMP2,374,existing source HVG order
+0,MT3,375,existing source HVG order
+0,HERPUD1,376,existing source HVG order
+0,CCL22,377,existing source HVG order
+0,CCL17,378,existing source HVG order
+0,CDH11,379,existing source HVG order
+0,RRAD,380,existing source HVG order
+0,ZFHX3,381,existing source HVG order
+0,CLEC3A,382,existing source HVG order
+0,WWOX,383,existing source HVG order
+0,PLCG2,384,existing source HVG order
+0,DNAAF1,385,existing source HVG order
+0,CRISPLD2,386,existing source HVG order
+0,IRF8,387,existing source HVG order
+0,BANP,388,existing source HVG order
+0,CYBA,389,existing source HVG order
+0,SERPINF1,390,existing source HVG order
+0,SLC43A2,391,existing source HVG order
+0,CYB5D2,392,existing source HVG order
+0,VMO1,393,existing source HVG order
+0,CLEC10A,394,existing source HVG order
+0,PIK3R5,395,existing source HVG order
+0,MYH2,396,existing source HVG order
+0,TRIM16,397,existing source HVG order
+0,RASD1,398,existing source HVG order
+0,MFAP4,399,existing source HVG order
+0,KSR1,400,existing source HVG order
+0,SLC13A2,401,existing source HVG order
+0,TAOK1,402,existing source HVG order
+0,BLMH,403,existing source HVG order
+0,CCL2,404,existing source HVG order
+0,CCL8,405,existing source HVG order
+0,CCL11,406,existing source HVG order
+0,CCL7,407,existing source HVG order
+0,CCL1,408,existing source HVG order
+0,CCL4,409,existing source HVG order
+0,CCL3,410,existing source HVG order
+0,STAC2,411,existing source HVG order
+0,PPP1R1B,412,existing source HVG order
+0,TCAP,413,existing source HVG order
+0,CSF3,414,existing source HVG order
+0,IGFBP4,415,existing source HVG order
+0,TOP2A,416,existing source HVG order
+0,KRT23,417,existing source HVG order
+0,KRT27,418,existing source HVG order
+0,KRT19,419,existing source HVG order
+0,KRT14,420,existing source HVG order
+0,KRT20,421,existing source HVG order
+0,KRT15,422,existing source HVG order
+0,KRT17,423,existing source HVG order
+0,KRT31,424,existing source HVG order
+0,KRT16,425,existing source HVG order
+0,KRT32,426,existing source HVG order
+0,KRT13,427,existing source HVG order
+0,KRT9,428,existing source HVG order
+0,SOST,429,existing source HVG order
+0,ITGA2B,430,existing source HVG order
+0,SLC4A1,431,existing source HVG order
+0,CDC27,432,existing source HVG order
+0,COL1A1,433,existing source HVG order
+0,CHAD,434,existing source HVG order
+0,MSI2,435,existing source HVG order
+0,MPO,436,existing source HVG order
+0,EPX,437,existing source HVG order
+0,TEX14,438,existing source HVG order
+0,PECAM1,439,existing source HVG order
+0,PRKCA,440,existing source HVG order
+0,PITPNC1,441,existing source HVG order
+0,ABCA9,442,existing source HVG order
+0,ABCA6,443,existing source HVG order
+0,SOX9,444,existing source HVG order
+0,ARMC7,445,existing source HVG order
+0,PPP1R27,446,existing source HVG order
+0,FOXK2,447,existing source HVG order
+0,COLEC12,448,existing source HVG order
+0,TYMS,449,existing source HVG order
+0,ADCYAP1,450,existing source HVG order
+0,DLGAP1,451,existing source HVG order
+0,LAMA1,452,existing source HVG order
+0,PTPRM,453,existing source HVG order
+0,PIEZO2,454,existing source HVG order
+0,LDLRAD4,455,existing source HVG order
+0,CABLES1,456,existing source HVG order
+0,TAF4B,457,existing source HVG order
+0,CDH2,458,existing source HVG order
+0,DSC1,459,existing source HVG order
+0,KLHL14,460,existing source HVG order
+0,SLC14A1,461,existing source HVG order
+0,DCC,462,existing source HVG order
+0,TCF4,463,existing source HVG order
+0,SEC11C,464,existing source HVG order
+0,CCBE1,465,existing source HVG order
+0,PHLPP1,466,existing source HVG order
+0,SERPINB7,467,existing source HVG order
+0,SERPINB2,468,existing source HVG order
+0,CDH19,469,existing source HVG order
+0,CFD,470,existing source HVG order
+0,PRSS57,471,existing source HVG order
+0,PRTN3,472,existing source HVG order
+0,ELANE,473,existing source HVG order
+0,GNG7,474,existing source HVG order
+0,MFSD12,475,existing source HVG order
+0,C3,476,existing source HVG order
+0,INSR,477,existing source HVG order
+0,ANGPTL4,478,existing source HVG order
+0,ICAM1,479,existing source HVG order
+0,ACP5,480,existing source HVG order
+0,CNN1,481,existing source HVG order
+0,ZSWIM4,482,existing source HVG order
+0,CASP14,483,existing source HVG order
+0,PLVAP,484,existing source HVG order
+0,IFI30,485,existing source HVG order
+0,GDF15,486,existing source HVG order
+0,COMP,487,existing source HVG order
+0,CILP2,488,existing source HVG order
+0,KRTDAP,489,existing source HVG order
+0,SBSN,490,existing source HVG order
+0,HAMP,491,existing source HVG order
+0,NPHS1,492,existing source HVG order
+0,TYROBP,493,existing source HVG order
+0,UPK1A,494,existing source HVG order
+0,PPP1R14A,495,existing source HVG order
+0,CCER2,496,existing source HVG order
+0,FCGBP,497,existing source HVG order
+0,CEACAM5,498,existing source HVG order
+0,CNFN,499,existing source HVG order
+0,PLAUR,500,existing source HVG order
+2,SCGB1A1,1,highly_variable_rank
+2,SCGB3A2,2,highly_variable_rank
+2,SCGB3A1,3,highly_variable_rank
+2,BPIFB1,4,highly_variable_rank
+2,SFTPC,5,highly_variable_rank
+2,SFTPA1,6,highly_variable_rank
+2,SPP1,7,highly_variable_rank
+2,DCN,8,highly_variable_rank
+2,FABP4,9,highly_variable_rank
+2,ACKR1,10,highly_variable_rank
+2,CCL2,11,highly_variable_rank
+2,SLPI,12,highly_variable_rank
+2,CCL4,13,highly_variable_rank
+2,PTGDS,14,highly_variable_rank
+2,TAGLN,15,highly_variable_rank
+2,MGP,16,highly_variable_rank
+2,NAPSA,17,highly_variable_rank
+2,MUC5B,18,highly_variable_rank
+2,MMP7,19,highly_variable_rank
+2,SFRP2,20,highly_variable_rank
+2,LCN2,21,highly_variable_rank
+2,CHIT1,22,highly_variable_rank
+2,CCL17,23,highly_variable_rank
+2,CXCL1,24,highly_variable_rank
+2,KRT17,25,highly_variable_rank
+2,ACTA2,26,highly_variable_rank
+2,WFDC2,27,highly_variable_rank
+2,LUM,28,highly_variable_rank
+2,S100A8,29,highly_variable_rank
+2,S100A2,30,highly_variable_rank
+2,TFF3,31,highly_variable_rank
+2,MSMB,32,highly_variable_rank
+2,PGC,33,highly_variable_rank
+2,COL1A1,34,highly_variable_rank
+2,CCL20,35,highly_variable_rank
+2,VWF,36,highly_variable_rank
+2,COL1A2,37,highly_variable_rank
+2,SPARCL1,38,highly_variable_rank
+2,MMP9,39,highly_variable_rank
+2,FBLN1,40,highly_variable_rank
+2,SAA1,41,highly_variable_rank
+2,C7,42,highly_variable_rank
+2,LTF,43,highly_variable_rank
+2,TIMP3,44,highly_variable_rank
+2,PMEL,45,highly_variable_rank
+2,IGFBP6,46,highly_variable_rank
+2,COL3A1,47,highly_variable_rank
+2,TRIML2,48,highly_variable_rank
+2,TPSAB1,49,highly_variable_rank
+2,CLDN5,50,highly_variable_rank
+2,HP,51,highly_variable_rank
+2,CXCL14,52,highly_variable_rank
+2,TMEM190,53,highly_variable_rank
+2,POSTN,54,highly_variable_rank
+2,NKG7,55,highly_variable_rank
+2,CXCL10,56,highly_variable_rank
+2,KRT7,57,highly_variable_rank
+2,CCL3,58,highly_variable_rank
+2,FCER1A,59,highly_variable_rank
+2,IL1RN,60,highly_variable_rank
+2,IGFBP3,61,highly_variable_rank
+2,SPARC,62,highly_variable_rank
+2,CCL24,63,highly_variable_rank
+2,BGN,64,highly_variable_rank
+2,TYMS,65,highly_variable_rank
+2,JCHAIN,66,highly_variable_rank
+2,KRT15,67,highly_variable_rank
+2,KRT19,68,highly_variable_rank
+2,CD207,69,highly_variable_rank
+2,KRT5,70,highly_variable_rank
+2,SPINK1,71,highly_variable_rank
+2,UBE2C,72,highly_variable_rank
+2,SFTPB,73,highly_variable_rank
+2,FGG,74,highly_variable_rank
+2,AGR2,75,highly_variable_rank
+2,G0S2,76,highly_variable_rank
+2,GDF15,77,highly_variable_rank
+2,S100B,78,highly_variable_rank
+2,SNTN,79,highly_variable_rank
+2,BPIFA1,80,highly_variable_rank
+2,MMRN1,81,highly_variable_rank
+2,RARRES1,82,highly_variable_rank
+2,CCDC80,83,highly_variable_rank
+2,AGER,84,highly_variable_rank
+2,TPM2,85,highly_variable_rank
+2,APOE,86,highly_variable_rank
+2,GZMB,87,highly_variable_rank
+2,GSTA2,88,highly_variable_rank
+2,TSPAN1,89,highly_variable_rank
+2,COL6A3,90,highly_variable_rank
+2,MFAP4,91,highly_variable_rank
+2,CXCL9,92,highly_variable_rank
+2,IL1B,93,highly_variable_rank
+2,CXCL5,94,highly_variable_rank
+2,SERPINE1,95,highly_variable_rank
+2,PRG4,96,highly_variable_rank
+2,FABP3,97,highly_variable_rank
+2,CCL5,98,highly_variable_rank
+2,COL6A2,99,highly_variable_rank
+2,APOC1,100,highly_variable_rank
+2,CPA3,101,highly_variable_rank
+2,RAMP2,102,highly_variable_rank
+2,TPPP3,103,highly_variable_rank
+2,FN1,104,highly_variable_rank
+2,CTSK,105,highly_variable_rank
+2,GSTA1,106,highly_variable_rank
+2,IGFBP5,107,highly_variable_rank
+2,APOD,108,highly_variable_rank
+2,RSPH1,109,highly_variable_rank
+2,CCL22,110,highly_variable_rank
+2,PRSS23,111,highly_variable_rank
+2,EDN1,112,highly_variable_rank
+2,TPSB2,113,highly_variable_rank
+2,S100A9,114,highly_variable_rank
+2,RRM2,115,highly_variable_rank
+2,IFI27,116,highly_variable_rank
+2,UBD,117,highly_variable_rank
+2,SFTPD,118,highly_variable_rank
+2,HAMP,119,highly_variable_rank
+2,MYL9,120,highly_variable_rank
+2,PIFO,121,highly_variable_rank
+2,CFD,122,highly_variable_rank
+2,C1QB,123,highly_variable_rank
+2,MMP12,124,highly_variable_rank
+2,PSCA,125,highly_variable_rank
+2,FCGBP,126,highly_variable_rank
+2,PIGR,127,highly_variable_rank
+2,INHBA,128,highly_variable_rank
+2,MMP2,129,highly_variable_rank
+2,AZGP1,130,highly_variable_rank
+2,DMBT1,131,highly_variable_rank
+2,GP2,132,highly_variable_rank
+2,COL6A1,133,highly_variable_rank
+2,CCL11,134,highly_variable_rank
+2,RARRES2,135,highly_variable_rank
+2,RBP4,136,highly_variable_rank
+2,TMEM100,137,highly_variable_rank
+2,CALD1,138,highly_variable_rank
+2,CCL7,139,highly_variable_rank
+2,DNAH12,140,highly_variable_rank
+2,ZMYND10,141,highly_variable_rank
+2,GZMA,142,highly_variable_rank
+2,MZB1,143,highly_variable_rank
+2,PPBP,144,highly_variable_rank
+2,SFTA2,145,highly_variable_rank
+2,SFN,146,highly_variable_rank
+2,RETN,147,highly_variable_rank
+2,CST7,148,highly_variable_rank
+2,GNG11,149,highly_variable_rank
+2,CFAP157,150,highly_variable_rank
+2,RAMP3,151,highly_variable_rank
+2,HIST1H4C,152,highly_variable_rank
+2,TM4SF1,153,highly_variable_rank
+2,MKI67,154,highly_variable_rank
+2,KLK10,155,highly_variable_rank
+2,KLK11,156,highly_variable_rank
+2,SELE,157,highly_variable_rank
+2,CAV1,158,highly_variable_rank
+2,SDS,159,highly_variable_rank
+2,A2M,160,highly_variable_rank
+2,AREG,161,highly_variable_rank
+2,CXCL17,162,highly_variable_rank
+2,CXCL12,163,highly_variable_rank
+2,CXCL3,164,highly_variable_rank
+2,IL1RL1,165,highly_variable_rank
+2,CALCRL,166,highly_variable_rank
+2,DYNLRB2,167,highly_variable_rank
+2,STMN1,168,highly_variable_rank
+2,CLU,169,highly_variable_rank
+2,MUC5AC,170,highly_variable_rank
+2,KRT18,171,highly_variable_rank
+2,LTB,172,highly_variable_rank
+2,PLVAP,173,highly_variable_rank
+2,MS4A1,174,highly_variable_rank
+2,HOPX,175,highly_variable_rank
+2,C1QC,176,highly_variable_rank
+2,AQP5,177,highly_variable_rank
+2,CTHRC1,178,highly_variable_rank
+2,SFRP4,179,highly_variable_rank
+2,CTSE,180,highly_variable_rank
+2,THY1,181,highly_variable_rank
+2,ADAMTS1,182,highly_variable_rank
+2,PPP1R14A,183,highly_variable_rank
+2,CLEC3B,184,highly_variable_rank
+2,SLC34A2,185,highly_variable_rank
+2,C3,186,highly_variable_rank
+2,SYT8,187,highly_variable_rank
+2,IGFBP7,188,highly_variable_rank
+2,TOP2A,189,highly_variable_rank
+2,CD79A,190,highly_variable_rank
+2,COMP,191,highly_variable_rank
+2,VCAM1,192,highly_variable_rank
+2,MYH11,193,highly_variable_rank
+2,PIP,194,highly_variable_rank
+2,HPGD,195,highly_variable_rank
+2,KRT8,196,highly_variable_rank
+2,CCDC78,197,highly_variable_rank
+2,MCEMP1,198,highly_variable_rank
+2,C1QA,199,highly_variable_rank
+2,CAPSL,200,highly_variable_rank
+2,TSPAN8,201,highly_variable_rank
+2,FAM92B,202,highly_variable_rank
+2,PLA2G7,203,highly_variable_rank
+2,LYPD2,204,highly_variable_rank
+2,SERPINF1,205,highly_variable_rank
+2,MUC16,206,highly_variable_rank
+2,SERPINB2,207,highly_variable_rank
+2,CLDN18,208,highly_variable_rank
+2,IL6,209,highly_variable_rank
+2,LRRIQ1,210,highly_variable_rank
+2,CHST9,211,highly_variable_rank
+2,LAMP3,212,highly_variable_rank
+2,CLEC14A,213,highly_variable_rank
+2,TACSTD2,214,highly_variable_rank
+2,IGF1,215,highly_variable_rank
+2,TMEM45A,216,highly_variable_rank
+2,SAA2,217,highly_variable_rank
+2,CP,218,highly_variable_rank
+2,FOLR2,219,highly_variable_rank
+2,CSF3,220,highly_variable_rank
+2,DNASE1L3,221,highly_variable_rank
+2,SLCO2A1,222,highly_variable_rank
+2,AKAP12,223,highly_variable_rank
+2,CD69,224,highly_variable_rank
+2,DES,225,highly_variable_rank
+2,EGFL7,226,highly_variable_rank
+2,MORN2,227,highly_variable_rank
+2,PRSS2,228,highly_variable_rank
+2,EFEMP1,229,highly_variable_rank
+2,CENPF,230,highly_variable_rank
+2,TCF21,231,highly_variable_rank
+2,CCL8,232,highly_variable_rank
+2,MORN5,233,highly_variable_rank
+2,PTTG1,234,highly_variable_rank
+2,TIMP1,235,highly_variable_rank
+2,OMG,236,highly_variable_rank
+2,TFPI2,237,highly_variable_rank
+2,NDUFA4L2,238,highly_variable_rank
+2,WDR38,239,highly_variable_rank
+2,PRF1,240,highly_variable_rank
+2,CH25H,241,highly_variable_rank
+2,NUSAP1,242,highly_variable_rank
+2,IGFBP4,243,highly_variable_rank
+2,COL5A2,244,highly_variable_rank
+2,CDC20,245,highly_variable_rank
+2,XCL1,246,highly_variable_rank
+2,ANKRD1,247,highly_variable_rank
+2,ROPN1L,248,highly_variable_rank
+2,ELN,249,highly_variable_rank
+2,DLK1,250,highly_variable_rank
+2,AGR3,251,highly_variable_rank
+2,STEAP4,252,highly_variable_rank
+2,EREG,253,highly_variable_rank
+2,EMCN,254,highly_variable_rank
+2,SPINK5,255,highly_variable_rank
+2,NNMT,256,highly_variable_rank
+2,ALOX5AP,257,highly_variable_rank
+2,FOXJ1,258,highly_variable_rank
+2,ID1,259,highly_variable_rank
+2,MS4A2,260,highly_variable_rank
+2,LYNX1,261,highly_variable_rank
+2,GZMK,262,highly_variable_rank
+2,CDHR3,263,highly_variable_rank
+2,ELF3,264,highly_variable_rank
+2,CCR7,265,highly_variable_rank
+2,MSLN,266,highly_variable_rank
+2,CTSL,267,highly_variable_rank
+2,GPRC5A,268,highly_variable_rank
+2,SERPINE2,269,highly_variable_rank
+2,PI16,270,highly_variable_rank
+2,CD248,271,highly_variable_rank
+2,FGFBP1,272,highly_variable_rank
+2,ALDH3A1,273,highly_variable_rank
+2,FAM107A,274,highly_variable_rank
+2,ASPN,275,highly_variable_rank
+2,FBP1,276,highly_variable_rank
+2,PRKCQ,277,highly_variable_rank
+2,MRC1,278,highly_variable_rank
+2,AQP1,279,highly_variable_rank
+2,MFAP5,280,highly_variable_rank
+2,PTX3,281,highly_variable_rank
+2,IL10,282,highly_variable_rank
+2,KRT4,283,highly_variable_rank
+2,KLRB1,284,highly_variable_rank
+2,PLA2G1B,285,highly_variable_rank
+2,CXCL2,286,highly_variable_rank
+2,MARCO,287,highly_variable_rank
+2,LYVE1,288,highly_variable_rank
+2,SOD3,289,highly_variable_rank
+2,GEM,290,highly_variable_rank
+2,ABCA3,291,highly_variable_rank
+2,IDO1,292,highly_variable_rank
+2,EFCAB1,293,highly_variable_rank
+2,CRABP2,294,highly_variable_rank
+2,CLCA2,295,highly_variable_rank
+2,AEBP1,296,highly_variable_rank
+2,DNAAF1,297,highly_variable_rank
+2,FGF7,298,highly_variable_rank
+2,PCOLCE,299,highly_variable_rank
+2,ANGPT2,300,highly_variable_rank
+2,UPK3B,301,highly_variable_rank
+2,COL14A1,302,highly_variable_rank
+2,SLC6A4,303,highly_variable_rank
+2,DERL3,304,highly_variable_rank
+2,CRYAB,305,highly_variable_rank
+2,GPR183,306,highly_variable_rank
+2,LDLRAD1,307,highly_variable_rank
+2,CETN2,308,highly_variable_rank
+2,IL1R2,309,highly_variable_rank
+2,RGS1,310,highly_variable_rank
+2,SRPX,311,highly_variable_rank
+2,CLDN4,312,highly_variable_rank
+2,TNC,313,highly_variable_rank
+2,COX4I2,314,highly_variable_rank
+2,CLEC9A,315,highly_variable_rank
+2,TNFAIP6,316,highly_variable_rank
+2,CD7,317,highly_variable_rank
+2,OGN,318,highly_variable_rank
+2,FCGR2B,319,highly_variable_rank
+2,CDC20B,320,highly_variable_rank
+2,DPT,321,highly_variable_rank
+2,IL33,322,highly_variable_rank
+2,BPIFB2,323,highly_variable_rank
+2,COL4A1,324,highly_variable_rank
+2,MFAP2,325,highly_variable_rank
+2,THBS1,326,highly_variable_rank
+2,CPE,327,highly_variable_rank
+2,PCSK1N,328,highly_variable_rank
+2,HIGD1B,329,highly_variable_rank
+2,FOLR1,330,highly_variable_rank
+2,MMP19,331,highly_variable_rank
+2,HMOX1,332,highly_variable_rank
+2,GPC3,333,highly_variable_rank
+2,IL7R,334,highly_variable_rank
+2,EMP2,335,highly_variable_rank
+2,CFAP43,336,highly_variable_rank
+2,TREM2,337,highly_variable_rank
+2,CD3E,338,highly_variable_rank
+2,SPON2,339,highly_variable_rank
+2,VMO1,340,highly_variable_rank
+2,FBLN2,341,highly_variable_rank
+2,COL8A1,342,highly_variable_rank
+2,FAM166B,343,highly_variable_rank
+2,PLAT,344,highly_variable_rank
+2,NMB,345,highly_variable_rank
+2,VCAN,346,highly_variable_rank
+2,CFAP53,347,highly_variable_rank
+2,COL5A1,348,highly_variable_rank
+2,DEFB1,349,highly_variable_rank
+2,IGF2,350,highly_variable_rank
+2,LPL,351,highly_variable_rank
+2,RASD1,352,highly_variable_rank
+2,CD36,353,highly_variable_rank
+2,ASPM,354,highly_variable_rank
+2,CD52,355,highly_variable_rank
+2,CFAP126,356,highly_variable_rank
+2,MDK,357,highly_variable_rank
+2,LY6D,358,highly_variable_rank
+2,IGFBP2,359,highly_variable_rank
+2,RSPH9,360,highly_variable_rank
+2,CFB,361,highly_variable_rank
+2,FABP6,362,highly_variable_rank
+2,CYP4B1,363,highly_variable_rank
+2,SPAG6,364,highly_variable_rank
+2,WIF1,365,highly_variable_rank
+2,LIPA,366,highly_variable_rank
+2,THBS2,367,highly_variable_rank
+2,LRRC46,368,highly_variable_rank
+2,LRRK2,369,highly_variable_rank
+2,CDKN3,370,highly_variable_rank
+2,S100A14,371,highly_variable_rank
+2,PRELP,372,highly_variable_rank
+2,CDK1,373,highly_variable_rank
+2,FAM216B,374,highly_variable_rank
+2,ERICH3,375,highly_variable_rank
+2,DNAH5,376,highly_variable_rank
+2,FSTL1,377,highly_variable_rank
+2,EBI3,378,highly_variable_rank
+2,CD3D,379,highly_variable_rank
+2,DKK2,380,highly_variable_rank
+2,KRT6A,381,highly_variable_rank
+2,CALB2,382,highly_variable_rank
+2,MMP10,383,highly_variable_rank
+2,CD34,384,highly_variable_rank
+2,UCHL1,385,highly_variable_rank
+2,OLR1,386,highly_variable_rank
+2,F3,387,highly_variable_rank
+2,KLRD1,388,highly_variable_rank
+2,LGMN,389,highly_variable_rank
+2,HYDIN,390,highly_variable_rank
+2,FXYD3,391,highly_variable_rank
+2,SLC44A4,392,highly_variable_rank
+2,EGFL6,393,highly_variable_rank
+2,CNN1,394,highly_variable_rank
+2,FMO2,395,highly_variable_rank
+2,PEG10,396,highly_variable_rank
+2,DNAH9,397,highly_variable_rank
+2,SOSTDC1,398,highly_variable_rank
+2,TNF,399,highly_variable_rank
+2,ACTG2,400,highly_variable_rank
+2,MUC1,401,highly_variable_rank
+2,FAM229B,402,highly_variable_rank
+2,FABP5,403,highly_variable_rank
+2,PTGIS,404,highly_variable_rank
+2,NTM,405,highly_variable_rank
+2,ABI3BP,406,highly_variable_rank
+2,ITGBL1,407,highly_variable_rank
+2,BIRC5,408,highly_variable_rank
+2,MUC4,409,highly_variable_rank
+2,GPNMB,410,highly_variable_rank
+2,SLC9B2,411,highly_variable_rank
+2,TEKT1,412,highly_variable_rank
+2,CKB,413,highly_variable_rank
+2,SLC6A14,414,highly_variable_rank
+2,PLK1,415,highly_variable_rank
+2,TSPAN7,416,highly_variable_rank
+2,AQP3,417,highly_variable_rank
+2,RERGL,418,highly_variable_rank
+2,CLDN3,419,highly_variable_rank
+2,PTGS2,420,highly_variable_rank
+2,HHIP,421,highly_variable_rank
+2,RTKN2,422,highly_variable_rank
+2,CLEC10A,423,highly_variable_rank
+2,SPAG17,424,highly_variable_rank
+2,IFNG,425,highly_variable_rank
+2,PTPRB,426,highly_variable_rank
+2,CCDC170,427,highly_variable_rank
+2,ISLR,428,highly_variable_rank
+2,DKK3,429,highly_variable_rank
+2,SAXO2,430,highly_variable_rank
+2,F13A1,431,highly_variable_rank
+2,CLIC3,432,highly_variable_rank
+2,OLFML3,433,highly_variable_rank
+2,AQP4,434,highly_variable_rank
+2,NBL1,435,highly_variable_rank
+2,CCNB2,436,highly_variable_rank
+2,ISG15,437,highly_variable_rank
+2,COL4A2,438,highly_variable_rank
+2,EDNRB,439,highly_variable_rank
+2,ACP5,440,highly_variable_rank
+2,CCDC146,441,highly_variable_rank
+2,PLTP,442,highly_variable_rank
+2,PTPRCAP,443,highly_variable_rank
+2,RRAD,444,highly_variable_rank
+2,CEACAM5,445,highly_variable_rank
+2,CD8A,446,highly_variable_rank
+2,HAUS6,447,highly_variable_rank
+2,DUSP2,448,highly_variable_rank
+2,KRT23,449,highly_variable_rank
+2,DNALI1,450,highly_variable_rank
+2,SOX17,451,highly_variable_rank
+2,ANGPTL4,452,highly_variable_rank
+2,ALOX15,453,highly_variable_rank
+2,GJA5,454,highly_variable_rank
+2,TPX2,455,highly_variable_rank
+2,ENPP2,456,highly_variable_rank
+2,PRSS1,457,highly_variable_rank
+2,COL15A1,458,highly_variable_rank
+2,ALPL,459,highly_variable_rank
+2,PKIB,460,highly_variable_rank
+2,IGLL1,461,highly_variable_rank
+2,PERP,462,highly_variable_rank
+2,SMIM22,463,highly_variable_rank
+2,SOX18,464,highly_variable_rank
+2,OSM,465,highly_variable_rank
+2,NMRK2,466,highly_variable_rank
+2,MXRA8,467,highly_variable_rank
+2,CLDN1,468,highly_variable_rank
+2,CPVL,469,highly_variable_rank
+2,TMC5,470,highly_variable_rank
+2,ALOX5,471,highly_variable_rank
+2,CD14,472,highly_variable_rank
+2,NTS,473,highly_variable_rank
+2,HSPB6,474,highly_variable_rank
+2,CCNB1,475,highly_variable_rank
+2,TK1,476,highly_variable_rank
+2,COL22A1,477,highly_variable_rank
+2,TPM1,478,highly_variable_rank
+2,HSPG2,479,highly_variable_rank
+2,HTRA3,480,highly_variable_rank
+2,GCHFR,481,highly_variable_rank
+2,LGALS2,482,highly_variable_rank
+2,ID3,483,highly_variable_rank
+2,PODN,484,highly_variable_rank
+2,CYP1B1,485,highly_variable_rank
+2,EPAS1,486,highly_variable_rank
+2,MEG3,487,highly_variable_rank
+2,TM4SF19,488,highly_variable_rank
+2,RNASE1,489,highly_variable_rank
+2,CRIP2,490,highly_variable_rank
+2,TUBB4B,491,highly_variable_rank
+2,PENK,492,highly_variable_rank
+2,CFH,493,highly_variable_rank
+2,MSR1,494,highly_variable_rank
+2,DDC,495,highly_variable_rank
+2,CCNO,496,highly_variable_rank
+2,SLC9A3R2,497,highly_variable_rank
+2,CCND1,498,highly_variable_rank
+2,KIT,499,highly_variable_rank
+2,CLDN10,500,highly_variable_rank
+3,S100A9,1,highly_variable_rank
+3,AQP6,2,highly_variable_rank
+3,ATP6V1G3,3,highly_variable_rank
+3,SPRR2F,4,highly_variable_rank
+3,MGP,5,highly_variable_rank
+3,MMP12,6,highly_variable_rank
+3,ACTA2,7,highly_variable_rank
+3,SLC26A4,8,highly_variable_rank
+3,S100A8,9,highly_variable_rank
+3,AQP2,10,highly_variable_rank
+3,SLC14A2,11,highly_variable_rank
+3,HIST1H1B,12,highly_variable_rank
+3,TAGLN,13,highly_variable_rank
+3,CCL5,14,highly_variable_rank
+3,SLC12A3,15,highly_variable_rank
+3,COL3A1,16,highly_variable_rank
+3,TPM2,17,highly_variable_rank
+3,ANKRD1,18,highly_variable_rank
+3,SLC12A1,19,highly_variable_rank
+3,MYL9,20,highly_variable_rank
+3,MYH11,21,highly_variable_rank
+3,ARG1,22,highly_variable_rank
+3,COL12A1,23,highly_variable_rank
+3,AQP1,24,highly_variable_rank
+3,KLK1,25,highly_variable_rank
+3,UMOD,26,highly_variable_rank
+3,FST,27,highly_variable_rank
+3,TOP2A,28,highly_variable_rank
+3,FXYD4,29,highly_variable_rank
+3,S100G,30,highly_variable_rank
+3,SPRR1A,31,highly_variable_rank
+3,CCL17,32,highly_variable_rank
+3,COL1A1,33,highly_variable_rank
+3,MKI67,34,highly_variable_rank
+3,CDKN1C,35,highly_variable_rank
+3,CCL2,36,highly_variable_rank
+3,COL1A2,37,highly_variable_rank
+3,CXCL10,38,highly_variable_rank
+3,NPHS2,39,highly_variable_rank
+3,CXCL2,40,highly_variable_rank
+3,HAVCR1,41,highly_variable_rank
+3,AQP4,42,highly_variable_rank
+3,HSD11B2,43,highly_variable_rank
+3,TTR,44,highly_variable_rank
+3,COL6A3,45,highly_variable_rank
+3,CENPF,46,highly_variable_rank
+3,SPARCL1,47,highly_variable_rank
+3,MMP7,48,highly_variable_rank
+3,HIST1H2AE,49,highly_variable_rank
+3,IFIT3,50,highly_variable_rank
+3,NUPR1,51,highly_variable_rank
+3,CLDN5,52,highly_variable_rank
+3,GPNMB,53,highly_variable_rank
+3,SERPINE2,54,highly_variable_rank
+3,HMX2,55,highly_variable_rank
+3,FOXI1,56,highly_variable_rank
+3,UBE2C,57,highly_variable_rank
+3,CCL8,58,highly_variable_rank
+3,PRC1,59,highly_variable_rank
+3,AKAP12,60,highly_variable_rank
+3,CRLF1,61,highly_variable_rank
+3,SLC4A9,62,highly_variable_rank
+3,MUSTN1,63,highly_variable_rank
+3,FGG,64,highly_variable_rank
+3,GUCA2A,65,highly_variable_rank
+3,CXCL14,66,highly_variable_rank
+3,DCN,67,highly_variable_rank
+3,AQP3,68,highly_variable_rank
+3,SPINK8,69,highly_variable_rank
+3,CALB1,70,highly_variable_rank
+3,CCL20,71,highly_variable_rank
+3,PTN,72,highly_variable_rank
+3,NKG7,73,highly_variable_rank
+3,APELA,74,highly_variable_rank
+3,CDH11,75,highly_variable_rank
+3,COL15A1,76,highly_variable_rank
+3,TNC,77,highly_variable_rank
+3,TIMP1,78,highly_variable_rank
+3,COL5A2,79,highly_variable_rank
+3,SLC34A2,80,highly_variable_rank
+3,S100A6,81,highly_variable_rank
+3,KRT19,82,highly_variable_rank
+3,BGN,83,highly_variable_rank
+3,CXCL5,84,highly_variable_rank
+3,LY6D,85,highly_variable_rank
+3,BIRC5,86,highly_variable_rank
+3,EGF,87,highly_variable_rank
+3,SLC4A1,88,highly_variable_rank
+3,PLAT,89,highly_variable_rank
+3,IGFBP3,90,highly_variable_rank
+3,ABCA13,91,highly_variable_rank
+3,SFRP1,92,highly_variable_rank
+3,FBLN5,93,highly_variable_rank
+3,C3,94,highly_variable_rank
+3,NPHS1,95,highly_variable_rank
+3,ADAMTS5,96,highly_variable_rank
+3,SOX17,97,highly_variable_rank
+3,ATP6V1C2,98,highly_variable_rank
+3,STRA6,99,highly_variable_rank
+3,EHD3,100,highly_variable_rank
+3,IL1B,101,highly_variable_rank
+3,SFRP2,102,highly_variable_rank
+3,GDF15,103,highly_variable_rank
+3,ALAS2,104,highly_variable_rank
+3,SERPING1,105,highly_variable_rank
+3,CCL4,106,highly_variable_rank
+3,NUSAP1,107,highly_variable_rank
+3,SERPINE1,108,highly_variable_rank
+3,HMMR,109,highly_variable_rank
+3,CLDN14,110,highly_variable_rank
+3,CCL7,111,highly_variable_rank
+3,S100A4,112,highly_variable_rank
+3,FGB,113,highly_variable_rank
+3,FGA,114,highly_variable_rank
+3,DNASE1,115,highly_variable_rank
+3,SPON1,116,highly_variable_rank
+3,GZMA,117,highly_variable_rank
+3,SLC8A1,118,highly_variable_rank
+3,SLC7A13,119,highly_variable_rank
+3,VCAM1,120,highly_variable_rank
+3,PLET1,121,highly_variable_rank
+3,OLFM4,122,highly_variable_rank
+3,VCAN,123,highly_variable_rank
+3,TMEM52B,124,highly_variable_rank
+3,CD79A,125,highly_variable_rank
+3,IFITM1,126,highly_variable_rank
+3,S100A14,127,highly_variable_rank
+3,PDGFRA,128,highly_variable_rank
+3,LCN2,129,highly_variable_rank
+3,CRYAB,130,highly_variable_rank
+3,ESM1,131,highly_variable_rank
+3,SOSTDC1,132,highly_variable_rank
+3,ITGAE,133,highly_variable_rank
+3,PLN,134,highly_variable_rank
+3,FABP5,135,highly_variable_rank
+3,CYP2E1,136,highly_variable_rank
+3,FXYD3,137,highly_variable_rank
+3,FBLN2,138,highly_variable_rank
+3,HMOX1,139,highly_variable_rank
+3,CCDC80,140,highly_variable_rank
+3,CXCL1,141,highly_variable_rank
+3,SERPINA10,142,highly_variable_rank
+3,PPP1R1A,143,highly_variable_rank
+3,FN1,144,highly_variable_rank
+3,CNTF,145,highly_variable_rank
+3,PODXL,146,highly_variable_rank
+3,CDK1,147,highly_variable_rank
+3,THBS2,148,highly_variable_rank
+3,CPXM1,149,highly_variable_rank
+3,SLPI,150,highly_variable_rank
+3,FBN1,151,highly_variable_rank
+3,RHBG,152,highly_variable_rank
+3,LOX,153,highly_variable_rank
+3,MFAP5,154,highly_variable_rank
+3,LTBP2,155,highly_variable_rank
+3,FOXQ1,156,highly_variable_rank
+3,CFH,157,highly_variable_rank
+3,FCGBP,158,highly_variable_rank
+3,CENPE,159,highly_variable_rank
+3,NAPSA,160,highly_variable_rank
+3,TMEM158,161,highly_variable_rank
+3,ALDH1A2,162,highly_variable_rank
+3,TCF21,163,highly_variable_rank
+3,PIGR,164,highly_variable_rank
+3,CLIC3,165,highly_variable_rank
+3,CD74,166,highly_variable_rank
+3,ALX1,167,highly_variable_rank
+3,CDCA3,168,highly_variable_rank
+3,IGFBP2,169,highly_variable_rank
+3,KIT,170,highly_variable_rank
+3,TSHZ2,171,highly_variable_rank
+3,CP,172,highly_variable_rank
+3,IFIT1,173,highly_variable_rank
+3,HEPACAM2,174,highly_variable_rank
+3,HIST1H3C,175,highly_variable_rank
+3,THBS1,176,highly_variable_rank
+3,VGF,177,highly_variable_rank
+3,MARCO,178,highly_variable_rank
+3,SNCG,179,highly_variable_rank
+3,CALD1,180,highly_variable_rank
+3,F7,181,highly_variable_rank
+3,SERPINB9,182,highly_variable_rank
+3,SLC4A11,183,highly_variable_rank
+3,CPE,184,highly_variable_rank
+3,FABP4,185,highly_variable_rank
+3,PGAM2,186,highly_variable_rank
+3,LRG1,187,highly_variable_rank
+3,IL7R,188,highly_variable_rank
+3,IGFBP5,189,highly_variable_rank
+3,XCR1,190,highly_variable_rank
+3,COL6A1,191,highly_variable_rank
+3,KRT18,192,highly_variable_rank
+3,HSPB1,193,highly_variable_rank
+3,IL1RN,194,highly_variable_rank
+3,CDC20,195,highly_variable_rank
+3,DKK2,196,highly_variable_rank
+3,TPX2,197,highly_variable_rank
+3,BST1,198,highly_variable_rank
+3,CLU,199,highly_variable_rank
+3,ATP6V0D2,200,highly_variable_rank
+3,CDH6,201,highly_variable_rank
+3,STMN2,202,highly_variable_rank
+3,SOX11,203,highly_variable_rank
+3,COL5A1,204,highly_variable_rank
+3,INSRR,205,highly_variable_rank
+3,LHFP,206,highly_variable_rank
+3,NPNT,207,highly_variable_rank
+3,KDR,208,highly_variable_rank
+3,SVEP1,209,highly_variable_rank
+3,STMN1,210,highly_variable_rank
+3,F3,211,highly_variable_rank
+3,TRPV5,212,highly_variable_rank
+3,LMOD1,213,highly_variable_rank
+3,RSAD2,214,highly_variable_rank
+3,PBK,215,highly_variable_rank
+3,CXCL9,216,highly_variable_rank
+3,CXCL12,217,highly_variable_rank
+3,TM4SF1,218,highly_variable_rank
+3,SMOC2,219,highly_variable_rank
+3,GC,220,highly_variable_rank
+3,SLC5A10,221,highly_variable_rank
+3,SLC22A6,222,highly_variable_rank
+3,PHGDH,223,highly_variable_rank
+3,GPIHBP1,224,highly_variable_rank
+3,CDCA8,225,highly_variable_rank
+3,RBP1,226,highly_variable_rank
+3,SLC6A18,227,highly_variable_rank
+3,PDGFRB,228,highly_variable_rank
+3,KRT20,229,highly_variable_rank
+3,LTB,230,highly_variable_rank
+3,ABI3BP,231,highly_variable_rank
+3,KIF11,232,highly_variable_rank
+3,KLRD1,233,highly_variable_rank
+3,GSTA4,234,highly_variable_rank
+3,SPARC,235,highly_variable_rank
+3,CLDN16,236,highly_variable_rank
+3,EGFL6,237,highly_variable_rank
+3,ADGRF5,238,highly_variable_rank
+3,DMRT2,239,highly_variable_rank
+3,CLDN4,240,highly_variable_rank
+3,CD3G,241,highly_variable_rank
+3,TFAP2B,242,highly_variable_rank
+3,CCK,243,highly_variable_rank
+3,KCNE1,244,highly_variable_rank
+3,ASPM,245,highly_variable_rank
+3,SEMA3G,246,highly_variable_rank
+3,AEBP1,247,highly_variable_rank
+3,RERGL,248,highly_variable_rank
+3,CYP24A1,249,highly_variable_rank
+3,ELN,250,highly_variable_rank
+3,KRT15,251,highly_variable_rank
+3,SLC7A11,252,highly_variable_rank
+3,RRM2,253,highly_variable_rank
+3,NPY,254,highly_variable_rank
+3,ANGPT2,255,highly_variable_rank
+3,PLK1,256,highly_variable_rank
+3,DEFB1,257,highly_variable_rank
+3,OLFML3,258,highly_variable_rank
+3,MUC4,259,highly_variable_rank
+3,XCL1,260,highly_variable_rank
+3,INMT,261,highly_variable_rank
+3,SRD5A1,262,highly_variable_rank
+3,SLC39A8,263,highly_variable_rank
+3,HP,264,highly_variable_rank
+3,CCNB2,265,highly_variable_rank
+3,HBEGF,266,highly_variable_rank
+3,FRZB,267,highly_variable_rank
+3,PTGFR,268,highly_variable_rank
+3,G6PC,269,highly_variable_rank
+3,SLC5A8,270,highly_variable_rank
+3,APOB,271,highly_variable_rank
+3,LIF,272,highly_variable_rank
+3,MMP9,273,highly_variable_rank
+3,LPL,274,highly_variable_rank
+3,SPP2,275,highly_variable_rank
+3,OCIAD2,276,highly_variable_rank
+3,POSTN,277,highly_variable_rank
+3,ATF3,278,highly_variable_rank
+3,ISG15,279,highly_variable_rank
+3,ADGRA1,280,highly_variable_rank
+3,ADAMTS2,281,highly_variable_rank
+3,CCNA2,282,highly_variable_rank
+3,F10,283,highly_variable_rank
+3,CD36,284,highly_variable_rank
+3,NKD2,285,highly_variable_rank
+3,PCK1,286,highly_variable_rank
+3,KRT14,287,highly_variable_rank
+3,MEG3,288,highly_variable_rank
+3,INHBA,289,highly_variable_rank
+3,CLDN19,290,highly_variable_rank
+3,DES,291,highly_variable_rank
+3,CD3D,292,highly_variable_rank
+3,ITGAX,293,highly_variable_rank
+3,OGN,294,highly_variable_rank
+3,CXCL3,295,highly_variable_rank
+3,ANLN,296,highly_variable_rank
+3,SLCO2A1,297,highly_variable_rank
+3,RHCG,298,highly_variable_rank
+3,CCNB1,299,highly_variable_rank
+3,COL10A1,300,highly_variable_rank
+3,EGR1,301,highly_variable_rank
+3,COL8A1,302,highly_variable_rank
+3,THSD7A,303,highly_variable_rank
+3,SLITRK4,304,highly_variable_rank
+3,CXCR2,305,highly_variable_rank
+3,ACY3,306,highly_variable_rank
+3,TSPAN1,307,highly_variable_rank
+3,RGCC,308,highly_variable_rank
+3,CCL3,309,highly_variable_rank
+3,PRR15,310,highly_variable_rank
+3,NAAA,311,highly_variable_rank
+3,FXYD1,312,highly_variable_rank
+3,G0S2,313,highly_variable_rank
+3,SLC5A3,314,highly_variable_rank
+3,HMGA2,315,highly_variable_rank
+3,ACSM3,316,highly_variable_rank
+3,SNCA,317,highly_variable_rank
+3,GZMB,318,highly_variable_rank
+3,SLC9A3R2,319,highly_variable_rank
+3,DPT,320,highly_variable_rank
+3,COLEC12,321,highly_variable_rank
+3,CLDN10,322,highly_variable_rank
+3,ESCO2,323,highly_variable_rank
+3,TMEM252,324,highly_variable_rank
+3,SLC5A12,325,highly_variable_rank
+3,FSTL1,326,highly_variable_rank
+3,CYP4B1,327,highly_variable_rank
+3,CKAP2,328,highly_variable_rank
+3,SCIMP,329,highly_variable_rank
+3,MUC20,330,highly_variable_rank
+3,AOC1,331,highly_variable_rank
+3,PAM,332,highly_variable_rank
+3,F13A1,333,highly_variable_rank
+3,APOC1,334,highly_variable_rank
+3,KRT8,335,highly_variable_rank
+3,PLVAP,336,highly_variable_rank
+3,ATP6V1B1,337,highly_variable_rank
+3,ACP5,338,highly_variable_rank
+3,LTC4S,339,highly_variable_rank
+3,PCP4L1,340,highly_variable_rank
+3,CYP26B1,341,highly_variable_rank
+3,LOXL2,342,highly_variable_rank
+3,RASD1,343,highly_variable_rank
+3,HIST1H2AB,344,highly_variable_rank
+3,CENPA,345,highly_variable_rank
+3,CYGB,346,highly_variable_rank
+3,NDUFA4L2,347,highly_variable_rank
+3,SLC5A2,348,highly_variable_rank
+3,CLCNKB,349,highly_variable_rank
+3,WNT4,350,highly_variable_rank
+3,PLA1A,351,highly_variable_rank
+3,BEX1,352,highly_variable_rank
+3,GSTA1,353,highly_variable_rank
+3,PENK,354,highly_variable_rank
+3,KIF23,355,highly_variable_rank
+3,MIOX,356,highly_variable_rank
+3,KIF20B,357,highly_variable_rank
+3,AGT,358,highly_variable_rank
+3,COL5A3,359,highly_variable_rank
+3,CLEC9A,360,highly_variable_rank
+3,SLC22A12,361,highly_variable_rank
+3,TMIGD1,362,highly_variable_rank
+3,COX6A2,363,highly_variable_rank
+3,ITGA8,364,highly_variable_rank
+3,OLR1,365,highly_variable_rank
+3,CNN1,366,highly_variable_rank
+3,SLC27A2,367,highly_variable_rank
+3,CCR2,368,highly_variable_rank
+3,FOXC1,369,highly_variable_rank
+3,KRT7,370,highly_variable_rank
+3,NCR1,371,highly_variable_rank
+3,KLF2,372,highly_variable_rank
+3,SLC5A1,373,highly_variable_rank
+3,SLC22A13,374,highly_variable_rank
+3,CDKN3,375,highly_variable_rank
+3,KLF4,376,highly_variable_rank
+3,ASPRV1,377,highly_variable_rank
+3,MEP1A,378,highly_variable_rank
+3,SLC14A1,379,highly_variable_rank
+3,DIO2,380,highly_variable_rank
+3,SCNN1G,381,highly_variable_rank
+3,TACSTD2,382,highly_variable_rank
+3,ADAMTS1,383,highly_variable_rank
+3,MMP3,384,highly_variable_rank
+3,MSLN,385,highly_variable_rank
+3,VIM,386,highly_variable_rank
+3,PTPRB,387,highly_variable_rank
+3,JAM2,388,highly_variable_rank
+3,SCNN1B,389,highly_variable_rank
+3,CXCL17,390,highly_variable_rank
+3,CFAP52,391,highly_variable_rank
+3,SCIN,392,highly_variable_rank
+3,CD8A,393,highly_variable_rank
+3,HMCN1,394,highly_variable_rank
+3,ACTG2,395,highly_variable_rank
+3,NAT8,396,highly_variable_rank
+3,IFIT2,397,highly_variable_rank
+3,IRX1,398,highly_variable_rank
+3,SPTBN2,399,highly_variable_rank
+3,SEPT3,400,highly_variable_rank
+3,SPC24,401,highly_variable_rank
+3,CD79B,402,highly_variable_rank
+3,IRX2,403,highly_variable_rank
+3,GATA3,404,highly_variable_rank
+3,SFN,405,highly_variable_rank
+3,HOPX,406,highly_variable_rank
+3,GPX3,407,highly_variable_rank
+3,SOX9,408,highly_variable_rank
+3,GSTM2,409,highly_variable_rank
+3,GATM,410,highly_variable_rank
+3,RAB3B,411,highly_variable_rank
+3,PPBP,412,highly_variable_rank
+3,HAO2,413,highly_variable_rank
+3,TINAGL1,414,highly_variable_rank
+3,SELP,415,highly_variable_rank
+3,PTGDS,416,highly_variable_rank
+3,EFHD1,417,highly_variable_rank
+3,EDN1,418,highly_variable_rank
+3,KCTD1,419,highly_variable_rank
+3,PI16,420,highly_variable_rank
+3,MYL7,421,highly_variable_rank
+3,GJA4,422,highly_variable_rank
+3,PLAC8,423,highly_variable_rank
+3,GYPA,424,highly_variable_rank
+3,NES,425,highly_variable_rank
+3,SLC22A8,426,highly_variable_rank
+3,UBD,427,highly_variable_rank
+3,GUCA2B,428,highly_variable_rank
+3,RASL11A,429,highly_variable_rank
+3,TMEM213,430,highly_variable_rank
+3,RCN3,431,highly_variable_rank
+3,KRT5,432,highly_variable_rank
+3,COL6A2,433,highly_variable_rank
+3,FABP3,434,highly_variable_rank
+3,MUC1,435,highly_variable_rank
+3,MMP8,436,highly_variable_rank
+3,HMGB2,437,highly_variable_rank
+3,SLC34A1,438,highly_variable_rank
+3,SORCS3,439,highly_variable_rank
+3,KCNJ1,440,highly_variable_rank
+3,HNMT,441,highly_variable_rank
+3,EPHA7,442,highly_variable_rank
+3,CNTN1,443,highly_variable_rank
+3,CD163,444,highly_variable_rank
+3,FOS,445,highly_variable_rank
+3,WFDC2,446,highly_variable_rank
+3,RORB,447,highly_variable_rank
+3,ANXA8,448,highly_variable_rank
+3,EMCN,449,highly_variable_rank
+3,WT1,450,highly_variable_rank
+3,PSCA,451,highly_variable_rank
+3,GBP2,452,highly_variable_rank
+3,PROSER2,453,highly_variable_rank
+3,GRP,454,highly_variable_rank
+3,MDK,455,highly_variable_rank
+3,LAMA2,456,highly_variable_rank
+3,ADGRL4,457,highly_variable_rank
+3,PLPP1,458,highly_variable_rank
+3,HELLS,459,highly_variable_rank
+3,RASL11B,460,highly_variable_rank
+3,THY1,461,highly_variable_rank
+3,SMC2,462,highly_variable_rank
+3,H2AFX,463,highly_variable_rank
+3,CDO1,464,highly_variable_rank
+3,SLC13A3,465,highly_variable_rank
+3,SAA1,466,highly_variable_rank
+3,MFGE8,467,highly_variable_rank
+3,SLC6A19,468,highly_variable_rank
+3,CDH5,469,highly_variable_rank
+3,SLC13A1,470,highly_variable_rank
+3,AFP,471,highly_variable_rank
+3,PF4,472,highly_variable_rank
+3,RGS1,473,highly_variable_rank
+3,TSC22D1,474,highly_variable_rank
+3,RBMS3,475,highly_variable_rank
+3,CCR9,476,highly_variable_rank
+3,ALDH1L2,477,highly_variable_rank
+3,COL7A1,478,highly_variable_rank
+3,APOM,479,highly_variable_rank
+3,PCOLCE,480,highly_variable_rank
+3,IL11,481,highly_variable_rank
+3,TMEM45B,482,highly_variable_rank
+3,MFAP4,483,highly_variable_rank
+3,CDKN2A,484,highly_variable_rank
+3,GSTA2,485,highly_variable_rank
+3,PTPRCAP,486,highly_variable_rank
+3,DAPL1,487,highly_variable_rank
+3,ARG2,488,highly_variable_rank
+3,GDF3,489,highly_variable_rank
+3,LGI2,490,highly_variable_rank
+3,SAMD5,491,highly_variable_rank
+3,IL4I1,492,highly_variable_rank
+3,PDLIM3,493,highly_variable_rank
+3,RACGAP1,494,highly_variable_rank
+3,WNT2,495,highly_variable_rank
+3,CKAP2L,496,highly_variable_rank
+3,HIST2H2AC,497,highly_variable_rank
+3,CDKN1A,498,highly_variable_rank
+3,EBF1,499,highly_variable_rank
+3,PAPPA2,500,highly_variable_rank
+4,CYTL1,1,highly_variable_rank
+4,CCL2,2,highly_variable_rank
+4,ACTA2,3,highly_variable_rank
+4,MMP3,4,highly_variable_rank
+4,CCL7,5,highly_variable_rank
+4,TAGLN,6,highly_variable_rank
+4,COMP,7,highly_variable_rank
+4,CLU,8,highly_variable_rank
+4,IFIT3,9,highly_variable_rank
+4,MSLN,10,highly_variable_rank
+4,TIMP1,11,highly_variable_rank
+4,CXCL14,12,highly_variable_rank
+4,ISG15,13,highly_variable_rank
+4,THBS4,14,highly_variable_rank
+4,CXCL2,15,highly_variable_rank
+4,MYL9,16,highly_variable_rank
+4,INMT,17,highly_variable_rank
+4,CXCL10,18,highly_variable_rank
+4,VTN,19,highly_variable_rank
+4,KRT19,20,highly_variable_rank
+4,WIF1,21,highly_variable_rank
+4,FCER1G,22,highly_variable_rank
+4,NKAIN4,23,highly_variable_rank
+4,DMKN,24,highly_variable_rank
+4,CCL11,25,highly_variable_rank
+4,LGALS7,26,highly_variable_rank
+4,FABP4,27,highly_variable_rank
+4,PTN,28,highly_variable_rank
+4,CD74,29,highly_variable_rank
+4,IGFBP5,30,highly_variable_rank
+4,UPK3B,31,highly_variable_rank
+4,FMOD,32,highly_variable_rank
+4,POSTN,33,highly_variable_rank
+4,C1QC,34,highly_variable_rank
+4,SPP1,35,highly_variable_rank
+4,C1QB,36,highly_variable_rank
+4,TYROBP,37,highly_variable_rank
+4,STMN1,38,highly_variable_rank
+4,CILP,39,highly_variable_rank
+4,CHAD,40,highly_variable_rank
+4,UPK1B,41,highly_variable_rank
+4,ELN,42,highly_variable_rank
+4,TPM2,43,highly_variable_rank
+4,HP,44,highly_variable_rank
+4,KRT7,45,highly_variable_rank
+4,APOE,46,highly_variable_rank
+4,KCNJ8,47,highly_variable_rank
+4,SNCG,48,highly_variable_rank
+4,IGFBP3,49,highly_variable_rank
+4,GFRA3,50,highly_variable_rank
+4,RASD1,51,highly_variable_rank
+4,PRG4,52,highly_variable_rank
+4,HIGD1B,53,highly_variable_rank
+4,IFIT1,54,highly_variable_rank
+4,SFRP2,55,highly_variable_rank
+4,ANGPTL7,56,highly_variable_rank
+4,MS4A7,57,highly_variable_rank
+4,SLPI,58,highly_variable_rank
+4,COLEC11,59,highly_variable_rank
+4,RRAD,60,highly_variable_rank
+4,CST6,61,highly_variable_rank
+4,CTHRC1,62,highly_variable_rank
+4,APOD,63,highly_variable_rank
+4,MUSTN1,64,highly_variable_rank
+4,IL6,65,highly_variable_rank
+4,PLP1,66,highly_variable_rank
+4,MYH11,67,highly_variable_rank
+4,GPM6A,68,highly_variable_rank
+4,PLAC8,69,highly_variable_rank
+4,FGF21,70,highly_variable_rank
+4,CKS2,71,highly_variable_rank
+4,C1QA,72,highly_variable_rank
+4,EPYC,73,highly_variable_rank
+4,C1QTNF3,74,highly_variable_rank
+4,KRT8,75,highly_variable_rank
+4,FN1,76,highly_variable_rank
+4,KRT18,77,highly_variable_rank
+4,RASL11A,78,highly_variable_rank
+4,PLN,79,highly_variable_rank
+4,CCL8,80,highly_variable_rank
+4,RSAD2,81,highly_variable_rank
+4,S100A4,82,highly_variable_rank
+4,KCNA1,83,highly_variable_rank
+4,ACTG2,84,highly_variable_rank
+4,CTSS,85,highly_variable_rank
+4,AQP1,86,highly_variable_rank
+4,HAS1,87,highly_variable_rank
+4,CD52,88,highly_variable_rank
+4,SULT1E1,89,highly_variable_rank
+4,DDAH1,90,highly_variable_rank
+4,MYOC,91,highly_variable_rank
+4,CD14,92,highly_variable_rank
+4,CYP26A1,93,highly_variable_rank
+4,IL1B,94,highly_variable_rank
+4,BIRC5,95,highly_variable_rank
+4,CNN1,96,highly_variable_rank
+4,PTTG1,97,highly_variable_rank
+4,MEST,98,highly_variable_rank
+4,TK1,99,highly_variable_rank
+4,KRT14,100,highly_variable_rank
+4,SFRP4,101,highly_variable_rank
+4,PCP4L1,102,highly_variable_rank
+4,UGDH,103,highly_variable_rank
+4,PI16,104,highly_variable_rank
+4,HIST1H2AK,105,highly_variable_rank
+4,CDKN1A,106,highly_variable_rank
+4,TNFAIP6,107,highly_variable_rank
+4,PTGS2,108,highly_variable_rank
+4,TINAGL1,109,highly_variable_rank
+4,MFAP4,110,highly_variable_rank
+4,TNMD,111,highly_variable_rank
+4,THBS1,112,highly_variable_rank
+4,ADM,113,highly_variable_rank
+4,TOP2A,114,highly_variable_rank
+4,C3,115,highly_variable_rank
+4,RGS2,116,highly_variable_rank
+4,TNNT2,117,highly_variable_rank
+4,RGS16,118,highly_variable_rank
+4,CXCL1,119,highly_variable_rank
+4,PTX3,120,highly_variable_rank
+4,HSPA1A,121,highly_variable_rank
+4,DNAJB1,122,highly_variable_rank
+4,MYL7,123,highly_variable_rank
+4,SLC9A3R1,124,highly_variable_rank
+4,PTHLH,125,highly_variable_rank
+4,GDF15,126,highly_variable_rank
+4,CDK1,127,highly_variable_rank
+4,NPY,128,highly_variable_rank
+4,CD68,129,highly_variable_rank
+4,CENPF,130,highly_variable_rank
+4,TNC,131,highly_variable_rank
+4,RND1,132,highly_variable_rank
+4,LRRN4,133,highly_variable_rank
+4,FABP5,134,highly_variable_rank
+4,SERPINE1,135,highly_variable_rank
+4,COL6A5,136,highly_variable_rank
+4,LAPTM5,137,highly_variable_rank
+4,NR4A2,138,highly_variable_rank
+4,CHCHD10,139,highly_variable_rank
+4,UBE2C,140,highly_variable_rank
+4,RGS1,141,highly_variable_rank
+4,FOLR2,142,highly_variable_rank
+4,CLIC3,143,highly_variable_rank
+4,GPR37L1,144,highly_variable_rank
+4,CDCA3,145,highly_variable_rank
+4,CORO1A,146,highly_variable_rank
+4,CCNB2,147,highly_variable_rank
+4,PVALB,148,highly_variable_rank
+4,MYLK,149,highly_variable_rank
+4,RBP7,150,highly_variable_rank
+4,UCMA,151,highly_variable_rank
+4,PF4,152,highly_variable_rank
+4,BARX2,153,highly_variable_rank
+4,SLURP1,154,highly_variable_rank
+4,HBEGF,155,highly_variable_rank
+4,CENPA,156,highly_variable_rank
+4,PRC1,157,highly_variable_rank
+4,IFITM1,158,highly_variable_rank
+4,EFEMP1,159,highly_variable_rank
+4,BDNF,160,highly_variable_rank
+4,CRABP2,161,highly_variable_rank
+4,ALOX5AP,162,highly_variable_rank
+4,TMEM100,163,highly_variable_rank
+4,RBP4,164,highly_variable_rank
+4,CCL5,165,highly_variable_rank
+4,C4B,166,highly_variable_rank
+4,TPPP3,167,highly_variable_rank
+4,PBK,168,highly_variable_rank
+4,OSR1,169,highly_variable_rank
+4,STMN4,170,highly_variable_rank
+4,IER3,171,highly_variable_rank
+4,GPIHBP1,172,highly_variable_rank
+4,MXD3,173,highly_variable_rank
+4,AHSG,174,highly_variable_rank
+4,LMCD1,175,highly_variable_rank
+4,COL8A1,176,highly_variable_rank
+4,PDLIM4,177,highly_variable_rank
+4,UAP1,178,highly_variable_rank
+4,CLDN11,179,highly_variable_rank
+4,TMEM176A,180,highly_variable_rank
+4,C3AR1,181,highly_variable_rank
+4,IGFBP6,182,highly_variable_rank
+4,PHLDA1,183,highly_variable_rank
+4,CDCA8,184,highly_variable_rank
+4,ANKRD1,185,highly_variable_rank
+4,ASPN,186,highly_variable_rank
+4,TSPAN13,187,highly_variable_rank
+4,PRNP,188,highly_variable_rank
+4,CDC20,189,highly_variable_rank
+4,GADD45G,190,highly_variable_rank
+4,DES,191,highly_variable_rank
+4,CCL4,192,highly_variable_rank
+4,RGS4,193,highly_variable_rank
+4,COL11A1,194,highly_variable_rank
+4,S100A1,195,highly_variable_rank
+4,S100B,196,highly_variable_rank
+4,HSPB1,197,highly_variable_rank
+4,LGALS3,198,highly_variable_rank
+4,NRIP2,199,highly_variable_rank
+4,MEOX1,200,highly_variable_rank
+4,SRGN,201,highly_variable_rank
+4,GATM,202,highly_variable_rank
+4,CXCL5,203,highly_variable_rank
+4,DKK3,204,highly_variable_rank
+4,WT1,205,highly_variable_rank
+4,MGP,206,highly_variable_rank
+4,LTC4S,207,highly_variable_rank
+4,NMB,208,highly_variable_rank
+4,CSRP2,209,highly_variable_rank
+4,CLDN5,210,highly_variable_rank
+4,CCL3,211,highly_variable_rank
+4,MEG3,212,highly_variable_rank
+4,COL22A1,213,highly_variable_rank
+4,MKI67,214,highly_variable_rank
+4,ATF3,215,highly_variable_rank
+4,C5AR1,216,highly_variable_rank
+4,PDLIM3,217,highly_variable_rank
+4,HMOX1,218,highly_variable_rank
+4,CX3CR1,219,highly_variable_rank
+4,CXCL13,220,highly_variable_rank
+4,SLAMF9,221,highly_variable_rank
+4,BCAM,222,highly_variable_rank
+4,CHST4,223,highly_variable_rank
+4,LY86,224,highly_variable_rank
+4,SOSTDC1,225,highly_variable_rank
+4,SPC25,226,highly_variable_rank
+4,CLDN15,227,highly_variable_rank
+4,TESC,228,highly_variable_rank
+4,TMEM176B,229,highly_variable_rank
+4,TM4SF5,230,highly_variable_rank
+4,CALCA,231,highly_variable_rank
+4,F13A1,232,highly_variable_rank
+4,TNFSF9,233,highly_variable_rank
+4,TSPAN8,234,highly_variable_rank
+4,ESAM,235,highly_variable_rank
+4,ITIH4,236,highly_variable_rank
+4,CCNA2,237,highly_variable_rank
+4,FIBIN,238,highly_variable_rank
+4,CST9,239,highly_variable_rank
+4,TAC1,240,highly_variable_rank
+4,CCNB1,241,highly_variable_rank
+4,SPON2,242,highly_variable_rank
+4,HSD11B1,243,highly_variable_rank
+4,H2AFZ,244,highly_variable_rank
+4,CPXM2,245,highly_variable_rank
+4,TREM2,246,highly_variable_rank
+4,CTSC,247,highly_variable_rank
+4,TIMP3,248,highly_variable_rank
+4,NFKBIA,249,highly_variable_rank
+4,COL1A1,250,highly_variable_rank
+4,ANXA8,251,highly_variable_rank
+4,GDF10,252,highly_variable_rank
+4,SPC24,253,highly_variable_rank
+4,PENK,254,highly_variable_rank
+4,ID1,255,highly_variable_rank
+4,GSTA4,256,highly_variable_rank
+4,LTBP2,257,highly_variable_rank
+4,FGL2,258,highly_variable_rank
+4,CEMIP,259,highly_variable_rank
+4,LSR,260,highly_variable_rank
+4,HMMR,261,highly_variable_rank
+4,PMEL,262,highly_variable_rank
+4,LMOD1,263,highly_variable_rank
+4,CXADR,264,highly_variable_rank
+4,DPEP1,265,highly_variable_rank
+4,CRIP1,266,highly_variable_rank
+4,CD72,267,highly_variable_rank
+4,TMEM151A,268,highly_variable_rank
+4,CST3,269,highly_variable_rank
+4,MYCT1,270,highly_variable_rank
+4,HIST1H1C,271,highly_variable_rank
+4,FCGR2B,272,highly_variable_rank
+4,TPX2,273,highly_variable_rank
+4,NPPC,274,highly_variable_rank
+4,KLK8,275,highly_variable_rank
+4,COL12A1,276,highly_variable_rank
+4,MUC16,277,highly_variable_rank
+4,LRRC15,278,highly_variable_rank
+4,IL18R1,279,highly_variable_rank
+4,IRF7,280,highly_variable_rank
+4,ACTG1,281,highly_variable_rank
+4,TNFRSF12A,282,highly_variable_rank
+4,EFHD1,283,highly_variable_rank
+4,G0S2,284,highly_variable_rank
+4,SORBS2,285,highly_variable_rank
+4,UTS2R,286,highly_variable_rank
+4,CD53,287,highly_variable_rank
+4,RGCC,288,highly_variable_rank
+4,EDN1,289,highly_variable_rank
+4,AIF1,290,highly_variable_rank
+4,LCP1,291,highly_variable_rank
+4,CDH5,292,highly_variable_rank
+4,SBSN,293,highly_variable_rank
+4,GFPT2,294,highly_variable_rank
+4,BST1,295,highly_variable_rank
+4,RRM2,296,highly_variable_rank
+4,ATP1B1,297,highly_variable_rank
+4,MDK,298,highly_variable_rank
+4,THY1,299,highly_variable_rank
+4,CD248,300,highly_variable_rank
+4,FXYD3,301,highly_variable_rank
+4,ADGRE1,302,highly_variable_rank
+4,TST,303,highly_variable_rank
+4,PAM,304,highly_variable_rank
+4,COX6B2,305,highly_variable_rank
+4,ACKR3,306,highly_variable_rank
+4,COX4I2,307,highly_variable_rank
+4,SPI1,308,highly_variable_rank
+4,GLIPR1,309,highly_variable_rank
+4,GDPD3,310,highly_variable_rank
+4,ARC,311,highly_variable_rank
+4,ID2,312,highly_variable_rank
+4,SYNPR,313,highly_variable_rank
+4,LCN2,314,highly_variable_rank
+4,COL3A1,315,highly_variable_rank
+4,GJB5,316,highly_variable_rank
+4,TUBB2A,317,highly_variable_rank
+4,MBP,318,highly_variable_rank
+4,KNSTRN,319,highly_variable_rank
+4,TUBB3,320,highly_variable_rank
+4,CLDN3,321,highly_variable_rank
+4,FABP7,322,highly_variable_rank
+4,SPINT2,323,highly_variable_rank
+4,CSF1R,324,highly_variable_rank
+4,COL2A1,325,highly_variable_rank
+4,VCAM1,326,highly_variable_rank
+4,FAM180A,327,highly_variable_rank
+4,AURKB,328,highly_variable_rank
+4,RAC2,329,highly_variable_rank
+4,DIO2,330,highly_variable_rank
+4,PTPN18,331,highly_variable_rank
+4,ID3,332,highly_variable_rank
+4,NRN1,333,highly_variable_rank
+4,CENPM,334,highly_variable_rank
+4,CILP2,335,highly_variable_rank
+4,ART3,336,highly_variable_rank
+4,CYBB,337,highly_variable_rank
+4,ARL6IP1,338,highly_variable_rank
+4,TNFRSF11B,339,highly_variable_rank
+4,NXPH1,340,highly_variable_rank
+4,MYC,341,highly_variable_rank
+4,PLD4,342,highly_variable_rank
+4,FRZB,343,highly_variable_rank
+4,BST2,344,highly_variable_rank
+4,CALCB,345,highly_variable_rank
+4,ALDH1A3,346,highly_variable_rank
+4,CCR2,347,highly_variable_rank
+4,GMFG,348,highly_variable_rank
+4,CPE,349,highly_variable_rank
+4,CCL17,350,highly_variable_rank
+4,TRIB3,351,highly_variable_rank
+4,CDKN3,352,highly_variable_rank
+4,IL33,353,highly_variable_rank
+4,IGF1,354,highly_variable_rank
+4,BAMBI,355,highly_variable_rank
+4,MYL3,356,highly_variable_rank
+4,GEM,357,highly_variable_rank
+4,VAT1L,358,highly_variable_rank
+4,PGF,359,highly_variable_rank
+4,BGLAP,360,highly_variable_rank
+4,LGALS2,361,highly_variable_rank
+4,KLF6,362,highly_variable_rank
+4,DPPA3,363,highly_variable_rank
+4,PLET1,364,highly_variable_rank
+4,CD84,365,highly_variable_rank
+4,CAV1,366,highly_variable_rank
+4,APELA,367,highly_variable_rank
+4,DLK1,368,highly_variable_rank
+4,ALOX15,369,highly_variable_rank
+4,PAQR6,370,highly_variable_rank
+4,KCNE4,371,highly_variable_rank
+4,GADD45B,372,highly_variable_rank
+4,COL1A2,373,highly_variable_rank
+4,NUPR1,374,highly_variable_rank
+4,NEFM,375,highly_variable_rank
+4,USP18,376,highly_variable_rank
+4,MLANA,377,highly_variable_rank
+4,CYP2E1,378,highly_variable_rank
+4,LY6K,379,highly_variable_rank
+4,EZR,380,highly_variable_rank
+4,TNNC1,381,highly_variable_rank
+4,GNG13,382,highly_variable_rank
+4,THRSP,383,highly_variable_rank
+4,LST1,384,highly_variable_rank
+4,MPEG1,385,highly_variable_rank
+4,ERRFI1,386,highly_variable_rank
+4,HPGD,387,highly_variable_rank
+4,PLA1A,388,highly_variable_rank
+4,MRC1,389,highly_variable_rank
+4,ACAN,390,highly_variable_rank
+4,HAL,391,highly_variable_rank
+4,STC2,392,highly_variable_rank
+4,NFKBID,393,highly_variable_rank
+4,CD48,394,highly_variable_rank
+4,LYPD8,395,highly_variable_rank
+4,C2,396,highly_variable_rank
+4,GCSH,397,highly_variable_rank
+4,TM4SF1,398,highly_variable_rank
+4,NRGN,399,highly_variable_rank
+4,PKHD1L1,400,highly_variable_rank
+4,ABRA,401,highly_variable_rank
+4,SCX,402,highly_variable_rank
+4,RTP4,403,highly_variable_rank
+4,CH25H,404,highly_variable_rank
+4,FMO2,405,highly_variable_rank
+4,NR4A1,406,highly_variable_rank
+4,ACTB,407,highly_variable_rank
+4,DKK2,408,highly_variable_rank
+4,CENPE,409,highly_variable_rank
+4,LAIR1,410,highly_variable_rank
+4,SEMA3C,411,highly_variable_rank
+4,TSPAN15,412,highly_variable_rank
+4,EPHX3,413,highly_variable_rank
+4,GBP2,414,highly_variable_rank
+4,NFATC2,415,highly_variable_rank
+4,TSPAN6,416,highly_variable_rank
+4,GAP43,417,highly_variable_rank
+4,CRLF1,418,highly_variable_rank
+4,PRLR,419,highly_variable_rank
+4,PLEK,420,highly_variable_rank
+4,SEC61B,421,highly_variable_rank
+4,PRR15L,422,highly_variable_rank
+4,IGFBP2,423,highly_variable_rank
+4,KLRD1,424,highly_variable_rank
+4,GPC3,425,highly_variable_rank
+4,APLP1,426,highly_variable_rank
+4,IRF1,427,highly_variable_rank
+4,ASF1B,428,highly_variable_rank
+4,SCGB1A1,429,highly_variable_rank
+4,UCHL1,430,highly_variable_rank
+4,CLEC4D,431,highly_variable_rank
+4,GSTA3,432,highly_variable_rank
+4,TPM1,433,highly_variable_rank
+4,MFAP5,434,highly_variable_rank
+4,GAS6,435,highly_variable_rank
+4,TTC21A,436,highly_variable_rank
+4,NCF4,437,highly_variable_rank
+4,CASQ2,438,highly_variable_rank
+4,ANXA3,439,highly_variable_rank
+4,WFDC2,440,highly_variable_rank
+4,NDUFA4L2,441,highly_variable_rank
+4,CLEC12A,442,highly_variable_rank
+4,GJA4,443,highly_variable_rank
+4,RPAP3,444,highly_variable_rank
+4,PLAGL1,445,highly_variable_rank
+4,TMEM212,446,highly_variable_rank
+4,CLEC11A,447,highly_variable_rank
+4,SERPINE2,448,highly_variable_rank
+4,MCAM,449,highly_variable_rank
+4,STEAP4,450,highly_variable_rank
+4,FBXO5,451,highly_variable_rank
+4,HMGB2,452,highly_variable_rank
+4,KCNJ15,453,highly_variable_rank
+4,IFI44,454,highly_variable_rank
+4,CXCL12,455,highly_variable_rank
+4,CRYAB,456,highly_variable_rank
+4,CDC42EP3,457,highly_variable_rank
+4,CPN1,458,highly_variable_rank
+4,CD55,459,highly_variable_rank
+4,DKKL1,460,highly_variable_rank
+4,DUSP1,461,highly_variable_rank
+4,FHL2,462,highly_variable_rank
+4,KRTDAP,463,highly_variable_rank
+4,CCND1,464,highly_variable_rank
+4,CNP,465,highly_variable_rank
+4,S100A10,466,highly_variable_rank
+4,AREG,467,highly_variable_rank
+4,PTGS1,468,highly_variable_rank
+4,PALLD,469,highly_variable_rank
+4,ADAMTS1,470,highly_variable_rank
+4,LOX,471,highly_variable_rank
+4,ADAMTSL2,472,highly_variable_rank
+4,NBL1,473,highly_variable_rank
+4,CCK,474,highly_variable_rank
+4,SKA1,475,highly_variable_rank
+4,CCND2,476,highly_variable_rank
+4,KIF23,477,highly_variable_rank
+4,MARCKSL1,478,highly_variable_rank
+4,NTS,479,highly_variable_rank
+4,PRSS23,480,highly_variable_rank
+4,SOCS3,481,highly_variable_rank
+4,LILRA5,482,highly_variable_rank
+4,TNFAIP8L2,483,highly_variable_rank
+4,BMX,484,highly_variable_rank
+4,CD69,485,highly_variable_rank
+4,TGFBI,486,highly_variable_rank
+4,RAMP1,487,highly_variable_rank
+4,RASL11B,488,highly_variable_rank
+4,LPL,489,highly_variable_rank
+4,CKAP2L,490,highly_variable_rank
+4,GADD45A,491,highly_variable_rank
+4,AQP5,492,highly_variable_rank
+4,SPARC,493,highly_variable_rank
+4,PPP1R15A,494,highly_variable_rank
+4,RASSF4,495,highly_variable_rank
+4,INHBA,496,highly_variable_rank
+4,PTPN6,497,highly_variable_rank
+4,NHP2,498,highly_variable_rank
+4,FBLN1,499,highly_variable_rank
+4,CFAP77,500,highly_variable_rank
+5,S100A9,1,highly_variable_rank
+5,S100A8,2,highly_variable_rank
+5,CAMP,3,highly_variable_rank
+5,LCN2,4,highly_variable_rank
+5,CD74,5,highly_variable_rank
+5,SPP1,6,highly_variable_rank
+5,C1QA,7,highly_variable_rank
+5,LTF,8,highly_variable_rank
+5,CXCL2,9,highly_variable_rank
+5,PF4,10,highly_variable_rank
+5,C1QB,11,highly_variable_rank
+5,LGALS3,12,highly_variable_rank
+5,MSLN,13,highly_variable_rank
+5,CCL4,14,highly_variable_rank
+5,APOE,15,highly_variable_rank
+5,UPK3B,16,highly_variable_rank
+5,C1QC,17,highly_variable_rank
+5,ARG1,18,highly_variable_rank
+5,ACTA2,19,highly_variable_rank
+5,TIMP1,20,highly_variable_rank
+5,KRT19,21,highly_variable_rank
+5,TAGLN,22,highly_variable_rank
+5,C3,23,highly_variable_rank
+5,CTSS,24,highly_variable_rank
+5,DMKN,25,highly_variable_rank
+5,KRT18,26,highly_variable_rank
+5,IL1B,27,highly_variable_rank
+5,CCL2,28,highly_variable_rank
+5,CXCL12,29,highly_variable_rank
+5,CCL3,30,highly_variable_rank
+5,NTS,31,highly_variable_rank
+5,PLAC8,32,highly_variable_rank
+5,PGLYRP1,33,highly_variable_rank
+5,ELN,34,highly_variable_rank
+5,CCL7,35,highly_variable_rank
+5,NKAIN4,36,highly_variable_rank
+5,FCER1G,37,highly_variable_rank
+5,STMN2,38,highly_variable_rank
+5,UPK1B,39,highly_variable_rank
+5,LGALS7,40,highly_variable_rank
+5,IGFBP6,41,highly_variable_rank
+5,IGFBP5,42,highly_variable_rank
+5,GPNMB,43,highly_variable_rank
+5,KRT7,44,highly_variable_rank
+5,RGS1,45,highly_variable_rank
+5,KRT8,46,highly_variable_rank
+5,CTHRC1,47,highly_variable_rank
+5,CD14,48,highly_variable_rank
+5,CXCL3,49,highly_variable_rank
+5,ALAS2,50,highly_variable_rank
+5,CD52,51,highly_variable_rank
+5,TYROBP,52,highly_variable_rank
+5,MMP12,53,highly_variable_rank
+5,ACTG2,54,highly_variable_rank
+5,HMOX1,55,highly_variable_rank
+5,HP,56,highly_variable_rank
+5,CTSB,57,highly_variable_rank
+5,PROK2,58,highly_variable_rank
+5,CCL24,59,highly_variable_rank
+5,MS4A7,60,highly_variable_rank
+5,MGST1,61,highly_variable_rank
+5,CCL5,62,highly_variable_rank
+5,CCRL2,63,highly_variable_rank
+5,CLU,64,highly_variable_rank
+5,CTSC,65,highly_variable_rank
+5,KRT14,66,highly_variable_rank
+5,UBE2C,67,highly_variable_rank
+5,IFITM1,68,highly_variable_rank
+5,CD68,69,highly_variable_rank
+5,SFRP2,70,highly_variable_rank
+5,EFEMP1,71,highly_variable_rank
+5,ASPRV1,72,highly_variable_rank
+5,HPGD,73,highly_variable_rank
+5,PLVAP,74,highly_variable_rank
+5,GPM6A,75,highly_variable_rank
+5,ACTC1,76,highly_variable_rank
+5,MFAP5,77,highly_variable_rank
+5,GJA5,78,highly_variable_rank
+5,TTN,79,highly_variable_rank
+5,MYL9,80,highly_variable_rank
+5,LRG1,81,highly_variable_rank
+5,CXCL1,82,highly_variable_rank
+5,G0S2,83,highly_variable_rank
+5,F13A1,84,highly_variable_rank
+5,ALOX5AP,85,highly_variable_rank
+5,TNC,86,highly_variable_rank
+5,MYH6,87,highly_variable_rank
+5,S100A6,88,highly_variable_rank
+5,S100A4,89,highly_variable_rank
+5,IL6,90,highly_variable_rank
+5,CLIC3,91,highly_variable_rank
+5,CLEC3B,92,highly_variable_rank
+5,VWF,93,highly_variable_rank
+5,IL1A,94,highly_variable_rank
+5,RBP7,95,highly_variable_rank
+5,TREM2,96,highly_variable_rank
+5,CORO1A,97,highly_variable_rank
+5,IGFBP3,98,highly_variable_rank
+5,DLK1,99,highly_variable_rank
+5,MYL7,100,highly_variable_rank
+5,NPPA,101,highly_variable_rank
+5,CACNA2D2,102,highly_variable_rank
+5,MYH7,103,highly_variable_rank
+5,ANKRD1,104,highly_variable_rank
+5,CLEC4E,105,highly_variable_rank
+5,IL1RN,106,highly_variable_rank
+5,MGP,107,highly_variable_rank
+5,MRC1,108,highly_variable_rank
+5,SLPI,109,highly_variable_rank
+5,MUSTN1,110,highly_variable_rank
+5,RSPO1,111,highly_variable_rank
+5,TGFBI,112,highly_variable_rank
+5,SLC39A8,113,highly_variable_rank
+5,CTSD,114,highly_variable_rank
+5,TM4SF5,115,highly_variable_rank
+5,ISG15,116,highly_variable_rank
+5,CLEC4D,117,highly_variable_rank
+5,LYVE1,118,highly_variable_rank
+5,GZMA,119,highly_variable_rank
+5,FGFBP1,120,highly_variable_rank
+5,CXCL5,121,highly_variable_rank
+5,HIGD1B,122,highly_variable_rank
+5,SNCA,123,highly_variable_rank
+5,CYTL1,124,highly_variable_rank
+5,CXCL10,125,highly_variable_rank
+5,EZR,126,highly_variable_rank
+5,MYL3,127,highly_variable_rank
+5,TNNT2,128,highly_variable_rank
+5,TNFAIP6,129,highly_variable_rank
+5,GATM,130,highly_variable_rank
+5,ATP6V0D2,131,highly_variable_rank
+5,LGMN,132,highly_variable_rank
+5,PTX3,133,highly_variable_rank
+5,CYP1A1,134,highly_variable_rank
+5,CLDN3,135,highly_variable_rank
+5,CSRP3,136,highly_variable_rank
+5,CD79A,137,highly_variable_rank
+5,MFAP4,138,highly_variable_rank
+5,GJA4,139,highly_variable_rank
+5,RAC2,140,highly_variable_rank
+5,APOC1,141,highly_variable_rank
+5,LRRN4,142,highly_variable_rank
+5,FABP3,143,highly_variable_rank
+5,PLN,144,highly_variable_rank
+5,AIF1,145,highly_variable_rank
+5,PDPN,146,highly_variable_rank
+5,FBLN5,147,highly_variable_rank
+5,MMP8,148,highly_variable_rank
+5,GYPA,149,highly_variable_rank
+5,CENPA,150,highly_variable_rank
+5,CRIP1,151,highly_variable_rank
+5,CFH,152,highly_variable_rank
+5,SYNGR1,153,highly_variable_rank
+5,CDC20,154,highly_variable_rank
+5,CENPF,155,highly_variable_rank
+5,SBSN,156,highly_variable_rank
+5,CD53,157,highly_variable_rank
+5,MYL2,158,highly_variable_rank
+5,PI16,159,highly_variable_rank
+5,TPPP3,160,highly_variable_rank
+5,CD177,161,highly_variable_rank
+5,SMIM1,162,highly_variable_rank
+5,SPI1,163,highly_variable_rank
+5,TNNI3,164,highly_variable_rank
+5,PTN,165,highly_variable_rank
+5,MYH11,166,highly_variable_rank
+5,ANXA1,167,highly_variable_rank
+5,CLDN5,168,highly_variable_rank
+5,LAPTM5,169,highly_variable_rank
+5,CAPG,170,highly_variable_rank
+5,PTGS2,171,highly_variable_rank
+5,MS4A1,172,highly_variable_rank
+5,TNNC1,173,highly_variable_rank
+5,SERPINB2,174,highly_variable_rank
+5,EDN1,175,highly_variable_rank
+5,LST1,176,highly_variable_rank
+5,PLP1,177,highly_variable_rank
+5,NRG1,178,highly_variable_rank
+5,LY6D,179,highly_variable_rank
+5,HAS1,180,highly_variable_rank
+5,C5AR1,181,highly_variable_rank
+5,C3AR1,182,highly_variable_rank
+5,CPA1,183,highly_variable_rank
+5,SPRR1A,184,highly_variable_rank
+5,FTH1,185,highly_variable_rank
+5,SLC9A3R1,186,highly_variable_rank
+5,ANXA8,187,highly_variable_rank
+5,MARCO,188,highly_variable_rank
+5,MMP9,189,highly_variable_rank
+5,SCX,190,highly_variable_rank
+5,CCNB1,191,highly_variable_rank
+5,PLD4,192,highly_variable_rank
+5,THBS4,193,highly_variable_rank
+5,MPEG1,194,highly_variable_rank
+5,PRG4,195,highly_variable_rank
+5,CFP,196,highly_variable_rank
+5,CSF2,197,highly_variable_rank
+5,TPM2,198,highly_variable_rank
+5,SLURP1,199,highly_variable_rank
+5,MYBPC3,200,highly_variable_rank
+5,ADGRE1,201,highly_variable_rank
+5,FOLR2,202,highly_variable_rank
+5,FABP7,203,highly_variable_rank
+5,SMPX,204,highly_variable_rank
+5,MSR1,205,highly_variable_rank
+5,CXADR,206,highly_variable_rank
+5,LTC4S,207,highly_variable_rank
+5,CYBB,208,highly_variable_rank
+5,ALDH1A3,209,highly_variable_rank
+5,NPR3,210,highly_variable_rank
+5,COLEC11,211,highly_variable_rank
+5,MB,212,highly_variable_rank
+5,NUPR1,213,highly_variable_rank
+5,APELA,214,highly_variable_rank
+5,TNNI1,215,highly_variable_rank
+5,COL8A1,216,highly_variable_rank
+5,CNN1,217,highly_variable_rank
+5,BIRC5,218,highly_variable_rank
+5,CD72,219,highly_variable_rank
+5,LGALS2,220,highly_variable_rank
+5,FCGR2B,221,highly_variable_rank
+5,ITM2A,222,highly_variable_rank
+5,FMOD,223,highly_variable_rank
+5,PRSS23,224,highly_variable_rank
+5,ACP5,225,highly_variable_rank
+5,FABP5,226,highly_variable_rank
+5,THBS1,227,highly_variable_rank
+5,CD83,228,highly_variable_rank
+5,CSF1R,229,highly_variable_rank
+5,PLIN2,230,highly_variable_rank
+5,EMB,231,highly_variable_rank
+5,IFIT1,232,highly_variable_rank
+5,TIMD4,233,highly_variable_rank
+5,SRGN,234,highly_variable_rank
+5,FGL2,235,highly_variable_rank
+5,ARG2,236,highly_variable_rank
+5,CCR2,237,highly_variable_rank
+5,LCP1,238,highly_variable_rank
+5,PTGIS,239,highly_variable_rank
+5,C2,240,highly_variable_rank
+5,MZB1,241,highly_variable_rank
+5,CCR7,242,highly_variable_rank
+5,AQP1,243,highly_variable_rank
+5,IL10,244,highly_variable_rank
+5,ACTN2,245,highly_variable_rank
+5,COX6A2,246,highly_variable_rank
+5,MYLK,247,highly_variable_rank
+5,COL6A5,248,highly_variable_rank
+5,INHBA,249,highly_variable_rank
+5,COTL1,250,highly_variable_rank
+5,SELP,251,highly_variable_rank
+5,IGF2,252,highly_variable_rank
+5,CLDN15,253,highly_variable_rank
+5,MCEMP1,254,highly_variable_rank
+5,AREG,255,highly_variable_rank
+5,TMEM151A,256,highly_variable_rank
+5,SFRP1,257,highly_variable_rank
+5,CCNB2,258,highly_variable_rank
+5,GPC3,259,highly_variable_rank
+5,BST1,260,highly_variable_rank
+5,HCAR2,261,highly_variable_rank
+5,ARHGDIB,262,highly_variable_rank
+5,CD7,263,highly_variable_rank
+5,PLET1,264,highly_variable_rank
+5,KLK1,265,highly_variable_rank
+5,TNF,266,highly_variable_rank
+5,IL33,267,highly_variable_rank
+5,SNCG,268,highly_variable_rank
+5,MT-ND4,269,highly_variable_rank
+5,FABP4,270,highly_variable_rank
+5,NBL1,271,highly_variable_rank
+5,F7,272,highly_variable_rank
+5,RARRES2,273,highly_variable_rank
+5,NCF4,274,highly_variable_rank
+5,GGT1,275,highly_variable_rank
+5,GSTA4,276,highly_variable_rank
+5,CKM,277,highly_variable_rank
+5,TNFRSF9,278,highly_variable_rank
+5,ITGB2,279,highly_variable_rank
+5,POSTN,280,highly_variable_rank
+5,GJB5,281,highly_variable_rank
+5,CD36,282,highly_variable_rank
+5,SDC4,283,highly_variable_rank
+5,HILPDA,284,highly_variable_rank
+5,KCNJ8,285,highly_variable_rank
+5,ATP1B1,286,highly_variable_rank
+5,HTRA3,287,highly_variable_rank
+5,TMEM37,288,highly_variable_rank
+5,TAC1,289,highly_variable_rank
+5,CDK1,290,highly_variable_rank
+5,MMP13,291,highly_variable_rank
+5,COL1A1,292,highly_variable_rank
+5,CEBPB,293,highly_variable_rank
+5,PRC1,294,highly_variable_rank
+5,PLEK,295,highly_variable_rank
+5,CSTB,296,highly_variable_rank
+5,CYBA,297,highly_variable_rank
+5,TMEM108,298,highly_variable_rank
+5,OSR1,299,highly_variable_rank
+5,NAPSA,300,highly_variable_rank
+5,TPM1,301,highly_variable_rank
+5,CST9,302,highly_variable_rank
+5,KLRD1,303,highly_variable_rank
+5,CX3CR1,304,highly_variable_rank
+5,MPZL2,305,highly_variable_rank
+5,ORM1,306,highly_variable_rank
+5,VSIG4,307,highly_variable_rank
+5,CEBPE,308,highly_variable_rank
+5,ACTA1,309,highly_variable_rank
+5,BMP10,310,highly_variable_rank
+5,RSAD2,311,highly_variable_rank
+5,CYTIP,312,highly_variable_rank
+5,LAT2,313,highly_variable_rank
+5,PRTN3,314,highly_variable_rank
+5,HEMGN,315,highly_variable_rank
+5,F10,316,highly_variable_rank
+5,SERPINE1,317,highly_variable_rank
+5,TIMP4,318,highly_variable_rank
+5,TLR2,319,highly_variable_rank
+5,BEX4,320,highly_variable_rank
+5,SEMA3C,321,highly_variable_rank
+5,PKHD1L1,322,highly_variable_rank
+5,PLAUR,323,highly_variable_rank
+5,CXCL14,324,highly_variable_rank
+5,SLC7A11,325,highly_variable_rank
+5,SPON2,326,highly_variable_rank
+5,CRYAB,327,highly_variable_rank
+5,MMP3,328,highly_variable_rank
+5,CALCB,329,highly_variable_rank
+5,CD79B,330,highly_variable_rank
+5,DOK2,331,highly_variable_rank
+5,NDUFA4L2,332,highly_variable_rank
+5,HSPA1A,333,highly_variable_rank
+5,FPR1,334,highly_variable_rank
+5,ENPP2,335,highly_variable_rank
+5,FBLN2,336,highly_variable_rank
+5,TM4SF1,337,highly_variable_rank
+5,CENPE,338,highly_variable_rank
+5,STMN4,339,highly_variable_rank
+5,PTPRB,340,highly_variable_rank
+5,DCN,341,highly_variable_rank
+5,LUM,342,highly_variable_rank
+5,SPIC,343,highly_variable_rank
+5,CST6,344,highly_variable_rank
+5,COL1A2,345,highly_variable_rank
+5,CCR1,346,highly_variable_rank
+5,PTTG1,347,highly_variable_rank
+5,CD3D,348,highly_variable_rank
+5,TOP2A,349,highly_variable_rank
+5,RYR2,350,highly_variable_rank
+5,RRM2,351,highly_variable_rank
+5,SFN,352,highly_variable_rank
+5,SLC4A1,353,highly_variable_rank
+5,EMCN,354,highly_variable_rank
+5,FLT1,355,highly_variable_rank
+5,ACTB,356,highly_variable_rank
+5,COL18A1,357,highly_variable_rank
+5,NPY,358,highly_variable_rank
+5,CHST4,359,highly_variable_rank
+5,KDR,360,highly_variable_rank
+5,CHAC2,361,highly_variable_rank
+5,SOX17,362,highly_variable_rank
+5,MUC16,363,highly_variable_rank
+5,PTHLH,364,highly_variable_rank
+5,CALCA,365,highly_variable_rank
+5,DAB2,366,highly_variable_rank
+5,MT-ND2,367,highly_variable_rank
+5,PKLR,368,highly_variable_rank
+5,KRTDAP,369,highly_variable_rank
+5,GPIHBP1,370,highly_variable_rank
+5,CDCA8,371,highly_variable_rank
+5,DPEP1,372,highly_variable_rank
+5,VPREB3,373,highly_variable_rank
+5,PLA2G7,374,highly_variable_rank
+5,ALDH1A1,375,highly_variable_rank
+5,CD48,376,highly_variable_rank
+5,IL1R2,377,highly_variable_rank
+5,CRABP2,378,highly_variable_rank
+5,CYP2S1,379,highly_variable_rank
+5,SPINT2,380,highly_variable_rank
+5,PLBD1,381,highly_variable_rank
+5,FBXL22,382,highly_variable_rank
+5,ITIH4,383,highly_variable_rank
+5,ICAM1,384,highly_variable_rank
+5,CD3G,385,highly_variable_rank
+5,GDF10,386,highly_variable_rank
+5,DUSP2,387,highly_variable_rank
+5,BMP1,388,highly_variable_rank
+5,CPE,389,highly_variable_rank
+5,GBP2,390,highly_variable_rank
+5,HMGB2,391,highly_variable_rank
+5,STEAP4,392,highly_variable_rank
+5,CCDC80,393,highly_variable_rank
+5,OSM,394,highly_variable_rank
+5,MYO5B,395,highly_variable_rank
+5,CD9,396,highly_variable_rank
+5,ASPN,397,highly_variable_rank
+5,CDC42EP3,398,highly_variable_rank
+5,PGAM2,399,highly_variable_rank
+5,OGN,400,highly_variable_rank
+5,GAP43,401,highly_variable_rank
+5,MEG3,402,highly_variable_rank
+5,CD8A,403,highly_variable_rank
+5,ESM1,404,highly_variable_rank
+5,GSN,405,highly_variable_rank
+5,CAV1,406,highly_variable_rank
+5,VCAM1,407,highly_variable_rank
+5,GFRA3,408,highly_variable_rank
+5,ENO3,409,highly_variable_rank
+5,SFTPA1,410,highly_variable_rank
+5,CLEC5A,411,highly_variable_rank
+5,CTSH,412,highly_variable_rank
+5,SFTA2,413,highly_variable_rank
+5,NPPB,414,highly_variable_rank
+5,GLIPR1,415,highly_variable_rank
+5,AHSG,416,highly_variable_rank
+5,PRR15L,417,highly_variable_rank
+5,MSRB1,418,highly_variable_rank
+5,APOLD1,419,highly_variable_rank
+5,CCL11,420,highly_variable_rank
+5,TMEM100,421,highly_variable_rank
+5,CDH5,422,highly_variable_rank
+5,CSF3,423,highly_variable_rank
+5,FBLN1,424,highly_variable_rank
+5,VTN,425,highly_variable_rank
+5,ALAD,426,highly_variable_rank
+5,BPGM,427,highly_variable_rank
+5,LOX,428,highly_variable_rank
+5,CASQ2,429,highly_variable_rank
+5,DCAF12L1,430,highly_variable_rank
+5,PROCR,431,highly_variable_rank
+5,HMMR,432,highly_variable_rank
+5,SERPINE2,433,highly_variable_rank
+5,CRLF1,434,highly_variable_rank
+5,MT-ND1,435,highly_variable_rank
+5,FRAS1,436,highly_variable_rank
+5,KLRC1,437,highly_variable_rank
+5,NMRK2,438,highly_variable_rank
+5,THY1,439,highly_variable_rank
+5,IGFBP2,440,highly_variable_rank
+5,TRIM10,441,highly_variable_rank
+5,PTPRCAP,442,highly_variable_rank
+5,FXYD3,443,highly_variable_rank
+5,NKG7,444,highly_variable_rank
+5,SORBS2,445,highly_variable_rank
+5,APOBEC1,446,highly_variable_rank
+5,TPX2,447,highly_variable_rank
+5,HPGDS,448,highly_variable_rank
+5,NNAT,449,highly_variable_rank
+5,RGCC,450,highly_variable_rank
+5,CH25H,451,highly_variable_rank
+5,BGN,452,highly_variable_rank
+5,ZC3H12B,453,highly_variable_rank
+5,FCMR,454,highly_variable_rank
+5,LMOD1,455,highly_variable_rank
+5,CCNA2,456,highly_variable_rank
+5,CCR9,457,highly_variable_rank
+5,CPOX,458,highly_variable_rank
+5,TRDN,459,highly_variable_rank
+5,IL18R1,460,highly_variable_rank
+5,CPNE6,461,highly_variable_rank
+5,SAMSN1,462,highly_variable_rank
+5,CLEC12A,463,highly_variable_rank
+5,LRP1B,464,highly_variable_rank
+5,MGLL,465,highly_variable_rank
+5,PBK,466,highly_variable_rank
+5,COL3A1,467,highly_variable_rank
+5,RAB20,468,highly_variable_rank
+5,ACAN,469,highly_variable_rank
+5,CHCHD10,470,highly_variable_rank
+5,RAB7B,471,highly_variable_rank
+5,STMN1,472,highly_variable_rank
+5,BTNL9,473,highly_variable_rank
+5,CKS2,474,highly_variable_rank
+5,SOST,475,highly_variable_rank
+5,FOLR1,476,highly_variable_rank
+5,CDH3,477,highly_variable_rank
+5,RNASE10,478,highly_variable_rank
+5,SRL,479,highly_variable_rank
+5,GZMB,480,highly_variable_rank
+5,GJB3,481,highly_variable_rank
+5,SLC40A1,482,highly_variable_rank
+5,MEOX1,483,highly_variable_rank
+5,DUSP9,484,highly_variable_rank
+5,CILP,485,highly_variable_rank
+5,ABCC9,486,highly_variable_rank
+5,KLRC2,487,highly_variable_rank
+5,RBP4,488,highly_variable_rank
+5,IFNB1,489,highly_variable_rank
+5,SEMA3G,490,highly_variable_rank
+5,SPC25,491,highly_variable_rank
+5,TK1,492,highly_variable_rank
+5,MYRF,493,highly_variable_rank
+5,PRR15,494,highly_variable_rank
+5,FLRT2,495,highly_variable_rank
+5,APLNR,496,highly_variable_rank
+5,CAPN6,497,highly_variable_rank
+5,PSAP,498,highly_variable_rank
+5,AEBP1,499,highly_variable_rank
+5,PTGS1,500,highly_variable_rank
+6,JCHAIN,1,highly_variable_rank
+6,S100A9,2,highly_variable_rank
+6,S100A8,3,highly_variable_rank
+6,MZB1,4,highly_variable_rank
+6,APOE,5,highly_variable_rank
+6,C1QA,6,highly_variable_rank
+6,ALB,7,highly_variable_rank
+6,C1QB,8,highly_variable_rank
+6,APOC1,9,highly_variable_rank
+6,C1QC,10,highly_variable_rank
+6,APOA1,11,highly_variable_rank
+6,FGA,12,highly_variable_rank
+6,FGB,13,highly_variable_rank
+6,FGG,14,highly_variable_rank
+6,ACTA2,15,highly_variable_rank
+6,HP,16,highly_variable_rank
+6,AMBP,17,highly_variable_rank
+6,TAGLN,18,highly_variable_rank
+6,IFI27,19,highly_variable_rank
+6,AHSG,20,highly_variable_rank
+6,CD5L,21,highly_variable_rank
+6,FCER1A,22,highly_variable_rank
+6,RBP4,23,highly_variable_rank
+6,VTN,24,highly_variable_rank
+6,ALDOB,25,highly_variable_rank
+6,MARCO,26,highly_variable_rank
+6,PTGDS,27,highly_variable_rank
+6,CCL2,28,highly_variable_rank
+6,APOB,29,highly_variable_rank
+6,KNG1,30,highly_variable_rank
+6,APOC3,31,highly_variable_rank
+6,APOH,32,highly_variable_rank
+6,HPX,33,highly_variable_rank
+6,GC,34,highly_variable_rank
+6,ORM1,35,highly_variable_rank
+6,CP,36,highly_variable_rank
+6,DERL3,37,highly_variable_rank
+6,CXCL2,38,highly_variable_rank
+6,C3,39,highly_variable_rank
+6,DEFB1,40,highly_variable_rank
+6,TTR,41,highly_variable_rank
+6,IGFBP7,42,highly_variable_rank
+6,ORM2,43,highly_variable_rank
+6,DNASE1L3,44,highly_variable_rank
+6,F2,45,highly_variable_rank
+6,FABP4,46,highly_variable_rank
+6,AGXT,47,highly_variable_rank
+6,FGL1,48,highly_variable_rank
+6,DCN,49,highly_variable_rank
+6,UBE2C,50,highly_variable_rank
+6,APOA2,51,highly_variable_rank
+6,SERPINC1,52,highly_variable_rank
+6,SERPINF1,53,highly_variable_rank
+6,TM4SF4,54,highly_variable_rank
+6,G0S2,55,highly_variable_rank
+6,CXCL1,56,highly_variable_rank
+6,PLG,57,highly_variable_rank
+6,CLDN5,58,highly_variable_rank
+6,PRAP1,59,highly_variable_rank
+6,APCS,60,highly_variable_rank
+6,AREG,61,highly_variable_rank
+6,ANXA4,62,highly_variable_rank
+6,CLU,63,highly_variable_rank
+6,TPM2,64,highly_variable_rank
+6,IL1B,65,highly_variable_rank
+6,MYL9,66,highly_variable_rank
+6,AZGP1,67,highly_variable_rank
+6,HPD,68,highly_variable_rank
+6,CXCL3,69,highly_variable_rank
+6,ACKR1,70,highly_variable_rank
+6,GZMB,71,highly_variable_rank
+6,A1BG,72,highly_variable_rank
+6,FABP1,73,highly_variable_rank
+6,FXYD2,74,highly_variable_rank
+6,TFF3,75,highly_variable_rank
+6,IDO1,76,highly_variable_rank
+6,SPP1,77,highly_variable_rank
+6,KRT18,78,highly_variable_rank
+6,CLEC10A,79,highly_variable_rank
+6,BGN,80,highly_variable_rank
+6,HMGCS2,81,highly_variable_rank
+6,FOLR2,82,highly_variable_rank
+6,CLEC9A,83,highly_variable_rank
+6,SAA4,84,highly_variable_rank
+6,CPS1,85,highly_variable_rank
+6,CCL3,86,highly_variable_rank
+6,CRP,87,highly_variable_rank
+6,CFHR1,88,highly_variable_rank
+6,CRHBP,89,highly_variable_rank
+6,NDUFA4L2,90,highly_variable_rank
+6,CD79A,91,highly_variable_rank
+6,ITM2C,92,highly_variable_rank
+6,ITIH1,93,highly_variable_rank
+6,CCL8,94,highly_variable_rank
+6,GPNMB,95,highly_variable_rank
+6,CXCL12,96,highly_variable_rank
+6,FN1,97,highly_variable_rank
+6,PCK1,98,highly_variable_rank
+6,CLEC4G,99,highly_variable_rank
+6,IGFBP5,100,highly_variable_rank
+6,NTS,101,highly_variable_rank
+6,STMN1,102,highly_variable_rank
+6,TDO2,103,highly_variable_rank
+6,LUM,104,highly_variable_rank
+6,MGP,105,highly_variable_rank
+6,CXCL10,106,highly_variable_rank
+6,IGFBP3,107,highly_variable_rank
+6,MS4A7,108,highly_variable_rank
+6,KRT7,109,highly_variable_rank
+6,ITIH2,110,highly_variable_rank
+6,CPVL,111,highly_variable_rank
+6,HMOX1,112,highly_variable_rank
+6,SDS,113,highly_variable_rank
+6,KRT8,114,highly_variable_rank
+6,HRG,115,highly_variable_rank
+6,RERGL,116,highly_variable_rank
+6,RNASE1,117,highly_variable_rank
+6,SLC9A3R2,118,highly_variable_rank
+6,APOM,119,highly_variable_rank
+6,TYMS,120,highly_variable_rank
+6,COLEC11,121,highly_variable_rank
+6,TIMP1,122,highly_variable_rank
+6,HSD17B6,123,highly_variable_rank
+6,LGALS4,124,highly_variable_rank
+6,XCL1,125,highly_variable_rank
+6,ITIH3,126,highly_variable_rank
+6,AGT,127,highly_variable_rank
+6,CD163,128,highly_variable_rank
+6,MMP7,129,highly_variable_rank
+6,TOP2A,130,highly_variable_rank
+6,CCL20,131,highly_variable_rank
+6,GSTA1,132,highly_variable_rank
+6,TNFRSF17,133,highly_variable_rank
+6,CST3,134,highly_variable_rank
+6,GPX3,135,highly_variable_rank
+6,C8G,136,highly_variable_rank
+6,SLC40A1,137,highly_variable_rank
+6,MGST1,138,highly_variable_rank
+6,C7,139,highly_variable_rank
+6,SOD3,140,highly_variable_rank
+6,RARRES2,141,highly_variable_rank
+6,ANGPTL3,142,highly_variable_rank
+6,PLCG2,143,highly_variable_rank
+6,TACSTD2,144,highly_variable_rank
+6,CFH,145,highly_variable_rank
+6,F12,146,highly_variable_rank
+6,KRT19,147,highly_variable_rank
+6,HIST1H4C,148,highly_variable_rank
+6,LGALS2,149,highly_variable_rank
+6,CD14,150,highly_variable_rank
+6,LEAP2,151,highly_variable_rank
+6,TREM2,152,highly_variable_rank
+6,RAMP2,153,highly_variable_rank
+6,CFB,154,highly_variable_rank
+6,SPP2,155,highly_variable_rank
+6,TK1,156,highly_variable_rank
+6,CLDN10,157,highly_variable_rank
+6,MKI67,158,highly_variable_rank
+6,CD74,159,highly_variable_rank
+6,RRM2,160,highly_variable_rank
+6,CTSL,161,highly_variable_rank
+6,HMGB2,162,highly_variable_rank
+6,FABP5,163,highly_variable_rank
+6,TAT,164,highly_variable_rank
+6,GNG11,165,highly_variable_rank
+6,CLEC14A,166,highly_variable_rank
+6,SPARCL1,167,highly_variable_rank
+6,ARG1,168,highly_variable_rank
+6,COL1A2,169,highly_variable_rank
+6,MYH11,170,highly_variable_rank
+6,LGMN,171,highly_variable_rank
+6,TM4SF1,172,highly_variable_rank
+6,ASGR1,173,highly_variable_rank
+6,CXCL9,174,highly_variable_rank
+6,DPT,175,highly_variable_rank
+6,CD68,176,highly_variable_rank
+6,CENPF,177,highly_variable_rank
+6,EPCAM,178,highly_variable_rank
+6,A2M,179,highly_variable_rank
+6,IGF2,180,highly_variable_rank
+6,IGFBP1,181,highly_variable_rank
+6,FKBP11,182,highly_variable_rank
+6,LIPA,183,highly_variable_rank
+6,SLPI,184,highly_variable_rank
+6,MEG3,185,highly_variable_rank
+6,SELE,186,highly_variable_rank
+6,ID1,187,highly_variable_rank
+6,PLVAP,188,highly_variable_rank
+6,FBLN1,189,highly_variable_rank
+6,NNMT,190,highly_variable_rank
+6,CCL4,191,highly_variable_rank
+6,EDN1,192,highly_variable_rank
+6,SPARC,193,highly_variable_rank
+6,VSIG4,194,highly_variable_rank
+6,CLDN4,195,highly_variable_rank
+6,BIRC5,196,highly_variable_rank
+6,TPSB2,197,highly_variable_rank
+6,SAA1,198,highly_variable_rank
+6,COL3A1,199,highly_variable_rank
+6,CFD,200,highly_variable_rank
+6,VCAN,201,highly_variable_rank
+6,PGLYRP2,202,highly_variable_rank
+6,RBP7,203,highly_variable_rank
+6,LYVE1,204,highly_variable_rank
+6,TMEM176B,205,highly_variable_rank
+6,LTB,206,highly_variable_rank
+6,MT-ND4,207,highly_variable_rank
+6,MT-ND4L,208,highly_variable_rank
+6,RGCC,209,highly_variable_rank
+6,LYPD2,210,highly_variable_rank
+6,VCAM1,211,highly_variable_rank
+6,CAV1,212,highly_variable_rank
+6,SULT2A1,213,highly_variable_rank
+6,LBP,214,highly_variable_rank
+6,GAMT,215,highly_variable_rank
+6,ASPM,216,highly_variable_rank
+6,SFRP5,217,highly_variable_rank
+6,SERPINA6,218,highly_variable_rank
+6,JSRP1,219,highly_variable_rank
+6,FTCD,220,highly_variable_rank
+6,SERPINF2,221,highly_variable_rank
+6,IFITM3,222,highly_variable_rank
+6,TMEM176A,223,highly_variable_rank
+6,APOA5,224,highly_variable_rank
+6,SEC11C,225,highly_variable_rank
+6,C8B,226,highly_variable_rank
+6,CDC20,227,highly_variable_rank
+6,CLEC1B,228,highly_variable_rank
+6,GDF15,229,highly_variable_rank
+6,PAH,230,highly_variable_rank
+6,TIMP3,231,highly_variable_rank
+6,TFPI,232,highly_variable_rank
+6,TFR2,233,highly_variable_rank
+6,ASS1,234,highly_variable_rank
+6,SERPINA5,235,highly_variable_rank
+6,HES1,236,highly_variable_rank
+6,PIM2,237,highly_variable_rank
+6,ID3,238,highly_variable_rank
+6,TFPI2,239,highly_variable_rank
+6,IGLL1,240,highly_variable_rank
+6,S100B,241,highly_variable_rank
+6,MS4A1,242,highly_variable_rank
+6,CLDN3,243,highly_variable_rank
+6,STC1,244,highly_variable_rank
+6,SRRT,245,highly_variable_rank
+6,FRZB,246,highly_variable_rank
+6,MFAP4,247,highly_variable_rank
+6,COL6A3,248,highly_variable_rank
+6,C9,249,highly_variable_rank
+6,APOD,250,highly_variable_rank
+6,ASGR2,251,highly_variable_rank
+6,PTTG1,252,highly_variable_rank
+6,AURKB,253,highly_variable_rank
+6,CRIP1,254,highly_variable_rank
+6,COL6A1,255,highly_variable_rank
+6,SNX3,256,highly_variable_rank
+6,HAMP,257,highly_variable_rank
+6,GPR183,258,highly_variable_rank
+6,LGALS1,259,highly_variable_rank
+6,KHK,260,highly_variable_rank
+6,MASP2,261,highly_variable_rank
+6,TFF2,262,highly_variable_rank
+6,LCN2,263,highly_variable_rank
+6,BEX1,264,highly_variable_rank
+6,NUSAP1,265,highly_variable_rank
+6,COL1A1,266,highly_variable_rank
+6,ADH4,267,highly_variable_rank
+6,DCXR,268,highly_variable_rank
+6,SCT,269,highly_variable_rank
+6,XCR1,270,highly_variable_rank
+6,MT-CO2,271,highly_variable_rank
+6,PPP1R14A,272,highly_variable_rank
+6,CDK1,273,highly_variable_rank
+6,CALD1,274,highly_variable_rank
+6,IGFBP4,275,highly_variable_rank
+6,ELF3,276,highly_variable_rank
+6,SSR4,277,highly_variable_rank
+6,IRF8,278,highly_variable_rank
+6,CYP2E1,279,highly_variable_rank
+6,CD207,280,highly_variable_rank
+6,MAT1A,281,highly_variable_rank
+6,C8A,282,highly_variable_rank
+6,SERPIND1,283,highly_variable_rank
+6,PLPP1,284,highly_variable_rank
+6,SERPING1,285,highly_variable_rank
+6,GATM,286,highly_variable_rank
+6,AADAC,287,highly_variable_rank
+6,MT-CO1,288,highly_variable_rank
+6,GJA4,289,highly_variable_rank
+6,POSTN,290,highly_variable_rank
+6,AIF1,291,highly_variable_rank
+6,SERPINE2,292,highly_variable_rank
+6,TTC36,293,highly_variable_rank
+6,GTF2B,294,highly_variable_rank
+6,SAA2,295,highly_variable_rank
+6,ITGBL1,296,highly_variable_rank
+6,PLD4,297,highly_variable_rank
+6,EREG,298,highly_variable_rank
+6,CEMIP,299,highly_variable_rank
+6,MT-ND3,300,highly_variable_rank
+6,AFM,301,highly_variable_rank
+6,KRT23,302,highly_variable_rank
+6,CFP,303,highly_variable_rank
+6,LY6H,304,highly_variable_rank
+6,TMEM100,305,highly_variable_rank
+6,ASPN,306,highly_variable_rank
+6,GSN,307,highly_variable_rank
+6,MAP2K3,308,highly_variable_rank
+6,SDC1,309,highly_variable_rank
+6,SERPINA7,310,highly_variable_rank
+6,CNN1,311,highly_variable_rank
+6,FCGRT,312,highly_variable_rank
+6,LECT2,313,highly_variable_rank
+6,HSPA1A,314,highly_variable_rank
+6,ANG,315,highly_variable_rank
+6,IGSF6,316,highly_variable_rank
+6,PRR9,317,highly_variable_rank
+6,IFNG,318,highly_variable_rank
+6,JUN,319,highly_variable_rank
+6,PON1,320,highly_variable_rank
+6,TNFRSF12A,321,highly_variable_rank
+6,HMMR,322,highly_variable_rank
+6,LEFTY1,323,highly_variable_rank
+6,LRG1,324,highly_variable_rank
+6,S100A16,325,highly_variable_rank
+6,CPB2,326,highly_variable_rank
+6,SLC22A7,327,highly_variable_rank
+6,SOX4,328,highly_variable_rank
+6,FBP1,329,highly_variable_rank
+6,LPCAT4,330,highly_variable_rank
+6,FCGR2B,331,highly_variable_rank
+6,TPM1,332,highly_variable_rank
+6,IFI30,333,highly_variable_rank
+6,TUBA1B,334,highly_variable_rank
+6,GRIA2,335,highly_variable_rank
+6,CD36,336,highly_variable_rank
+6,HERPUD1,337,highly_variable_rank
+6,COX4I2,338,highly_variable_rank
+6,TRPC1,339,highly_variable_rank
+6,SCGN,340,highly_variable_rank
+6,MUC6,341,highly_variable_rank
+6,SOD2,342,highly_variable_rank
+6,ZDHHC19,343,highly_variable_rank
+6,ATF5,344,highly_variable_rank
+6,PROX1,345,highly_variable_rank
+6,PLN,346,highly_variable_rank
+6,FGGY,347,highly_variable_rank
+6,CTSB,348,highly_variable_rank
+6,EGFL7,349,highly_variable_rank
+6,CCNB1,350,highly_variable_rank
+6,GFRA3,351,highly_variable_rank
+6,HSD11B1,352,highly_variable_rank
+6,FMO3,353,highly_variable_rank
+6,CYP27A1,354,highly_variable_rank
+6,MUC5B,355,highly_variable_rank
+6,CCL17,356,highly_variable_rank
+6,VMO1,357,highly_variable_rank
+6,RBFOX3,358,highly_variable_rank
+6,CCNB2,359,highly_variable_rank
+6,AEBP1,360,highly_variable_rank
+6,SCGB3A1,361,highly_variable_rank
+6,RDH16,362,highly_variable_rank
+6,CD83,363,highly_variable_rank
+6,ESAM,364,highly_variable_rank
+6,USP51,365,highly_variable_rank
+6,TMEM144,366,highly_variable_rank
+6,IGFBP2,367,highly_variable_rank
+6,ERBB4,368,highly_variable_rank
+6,OIT3,369,highly_variable_rank
+6,RGS1,370,highly_variable_rank
+6,SCEL,371,highly_variable_rank
+6,FSCN1,372,highly_variable_rank
+6,CTSS,373,highly_variable_rank
+6,MROH8,374,highly_variable_rank
+6,PCOLCE,375,highly_variable_rank
+6,OLFML3,376,highly_variable_rank
+6,HIST1H3F,377,highly_variable_rank
+6,RHOB,378,highly_variable_rank
+6,HGFAC,379,highly_variable_rank
+6,MFGE8,380,highly_variable_rank
+6,GPX2,381,highly_variable_rank
+6,PLAUR,382,highly_variable_rank
+6,XBP1,383,highly_variable_rank
+6,ADAMTS1,384,highly_variable_rank
+6,RAMP3,385,highly_variable_rank
+6,NPW,386,highly_variable_rank
+6,TSPAN8,387,highly_variable_rank
+6,S100A14,388,highly_variable_rank
+6,RBP1,389,highly_variable_rank
+6,AGR2,390,highly_variable_rank
+6,OSBPL6,391,highly_variable_rank
+6,SAT1,392,highly_variable_rank
+6,SRPX,393,highly_variable_rank
+6,FBLN2,394,highly_variable_rank
+6,ECM1,395,highly_variable_rank
+6,IL1RN,396,highly_variable_rank
+6,GSTA2,397,highly_variable_rank
+6,PMP2,398,highly_variable_rank
+6,SLC27A5,399,highly_variable_rank
+6,RGN,400,highly_variable_rank
+6,TPSG1,401,highly_variable_rank
+6,EMCN,402,highly_variable_rank
+6,CYB5A,403,highly_variable_rank
+6,BHMT,404,highly_variable_rank
+6,LST1,405,highly_variable_rank
+6,HIGD1B,406,highly_variable_rank
+6,AXL,407,highly_variable_rank
+6,INMT,408,highly_variable_rank
+6,AKAP12,409,highly_variable_rank
+6,PRG4,410,highly_variable_rank
+6,THBD,411,highly_variable_rank
+6,AQP1,412,highly_variable_rank
+6,IL10,413,highly_variable_rank
+6,NFIB,414,highly_variable_rank
+6,MARCKSL1,415,highly_variable_rank
+6,EGR1,416,highly_variable_rank
+6,WFDC2,417,highly_variable_rank
+6,EMP1,418,highly_variable_rank
+6,CTSG,419,highly_variable_rank
+6,F5,420,highly_variable_rank
+6,SLC22A1,421,highly_variable_rank
+6,EFEMP1,422,highly_variable_rank
+6,APOF,423,highly_variable_rank
+6,SDC3,424,highly_variable_rank
+6,ANGPTL4,425,highly_variable_rank
+6,CPE,426,highly_variable_rank
+6,HSD17B2,427,highly_variable_rank
+6,HSPG2,428,highly_variable_rank
+6,PODXL,429,highly_variable_rank
+6,RGS2,430,highly_variable_rank
+6,CD69,431,highly_variable_rank
+6,MT-ATP6,432,highly_variable_rank
+6,PLPP2,433,highly_variable_rank
+6,PRELP,434,highly_variable_rank
+6,GRN,435,highly_variable_rank
+6,SEMA3G,436,highly_variable_rank
+6,ANGPTL8,437,highly_variable_rank
+6,SGK1,438,highly_variable_rank
+6,FGFR2,439,highly_variable_rank
+6,CDKN3,440,highly_variable_rank
+6,ASPDH,441,highly_variable_rank
+6,CDO1,442,highly_variable_rank
+6,REG3G,443,highly_variable_rank
+6,FXYD1,444,highly_variable_rank
+6,IL6,445,highly_variable_rank
+6,SLC25A47,446,highly_variable_rank
+6,DDB2,447,highly_variable_rank
+6,FCGBP,448,highly_variable_rank
+6,EPHX1,449,highly_variable_rank
+6,PKIB,450,highly_variable_rank
+6,MAFB,451,highly_variable_rank
+6,PLA2G7,452,highly_variable_rank
+6,ST3GAL1,453,highly_variable_rank
+6,HS6ST1,454,highly_variable_rank
+6,SOX17,455,highly_variable_rank
+6,CRYAB,456,highly_variable_rank
+6,HPN,457,highly_variable_rank
+6,VWF,458,highly_variable_rank
+6,ALDH1A1,459,highly_variable_rank
+6,MAP1B,460,highly_variable_rank
+6,SNCG,461,highly_variable_rank
+6,PRSS23,462,highly_variable_rank
+6,COLEC10,463,highly_variable_rank
+6,BAAT,464,highly_variable_rank
+6,FSTL3,465,highly_variable_rank
+6,SPIB,466,highly_variable_rank
+6,TNFRSF4,467,highly_variable_rank
+6,PTN,468,highly_variable_rank
+6,RAMP1,469,highly_variable_rank
+6,MS4A4A,470,highly_variable_rank
+6,PON3,471,highly_variable_rank
+6,CXCL13,472,highly_variable_rank
+6,MT-CO3,473,highly_variable_rank
+6,CPEB3,474,highly_variable_rank
+6,ALDH2,475,highly_variable_rank
+6,PLK1,476,highly_variable_rank
+6,BNIPL,477,highly_variable_rank
+6,RETN,478,highly_variable_rank
+6,TM4SF5,479,highly_variable_rank
+6,PERP,480,highly_variable_rank
+6,GLYAT,481,highly_variable_rank
+6,GZMK,482,highly_variable_rank
+6,IL17A,483,highly_variable_rank
+6,BICC1,484,highly_variable_rank
+6,CD27,485,highly_variable_rank
+6,PDPN,486,highly_variable_rank
+6,ENG,487,highly_variable_rank
+6,G6PC,488,highly_variable_rank
+6,FGL2,489,highly_variable_rank
+6,STAB2,490,highly_variable_rank
+6,ANXA13,491,highly_variable_rank
+6,CCDC80,492,highly_variable_rank
+6,MTTP,493,highly_variable_rank
+6,COL6A2,494,highly_variable_rank
+6,NR0B2,495,highly_variable_rank
+6,PDZK1IP1,496,highly_variable_rank
+6,PROC,497,highly_variable_rank
+6,ONECUT2,498,highly_variable_rank
+6,SPI1,499,highly_variable_rank
+6,SOX9,500,highly_variable_rank

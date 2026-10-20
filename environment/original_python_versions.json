@@ -1,0 +1,26 @@
+{
+  "python": "3.10.20 | packaged by conda-forge | (main, Jun 11 2026, 03:28:51) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "packages": {
+    "anndata": "0.11.4",
+    "scanpy": "1.11.5",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.9",
+    "h5py": "3.16.0",
+    "numba": "0.65.1",
+    "igraph": "0.11.9",
+    "leidenalg": "0.10.2"
+  },
+  "thread_counts": {
+    "OMP": 4,
+    "OpenBLAS": 4,
+    "MKL": 4,
+    "NUMBA": 4
+  },
+  "Figure1_seed": 20261009,
+  "Figure2_seed": 20260917,
+  "Figure2_resolution": 0.55
+}

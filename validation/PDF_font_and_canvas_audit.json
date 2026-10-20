@@ -1,0 +1,250 @@
+[
+  {
+    "file": "outputs/reference/Figure1bc_horizontal_selected19_fullcells.pdf",
+    "pages": 1,
+    "mm": [
+      209.99999406602643,
+      74.99999788072374
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT",
+      "DTWKUJ+Arial-ItalicMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      12.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 1315.3022875288143
+  },
+  {
+    "file": "outputs/reference/Figure1E_COLI_SOX9_unified_slot.pdf",
+    "pages": 1,
+    "mm": [
+      72.04595769246419,
+      54.14238857693142
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT",
+      "DTWKUJ+Arial-ItalicMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      12.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 1530.9930151406081
+  },
+  {
+    "file": "outputs/reference/Figure2AB_human_Fib_slot.pdf",
+    "pages": 1,
+    "mm": [
+      156.66398391723632,
+      63.37072279188367
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT",
+      "DTWKUJ+Arial-BoldItalicMT",
+      "DTWKUJ+Arial-ItalicMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      12.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 2758.689769090316
+  },
+  {
+    "file": "outputs/reference/Figure3G_COLI_SOX9_unified_slot.pdf",
+    "pages": 1,
+    "mm": [
+      98.4599892510308,
+      63.75171267191569
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT",
+      "DTWKUJ+Arial-ItalicMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      12.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 1483.5412080129622
+  },
+  {
+    "file": "outputs/reference/Figure4H_left_Fib_ACTA2_SOX9_regulon_network_105mm.pdf",
+    "pages": 1,
+    "mm": [
+      104.99999703301322,
+      104.99999703301322
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT",
+      "DTWKUJ+Arial-BoldItalicMT",
+      "DTWKUJ+Arial-ItalicMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      10.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 747.2115094507465
+  },
+  {
+    "file": "outputs/reference/Figure4H_right_Fib_ACTA2_SOX9_target_GO_BP_105mm.pdf",
+    "pages": 1,
+    "mm": [
+      104.99999703301322,
+      104.99999703301322
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      10.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 1460.3368368300999
+  },
+  {
+    "file": "outputs/reference/Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width.pdf",
+    "pages": 1,
+    "mm": [
+      209.99999406602643,
+      297.0000023735894
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT",
+      "DTWKUJ+Arial-ItalicMT",
+      "BMQQDV+DejaVuSans"
+    ],
+    "font_sizes_pt": [
+      6.300000190734863,
+      12.0
+    ],
+    "Arial_only_visible_text": false,
+    "raster_variance": 594.6002012282532
+  },
+  {
+    "file": "validation/aggregate_replay/figures/Figure1bc_horizontal_selected19_fullcells.pdf",
+    "pages": 1,
+    "mm": [
+      209.99999406602643,
+      74.99999788072374
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT",
+      "DTWKUJ+Arial-ItalicMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      12.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 1315.3022875288143
+  },
+  {
+    "file": "validation/aggregate_replay/figures/Figure2AB_from_aggregate_markers_frozen_map.pdf",
+    "pages": 1,
+    "mm": [
+      156.66398391723632,
+      63.37072279188367
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT",
+      "DTWKUJ+Arial-BoldItalicMT",
+      "DTWKUJ+Arial-ItalicMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      12.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 2724.8527132424783
+  },
+  {
+    "file": "validation/aggregate_replay/figures/Figure4_SOX9_GO_cached.pdf",
+    "pages": 1,
+    "mm": [
+      104.99999703301322,
+      104.99999703301322
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      10.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 1460.3368368300999
+  },
+  {
+    "file": "validation/aggregate_replay/figures/Figure4_SOX9_target_network.pdf",
+    "pages": 1,
+    "mm": [
+      104.99999703301322,
+      104.99999703301322
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT",
+      "DTWKUJ+Arial-BoldItalicMT",
+      "DTWKUJ+Arial-ItalicMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      10.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 747.2115094507465
+  },
+  {
+    "file": "validation/aggregate_replay/figures/Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width.pdf",
+    "pages": 1,
+    "mm": [
+      209.99999406602643,
+      297.0000023735894
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT",
+      "ELUGPM+Arial-BoldMT",
+      "DTWKUJ+Arial-ItalicMT"
+    ],
+    "font_sizes_pt": [
+      6.300000190734863,
+      12.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 593.8800744840659
+  },
+  {
+    "file": "validation/aggregate_replay/figures/Spatial_counts_validation_not_main_panel.pdf",
+    "pages": 1,
+    "mm": [
+      209.99999406602643,
+      70.00000161064996
+    ],
+    "font_names": [
+      "ELUGPM+ArialMT"
+    ],
+    "font_sizes_pt": [
+      8.0,
+      8.0
+    ],
+    "Arial_only_visible_text": true,
+    "raster_variance": 727.7819693618767
+  }
+]

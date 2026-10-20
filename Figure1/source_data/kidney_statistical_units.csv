@@ -1,0 +1,6 @@
+﻿unit_id,condition_pair,target_cells,SOX9_mean_expression
+KIDNEY_UNIT_01,early/regenerative,522,0.1141378896832707
+KIDNEY_UNIT_02,early/regenerative,633,0.1228522236620457
+KIDNEY_UNIT_03,fibrotic repair,798,0.1761260763628662
+KIDNEY_UNIT_04,fibrotic repair,789,0.1526561061829009
+KIDNEY_UNIT_05,fibrotic repair,1161,0.1529534830653913

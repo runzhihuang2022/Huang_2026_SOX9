@@ -1,0 +1,32 @@
+{
+  "python": "3.10.20",
+  "OS": "Windows-10-10.0.26300-SP0",
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scipy": "1.15.3",
+    "matplotlib": "3.10.9",
+    "Pillow": "11.3.0",
+    "PyMuPDF": "1.26.7",
+    "networkx": "3.4.2",
+    "scanpy": "1.11.5",
+    "anndata": "0.11.4",
+    "umap-learn": "0.5.12",
+    "pynndescent": "0.6.0"
+  },
+  "threads": {
+    "OMP": 4,
+    "OpenBLAS": 4,
+    "MKL": 4,
+    "NUMBA": 4
+  },
+  "font": "Arial used; legacy Figure5A reference has non-Arial math glyphs; per-file audit records exceptions; fonts not redistributed",
+  "hardware_observed": {
+    "CPU": "Intel Core Ultra 9 285K",
+    "physical_cores": 24,
+    "logical_processors": 24,
+    "peak_memory_not_profiled": true
+  },
+  "direct_pins_only": true,
+  "original_R_lockfile_available": false
+}

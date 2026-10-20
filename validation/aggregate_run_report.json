@@ -1,0 +1,425 @@
+{
+  "status": "executed_verified",
+  "scope": "Aggregate numerical replay and documented frozen-display rendering; NOT raw-data-to-paper verification",
+  "task": "all",
+  "checks": [
+    {
+      "check": "skin_n",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "skin_Welch_P",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "skin_group_means",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "lung_n",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "lung_Welch_P",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "lung_group_means",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "kidney_n",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "kidney_Welch_P",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "kidney_group_means",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "heart_n",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "heart_Welch_P",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "heart_group_means",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "liver_n",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "liver_Welch_P",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "liver_group_means",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "five_organ_BH",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "retained_normal_zero_expression_units",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "C12_gene_detection_percent",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "Figure2_total_Fib",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "Figure2D_Mann_Whitney_P",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "Figure2D_BH_FDR",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "Figure2D_mean_fraction_difference",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "Figure2_highest_mean_paired_difference",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "Figure2_highest_one_sided_paired_Wilcoxon_P",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "Figure2_highest_BH_FDR",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "human_region_counts",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "rat_dual_counts",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "culture_libraries",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    },
+    {
+      "check": "culture_correlations_spearman_rho",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "culture_correlations_P_value",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "culture_correlations_BH_FDR_within_state",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "culture_paired_paired_mean_difference",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "culture_paired_paired_exact_Wilcoxon_P",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "culture_paired_BH_FDR",
+      "passed": true,
+      "rtol": 1e-10,
+      "atol": 1e-12
+    },
+    {
+      "check": "SOX9_target_edges",
+      "passed": true,
+      "rtol": 0,
+      "atol": 0
+    }
+  ],
+  "errors": [],
+  "figure_checks": [
+    {
+      "asset": "Figure1bc_horizontal_selected19_fullcells",
+      "mode": "Original plotting block; density-map display frozen, Welch/BH recomputed"
+    },
+    {
+      "asset": "Figure2AB_from_aggregate_markers_frozen_map",
+      "canvas_mm": [
+        156.66398391723632,
+        63.37072279188367
+      ],
+      "font_pt": [
+        8.0,
+        12.0
+      ],
+      "clipped_text": [],
+      "dpi": 600
+    },
+    {
+      "asset": "Spatial_counts_validation_not_main_panel",
+      "canvas_mm": [
+        210.00000000000003,
+        70.0
+      ],
+      "font_pt": [
+        8.0,
+        8.0
+      ],
+      "clipped_text": [],
+      "dpi": 600
+    },
+    {
+      "asset": "Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width",
+      "mode": "Original plotting block; eight-library correlations and paired tests recomputed"
+    },
+    {
+      "asset": "Figure4_SOX9_target_network",
+      "canvas_mm": [
+        104.99999999999999,
+        104.99999999999999
+      ],
+      "font_pt": [
+        8.0,
+        10.0
+      ],
+      "clipped_text": [],
+      "dpi": 600
+    },
+    {
+      "asset": "Figure4_SOX9_GO_cached",
+      "canvas_mm": [
+        104.99999999999999,
+        104.99999999999999
+      ],
+      "font_pt": [
+        8.0,
+        10.0
+      ],
+      "clipped_text": [
+        "4"
+      ],
+      "dpi": 600
+    }
+  ],
+  "files": [
+    {
+      "path": "figures/Figure1bc_horizontal_selected19_fullcells.pdf",
+      "sha256": "f02a24e6424670fdfb901aaed8d5f6e0eac267cf717c8cb8d7692940ce1ef1f6",
+      "bytes": 222278
+    },
+    {
+      "path": "figures/Figure1bc_horizontal_selected19_fullcells.png",
+      "sha256": "7495015d2931fa71e649e080ac18f4e38ba90fe3935852948e7272a590cdf122",
+      "bytes": 603367
+    },
+    {
+      "path": "figures/Figure1bc_horizontal_selected19_fullcells.svg",
+      "sha256": "5116da81e0b017995c8763db741305b2ff753deb88daa2917b97136edcd43bc1",
+      "bytes": 458470
+    },
+    {
+      "path": "figures/Figure2AB_from_aggregate_markers_frozen_map.pdf",
+      "sha256": "a89f1518b4dac5e2a0a65fa9edbc0b59f10090f973c8ae3d231d2024f2586f38",
+      "bytes": 235368
+    },
+    {
+      "path": "figures/Figure2AB_from_aggregate_markers_frozen_map.png",
+      "sha256": "3e785d32cbd5ef9da90c5be2881a383bef3992742daeccc25cb39cf78fb0d3d9",
+      "bytes": 627246
+    },
+    {
+      "path": "figures/Figure2AB_from_aggregate_markers_frozen_map.svg",
+      "sha256": "a0590fa3a5a39c917accc9c0175dc9b94e40605f6416dc39af4e9deaf24c0940",
+      "bytes": 365198
+    },
+    {
+      "path": "figures/Figure4_SOX9_GO_cached.pdf",
+      "sha256": "20fed51cbcfdc2fbe3fd7bb10dcc0cd89b781b2b36358c820fbe57c33fd430d7",
+      "bytes": 39791
+    },
+    {
+      "path": "figures/Figure4_SOX9_GO_cached.png",
+      "sha256": "5c903080eb2df1a621d2395f5b71591ca900642b9e8ab2e786ca28a046195710",
+      "bytes": 184411
+    },
+    {
+      "path": "figures/Figure4_SOX9_GO_cached.svg",
+      "sha256": "e8721ae3e48e7ae18f9e84cbeb930baa859d761b133d26750b6d9c5e3572991a",
+      "bytes": 11181
+    },
+    {
+      "path": "figures/Figure4_SOX9_target_network.pdf",
+      "sha256": "e1f079f8176bafe7a280f674a138f2582bad3bd277c7fd26ef2932cc62126e7c",
+      "bytes": 64609
+    },
+    {
+      "path": "figures/Figure4_SOX9_target_network.png",
+      "sha256": "f2ee86b0701ca2b8682a2718bce16f7fc2ac2bbb76c532e6e28acb3a03ed2c25",
+      "bytes": 339188
+    },
+    {
+      "path": "figures/Figure4_SOX9_target_network.svg",
+      "sha256": "0d3566df17cb19443886154a6ae47e452fb1e98c3563c0b8f4f8a739ff7c2003",
+      "bytes": 42247
+    },
+    {
+      "path": "figures/Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width.pdf",
+      "sha256": "61dee4be466435ddd2224cad2fa96a0f3e2fed8e711804df58d0654fff57a329",
+      "bytes": 73608
+    },
+    {
+      "path": "figures/Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width.png",
+      "sha256": "ea8c9ba449a36950d69bda626b2774ed7b5dcbfcb0dfcd33162e75a202d96a7b",
+      "bytes": 1122330
+    },
+    {
+      "path": "figures/Figure5A_SOX9_SCD_lysosomal_targets_correlations_and_differences_A4width.svg",
+      "sha256": "7092f36f7f3e15baaa0cbfc7bac597d87b6204a9ed83d790784beb8576196f42",
+      "bytes": 86707
+    },
+    {
+      "path": "figures/Spatial_counts_validation_not_main_panel.pdf",
+      "sha256": "d6835099fdc990ad6c41faad7996e29838f92b6805ca480f70801d6c73744533",
+      "bytes": 30726
+    },
+    {
+      "path": "figures/Spatial_counts_validation_not_main_panel.png",
+      "sha256": "2f1b25453e98937ed7f11e3957a3430be1bad27ed6831b30a51b192524426c37",
+      "bytes": 244600
+    },
+    {
+      "path": "figures/Spatial_counts_validation_not_main_panel.svg",
+      "sha256": "685a102d534d3a5d0422c4fccf1e1e374b8eed52b54852107fd71a6fd35b46c1",
+      "bytes": 14290
+    },
+    {
+      "path": "tables/Figure1C_recomputed_statistics.csv",
+      "sha256": "79c57719cd65bdb88a579da3a7a4a0d308d3bcff932db096461897ae8d92d39c",
+      "bytes": 1648
+    },
+    {
+      "path": "tables/Figure2D_composition_recomputed.csv",
+      "sha256": "3599e8d8d6365d22e0c8fae55b4b9f190583a876556ec77f4e3abe36d43ded08",
+      "bytes": 1923
+    },
+    {
+      "path": "tables/Figure2_C12_marker_percentages.csv",
+      "sha256": "f137afeda05a4f0bdf31f9e7ad500c9ebb0fdfd3b883fce259ee18d1b2f3e314",
+      "bytes": 253
+    },
+    {
+      "path": "tables/Figure2_highest_cluster_recomputed.csv",
+      "sha256": "96485167bc4139600da810bd87ccfa456f47bfcecbd3388544dbeeb8c6f2461a",
+      "bytes": 1103
+    },
+    {
+      "path": "tables/Figure5A_correlations_recomputed.csv",
+      "sha256": "66f8fb9836d1afbe82ba99a2acae211085c5f4e9b82c19e47c8fba0316653c71",
+      "bytes": 755
+    },
+    {
+      "path": "tables/Figure5A_paired_differences_recomputed.csv",
+      "sha256": "ab2516d59c625b49d5e3e74e8d8a83b60592728855cd1e9b22fe2821fb647f12",
+      "bytes": 735
+    },
+    {
+      "path": "tables/Human_regions_recomputed.csv",
+      "sha256": "2fc0ddf6b024c3a360975f9450e6a181f89557965e605bed18721fa8cdfb8260",
+      "bytes": 391
+    },
+    {
+      "path": "tables/Rat_sections_recomputed.csv",
+      "sha256": "f2083a4c5771e7e352f1b12fee18cc5fbc73513bf01e4f124ce696cee514cbc0",
+      "bytes": 3956
+    },
+    {
+      "path": "tables/Rat_stage_pooled_descriptive.csv",
+      "sha256": "031a8d6956933c11f5a21554317399647341f2e57059fbaaf4286f199e8ca0e8",
+      "bytes": 163
+    }
+  ],
+  "elapsed_seconds": 7.10509181022644,
+  "python": "3.10.20",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "numpy": "2.2.6",
+  "pandas": "2.3.3",
+  "matplotlib": "3.10.9"
+}

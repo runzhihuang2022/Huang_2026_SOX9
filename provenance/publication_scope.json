@@ -1,0 +1,17 @@
+{
+  "repository": "https://github.com/runzhihuang2022/Huang_2026_SOX9",
+  "publication_preparation_date": "2026-10-20",
+  "scientific_baseline": "2026-10-09 selected19 full-cell analysis",
+  "prepared_package": "2026-10-16",
+  "data_scope": "Deidentified processed aggregates and existing computational reference panels only",
+  "raw_human_matrices_included": false,
+  "credentials_included": false,
+  "user_password_used": false,
+  "author_instruction": "User explicitly requested public upload to this named repository on 20 October 2026",
+  "whole_manuscript_reproduction": "partial; missing evidence retained in provenance/missing_data.csv",
+  "layout_references": [
+    "https://github.com/YongxinLiu/Zhang2019NBT",
+    "https://github.com/runzhihuang2022/Huang_20251224_iMeta"
+  ],
+  "license": "No blanket license assigned; source terms retained"
+}

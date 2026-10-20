@@ -1,0 +1,9 @@
+﻿section,source_part,region,n_source_Fib,dual_positive,percent,unit,P_value,BH_FDR,test_status
+2 mph,2mph,Scarless side,39282,130,0.3309403798177282,Spatial observations / bins,NE,NE,No biological-replicate test: donor independence unavailable
+2 mph,2mph,Scar side,7191,19,0.2642191628424419,Spatial observations / bins,NE,NE,No biological-replicate test: donor independence unavailable
+6 mph,6mph_p1,Scarless side,12063,32,0.265273978280693,Spatial observations / bins,NE,NE,No biological-replicate test: donor independence unavailable
+6 mph,6mph_p1,Scar side,15788,42,0.2660248289840385,Spatial observations / bins,NE,NE,No biological-replicate test: donor independence unavailable
+6 mph,6mph_p2,Scarless side,10388,25,0.2406623026569118,Spatial observations / bins,NE,NE,No biological-replicate test: donor independence unavailable
+6 mph,6mph_p2,Scar side,14459,53,0.3665537035756276,Spatial observations / bins,NE,NE,No biological-replicate test: donor independence unavailable
+9 mph,9mph,Scarless side,27275,75,0.2749770852428964,Spatial observations / bins,NE,NE,No biological-replicate test: donor independence unavailable
+9 mph,9mph,Scar side,25329,53,0.2092463184492084,Spatial observations / bins,NE,NE,No biological-replicate test: donor independence unavailable
